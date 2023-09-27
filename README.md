@@ -13,7 +13,7 @@ https://github.com/mcmickburns/iceriverminer_dump/blob/main/OS/KS3L/etc/rc0.d/K9
 # OS 
 The OS dump is located in the OS folder. 
 <br>
-The OS dump was taken from a KS3L. 
+The OS dump was taken from a KS3L that has not been updated to the lastest version.  
 
 # Firmware
 The firmware folder contains firmware from 
