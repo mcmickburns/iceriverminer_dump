@@ -3,6 +3,11 @@ Dump of iceriver firmware files and filesystem
 <br>
 Join the kaspa discord: https://discord.gg/kS3SK5F36R
 
+# Gernal info
+The startup service for the miner is found at: 
+<br>
+https://github.com/mcmickburns/iceriverminer_dump/blob/main/OS/KS3L/etc/rc0.d/K99bgserver.sh 
+
 
 
 # OS 
