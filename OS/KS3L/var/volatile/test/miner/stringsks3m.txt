@@ -1,0 +1,13608 @@
+/lib/ld-linux-armhf.so.3
+libcurl.so.4
+curl_easy_getinfo
+curl_easy_setopt
+__gmon_start__
+curl_easy_reset
+_ITM_deregisterTMCloneTable
+curl_easy_init
+_ITM_registerTMCloneTable
+curl_slist_append
+curl_slist_free_all
+curl_version
+curl_easy_perform
+curl_easy_cleanup
+curl_global_init
+libz.so.1
+libssl.so.1.1
+libcrypto.so.1.1
+SHA256
+SHA256_Init
+SHA1_Update
+SHA256_Final
+SHA1_Init
+SHA256_Update
+SHA1_Final
+libpthread.so.0
+pthread_attr_init
+pthread_mutex_unlock
+pthread_rwlock_rdlock
+pthread_join
+pthread_create
+pthread_rwlock_wrlock
+__errno_location
+lseek
+send
+waitpid
+pthread_cond_signal
+pthread_attr_destroy
+pthread_setaffinity_np
+pthread_mutex_lock
+pthread_self
+pthread_rwlock_init
+pthread_mutex_destroy
+pthread_cond_wait
+accept
+pthread_cond_destroy
+pthread_rwlock_unlock
+pthread_cond_timedwait
+pthread_detach
+pthread_exit
+recv
+pthread_cond_init
+pthread_rwlock_destroy
+fcntl
+pthread_mutex_init
+libstdc++.so.6
+_Znaj
+_ZdaPv
+_ZdlPv
+__aeabi_atexit
+__gxx_personality_v0
+__cxa_end_cleanup
+_ZNSt8ios_base4InitD1Ev
+_ZNSt8ios_base4InitC1Ev
+_Znwj
+libm.so.6
+sqrt
+libgcc_s.so.1
+__aeabi_uldivmod
+__aeabi_uidiv
+__aeabi_ldivmod
+__aeabi_idivmod
+__aeabi_d2ulz
+__aeabi_ul2d
+__aeabi_unwind_cpp_pr0
+__aeabi_d2lz
+__aeabi_uidivmod
+__aeabi_idiv
+__aeabi_l2d
+__aeabi_unwind_cpp_pr1
+libc.so.6
+socket
+fflush
+strcpy
+execl
+readdir
+sprintf
+srand
+fopen
+strncmp
+optind
+strrchr
+pipe
+__strdup
+cfmakeraw
+perror
+__isoc99_sscanf
+closedir
+inet_ntoa
+ftell
+strncpy
+fork
+putchar
+listen
+select
+realloc
+abort
+stdin
+strtoll
+memchr
+getpid
+__assert_fail
+localtime_r
+strtod
+gmtime
+strtok
+strtol
+isatty
+syslog
+cfsetispeed
+fgetc
+sched_setaffinity
+calloc
+strlen
+openlog
+memset
+dirname
+localeconv
+strstr
+tcsetattr
+bind
+fseek
+chdir
+memcmp
+getdelim
+dup2
+vsnprintf
+stdout
+__isoc99_fscanf
+inet_addr
+fputs
+memcpy
+fclose
+strtoul
+setsockopt
+malloc
+strcat
+strcasecmp
+remove
+sched_setscheduler
+opendir
+__ctype_b_loc
+getenv
+optarg
+stderr
+ioctl
+system
+readlink
+getopt_long
+strncasecmp
+__gnu_mcount_nc
+usleep
+fwrite
+fread
+gettimeofday
+tcflush
+localtime
+difftime
+strchr
+qsort
+tcgetattr
+__ctype_toupper_loc
+setsid
+cfsetospeed
+__xstat
+memmove
+strcmp
+strerror
+__libc_start_main
+stpcpy
+setpriority
+vfprintf
+sysconf
+free
+GLIBC_2.4
+GCC_3.5
+CXXABI_1.3
+CXXABI_ARM_1.3.3
+GLIBCXX_3.4
+OPENSSL_1_1_0
+GLIBC_2.8
+GLIBC_2.7
+/!HF
+QF(F
+-qXF
+IFc 
+QF(F
+haJF
+Tb+m
+<q0F
+yq8F
+$A F
+F0F "
+(h!i
+g{+h7
+:vvvvvvv::vvvvvvvvvvvvvvvvv:vvv:
+`[0F
+@aiJ
+MbP?-
+%'F&F
+lqPF
+xqPF
+4QPF
+1F8F
+ #PF
+'F&F
+'F&F
+'F&F
+4F.F
+!F@F
+@aPF
+!F:F
+3#Dd+@
+IF#D
+8aHF
+IF"F
+JF1F
+BFIF
+P	8F
+) "DBDd*
+cD4"
+ #PF
+PqPF
+49F8
+)0L"#D
+49F8
+)0#D
+'F&F#
+F3` "3q
+8a"F
+PFJF
+!FPF
+#$' '
+	@"HF
++F2F!F(
+;k`{
+@"1F
+ "1F
+XF+F
+2@F<;
+x0F/+
++yh(
+8iyi
+kpbD
+$q3D
+(p8hyh
+8iyi
+<C F
+"F1F
+ " F
+BF9F
+AF8F
+1j	*
+FOGN
+ ! F
+#qEO
+P" F1F
+8ASF
+d	8F
+!F@F
+tA+F"F
+l(FD*a
+1FHF
+ !HF
+q\K F
+tR#F
+F1F F
+!F8F
+j0jY
+`#`U
+1FHF
+1FHF
+HF !
+8FaF
+xO+E
+CxK+B
+Tq8F
+HP9F
+r*I0F
+1FHF
+IF[h
+1hPF:h
+1hPF
+MbP?0
+FMF$
+L%DF.F
+*F!FXF
+*F!FXF
+!"[I
+33`TH
+H%L&
+MbP?
+BF1F
+8m*'m22mm!!''2!i!!!mcm***!m!**imm8'mmm!]]cm**c2!!!!!!cccccc*ii..c
+rDI4
+*F!Fx
+%DF.FO
+l1 "
+l%DF.F
+FMF$
+"!F F
+`(F1F
+(FAF
+<C F
+"FAF
+	4LG
+*FAF
+)F0F
+QFhFS
+FF|! F
+!F0F
+ 1	"
+:! F
+F@! F
+;:!(F
+xj0h
+ZF)F0`
+IFRF@F
+@#3p
+ F)F
+p!"F
+K! F
+M! F
+ FG!
+:! F
+xf8h
+BF!F8`
+0`kx
+xx#kp
+2F9h F
+0 F*F
+(`#x
+cxx""p
+5`0c
+#3c2
+!*F F
+,1	"
+:! F
+.! F
+!F0F
+!F0F
+3`3hS
+, !F
+4 !F
+\@BF;F)F
+AF D
+@s1F
+rqIqH
+)FRF
+`p3h
+F,Fa
+CF:F1F
+@F2F
+p1F8F
+-h2h
+P1h(F
+1Fo 
+9Fp 
+QFu 
+@QPF
+CxK+
+NBNA
+!F8F
+ F1h
+!/hO
+*h0F
+LvKF
++h0F
+FpGAh
+FpGp
+F"F1D
+` Fp
+2F:!XF
+YFRF@Fw
+)F:F F
+P#x{
+%T#xC
+8#\7
+ `*FAFf`8D
+,FjB
+1Fzh h
+1Fzh h
+1Fzh h
+1Fzh h
+1Fzh h
+ryHF
+ aCF2F
+F3F~a
+q*F F
+j	xB0
+PcX"
+4D8F
+1F F
+MbP?
+FaFO
+Qq8F
+"@!8F
+"-!8F
+"c!8F
+"y!8F
+-q8F
+x#e!
+"k!8F
+"/!8F
+F<pMF
+"h"*	
+.!0"9p
+"4!8F
+")!8F
+"J! F
+"N! F
+"c! F
+"y! F
+x#e!
+/(F9F
+/(F9F
+ [FRF
+#F.F
+% p'F
+ Yhbp
+FCh 
+cLhD
+`ThKh
+EiLi
+EhLh
+/8FAF
+/0F9F
+$`_`
+(F "
+(F "
+/ChR
+;FyBO
+\#F=CL
+B2F#F	
+!FPF
+L!:F
+"9F0F
++FjBO
+p;F:F
+)FjBO
+"J! F
+"N! F
+"c! F
+"y! F
+x#e!
+"=! F
+")! F
+*FQF
+9F0F
+KFJF
+x#C@
+m	8F
+@Q F
+xO+*
+CxK+
+AF(F
+0FRF
+pQ F
+3C`G
+HQ F
+IF0F
+RFYF
+;s`[
+pQ(F
+3C`G
+HQ(F
+QFHF
+"QFXF
+hs*`
+@Q F
+%chZ
+9F0F
+TQ F
+,qHF
+lqHF
+	@"HF
+@!HF
+TQRF
+	@"AFHF
+HF@!
+4!HF
+)FP"
+F8FZ
+9F0F
+	@"AFHF
+HF@!
+AF8F
+ru(F
+TQRF
+Tq*F8F
+qCF*F
+MbP?I
+TQRF
+)FHF
+9F "C
+P!HF
+rw8F
+D1IF*F
+Q!(D
+L#8F
+;x@F
+KFBF
+1F(F
+DP4 F
+KFBF
++F(FS
+'e`n`
+#!h 
+:F1F
+#xAF
+!xJF3x
+"x9F
+ 	,F
+"xAF
+  AF
+IFsx
+QFkx
+QFsx
+QFsx
+QFsx
+QFsx
+QFsx
+QFsx
+QFsx
+QFsx
+QFsx
+QFsx
+QFsx
+QFsx
+QFsx
+QFsx
+QFsx
+QFsx
+QFsx
+QFsx
+QFsx
+QFsx
+QFsx
+QFsx
+QFsx
+QFsx
+QFsx
+QFsx
+QFsx
+QFsx
+QFsx
+QFsx
+QFsx
+QFsx
+QFsx
+QFsx
+QFsx
+QFsx
+QFsx
+QFsx
+QFsx
+QFsx
+QFsx
+QFsx
+QFsx
+QFsx
+QFsx
+QFsx
+QFsx
+QFsx
+QFsx
+QFsx
+QFsx
+QFsx
+QFsx
+QFsx
+QFsx
+QFsx
+QFsx
+QFsx
+QFsx
+QFsx
+QFsx
+QFsx
+QFsx
+IF{x
+F+pW
+4 (F1F
+MbP?p
+MbP?
+,! F
+bx:*
+=(!FO
+tQJF
+/! F
+C0`u
+.! F
+#x%F[
+tQJF
+1F%F
+8;\|+
+F1F2F
+r9F@F
+@F/!
+|#/!
+p0F:!
+AF:F
+2F@F
+IF(F3D
+MbP?
+r+F1F8F
+&F'F
+QF F
+IF F
+ FAF
+9F0F
+3F;D
+hnFIh
+ iai
++F1F
+D D3
+\@Ci
+L@Aj	
+kT@Bk
+\@Cl
+0Q@1
+L@aF6
+t{@	
+	$fF
+/FP@_@5F
+V@+@/F
+D@Q@
+i@u@
+F Fl@
+Y@Z@=
+G@8F	
+c@\F
+1G@A
+jbFk@
+Q|_@ 
+r@.FG
+<FaFD
+L	W@
+qT@j
+RF`@
+Cp@$
+5FF@ F*
+J@b@
+C	N@
+|@H@
+Q@B@$
+	L@A
+0iF F:F
+0`q`
+iF F:F
+0`q`
+0iF F:F
+0`q`
+iF F:F
+0`q`
+`g.U
+0:FiFh# F
+)0nF
+:FiFh# F
+)0nF
+`G.]
+0:FiFH# F
+)0nF
+:FiFH# F
+)0nF
+fD1F
+?HFZ
+h HF
+h HF
+h HF
+h HF
+@HFN@
+h HF
+h0b@S@
+h`HF
+h HF
+HF\@R
+h =D,D
+hpHF
+hpHF
+h0HF
+@<@HF
+h@HF
+8PZF[
+OHFQj
+ `a`
+f#gcg8
+ 0ZE(D(
+8* D
+cn F!n
+&h F
+1'i2
+BhD(
+*FWF
+@FiF
++F@D#D)F
+h\hc
+g@<F 
+MRhdh
+>PHh
+[hRhP
+4`\hU
+|JIh
+,pHE
+J@qh
+Z@j@3
+	A2Hh
+IohV
+z@~OD@}H
+zHS@
+6PFhW@
+3Fc@X
+Ghs@
+5PGhk@
+4 [h
+@h<F
+A@Xh
+k@#Ob@#
+mhT@
+0`j@
+u@M@
+	8FQ
+6`M@
+Ixhe@8
+Ihr@
+dhZ@
+7phh
+7pNh#
+vKsM
+@hvhW
+cIS@
+2 mh
+n@YI	
+ VL@h?
+6Jmhy@
+,%N@h
+50@h
+f4FV
+{@7F
+\l@UF
+WhX@
+D(MU
+fFs@
+4 [h
+^@Sh
+6P[hl@X@
+CX@$
+5P_h
+7P_hl@
+L@x@
+lN_h
+7P[h
+:0r@@h)
+X@A@\
+>0A@
+k@Eh{@
+POi@
+C@i@HM
+	mh$
+1JM@;
+[hJ@\@$
+5PYh	
+j@b@
+Q@`h
+mhA@
+6pi@A
+Vhc@
+4@Rh
+T@xJ`@wL&
+6`pJ
+6`bh)
+>sn@[
+4P^@
+TOe@a@RL[h
+6`4F~h
+?Mx@
+		h@-MC@
+Jmh{@	
+4@jKP
+pIh%
+Q@]J
+B@Y@
+@hY@.
+P@Y@
+RhY@
+RhY@
+00IhxhS@
+L@hZ@X
+Ob@A@
+`LJ@U
+[hJ@
+IHj@\h
+b@^h
+>&M@
+2L2O
+'NK@'IE@dh
+1`Qh
+6`M@
+[hIhP
+Y@qK
+oJh@
+@hU@	
+c@_LX
+UKmh
+dho@
+,BKx@BO
+T@"F
+k@b@
+ ge@
+0P@1
++F0D#D)F&D
+i]iT
+4@9F
+QhVJ
+00RhB
+mh2F
+		)I
+NmhH
+2Pvh
+ZhDK
+"F|h1O*
+3pvh
+6`Oh
+7`_h
+5POh~
+30GOu
+6`(F
+^L@h@
+h[MD
+z@/O?
+:FdhIhW
+5PAhH
+J@hC
+,,FP
+`@|h
+b@|h
+f@4F
+`z@H
+N|@<
+c@,F~
+Ok@Q@
+L@hT
+oORh
+[hq@
+NZ@t
+>ccH
+HMF@{
+0@hh
+wh4IVh
+1LP@E
+30G@D
+Rh,H
+f@o@
+5PCh
+BhmH*
+s@kNC@iHV
+s@hNzh]@+
+10j@$
+>SZ@
+Kh@S
+0h@"
+`@Z@
+5Pbh
+]hH@K
+U@{h
+5PpL
+FE@8F
+U@WO
+s@TJ
+1P@I-
+M@(I
+10hh$I
+6`A@}
+uMB@
+7poM
+ihPMx
+DLK@
+eh9L
+		Nh
+*LQ@+JN
+LE@sh
+JF@ FM@
+2 lh
+I{M-
+H@RhhIU
+T@hJ
+[ht@
+vhNIU
+MKu@"
+l[hU
+2 3Os@1Nj@%
+r@*NT
+0pr@
+Ok@r@Eh
+k@Ih
+o@uh	
+pJQ@
+GT@c
+aFk@o
+Js@R
+c@}Lj@Eh
+.ThV
+7P[hl@5
+Gy@S
+t@QNy@.
+7`_h
+f@y@CO
+]hf@
+i@7M
+7@mh
+i@6M
+f@A@V@
+NUh 
+7 IhT@,
+>'T@
+8 Gh!
+W@i@$
+6`UhBh
+dh}@Ihn@
+ML@~@
+Ih^@X
+JIh^@"
+Yhf@4
+nKpN@hS
+Ih]@Z
+30Rhk@B@-
+\r@5
+6PFhk@
+5PGh
+k@c@TLz@
+8PKLHh[
+B@FHT
+H[hEN
+Ci@V
+\J@V
+lj@.Ms@#
+FmhK@)I[
+K@X@
+P@mh
+30qhU
+NPh{@`
+>&h@p@
+NS@V
+k@p@
+*p@U
+Vh@hU
+dh{@/
+>ce@W
+a@|L[h
+7@]@
+gJcNR
+i@dM
+2`JhDIS@Q
+RhD@S@W
+D@>HS@
+:LZ@
+[hH@
+j@,K
+>0Mh
+Y@#Hj@
+mhH@
+L@Sh
+IhT@j
+2 L@$
+|h/F
+r@oh
+@h\@T
+r@rN\@
+0|@rO
+\O\MU
+}ha@XO]
+ghi@
+7pPNeh#
+B@9H
+7`oh
+{@ghC@
+OHhk@.
+5PB@
+h`@0
+h@oO
+	h@\
+`i@z
+r@WN5
+Q@zhFO)
+5PX@6
+L3F{@YO
+N@=IS@
+Rhn@3
+AS@n@4
+k@1M
+n@Rh
+Phn@
+60`@
+LS@h@"F
+6 eh
+4`Th
+Js@0
+dhS@
+dhS@
+S@dh
+K`@X
+60Rh[
+>V@hc@k@
+MB@r@U
+0PJ@
+Ih]@
+HQ@P
+Rh]@
+30ah@hS@A@
+a@k@
+C@a@Th]@^K
+Vh]@
+Qh]@
+LRhK@W
+P@`@2LK@T
+J*OThK@(I
+UhK@W
+ThK@#
+RhK@
+mhK@V
+LK@T
+50dhK@ 
+6PW@Nh
+@hJ@X@^
+9 C@
+Q@@h
+4 @hJ@
+[he@
+`MQh	
+2 ^hU
+70UOf@"
+,C@f
+NOdhC@IHf@
+C@n@EM
+4pDh
+{@f@=L
+0P'F
+.L@h
+7 "OIhS@T
+A@S@q@
+4@@hc@
+Rhs@k@
+ph&F
+8@r@
+z@M@
+dhy@
+P9F~L#
+6P&F
+}hdhvO
+B@lH
+eh7L
+o@)M&JU
+4@y@+
+Bh_@
+D@ph
+IP@Zh
+{@q@
+B@bHT
+dOc@
+7PXO
+PSOr@
+mhs@
+|@FOvhW
+p@2NV
+r@-N
+1rAA
+q,F_q
+(FH4?
+E@h	
+[hJ@
+H@lO
+J@mh!7<
+[hRh
+KUh#
+70Gh
+\@:F
+Jk@4
+	vNV
+1`aL
+C@VH
+2 xh
+0P|h
+&K(J
+[hw@
+dhRhQ
+30A@
+7Pa@lO
+4@x@
+N@KI
+N@1F
+#RhZ
+N@hV
+z@oh
+>5j@
+Y@a@
+9P^h
+z@_h!
+_@jKE@
+Rh]@
+ [h7
+]@M@
+>@z@
+.Zhe@
+L@h$
+6pA@dh(
+HJ@c@
+UKJ@+
+shNN'
+BMB@Q
+4`@L,
+Mh;OT
+@h(M
+<(FQ
+5Pdh0
+i@@h[hgO
+dMRhZ
+b@[L
+j@SO
+H@MO
+7@4O
+.Ovh
+O@9F
+z@#OW
+W@\@:F#F
+M@)FK
+8"%d
+@	*F
+P	*F
+	[hA
+1Rhh
+7pIh5
+'Rh7
+	O[h
+	bh&
+XJvh
+	=OG
+4PQh
+RhIh
+60Rh
+LIhvh
+5POh
+L[hC
+6`]h[
+rLmhS
+mhIhD
+FELL
+lz@Ih
+6p^h
+[hvh7
+L[h4
+6`z@7
+F`LT
+!Rh<
+thz@K@
+<O^@O
+OU@R
+mhr@?
+OK@X
+dhJ@
+[hi@"
+q@k@A
+S@q@
+Rhq@
+Thq@
+: DM[hC
+;NIhdh^
+L[hz@
+[hU@
+	U@R
+([hU@
+2 \h
+_hU@
+70whVhQ
+6`mh
+[hu@_
+k@FM{@U
+z@ohD
+30mh\
+Kmh/
+Q@kh
+FvhQ
+2 vhS
+; vhW
+hQ@gJ}@
+FRJR
+7pq@
+208Js@
+IohV
++xLmh
+XImh
+2 FI
+mhRh\
+4@}@
+F:LT
+,Kvh"
+pt@&F
+F#LT
+M@)F
+b@o@
+|b@#
+{@wF
+C@t@
+X3N@B
+xE@B
+	k@%
+YF~A
+(DFI
+8B@?
+U6iA
+	o@<
+qXAH
+	o@>
+Zi	2I
+[xj@O
+U6iA
+	o@:
+cFX@
+N@AFO
+aCAG
+*TA&
+H1MF^@
+E@g@
++B@M@
+Ly^@
+N{7FO
+Zt~A
+PuwFD
+	eE@[
+T@N@]
++B@M@
+BLL@
+Ly^@
+NAQ@
+3F+D
+D%dK
+KFBF
+{r@G
+H@w@
+ElGA
+U@q@"
+EgFO
+.D@x
+h@r@
+qPAH
+OFy@
+h@r@
+wF|@
+N5bFQ@>
+		`F
+		NF
+@uGAH
+VOAF
+DwFK
+)F+`
+^B1@
+pG$rgHba
+$rgHba
+$rgHba
+h*FMh
+bFKk
+4n+D
+qF5D3D
+2h5D
+7AGj.
+5~a@
+_@+F
+4D!D
+DD1D
+,F9D
+F:D$
+%D1D
+7FFF
+t)~@
+Dz@&
+9D'F
+D<D'F
+|'%D
+|8<D
+~(:D
+<F9D
+AF\D
+q){@
+:D9F
+		OF
+Fh\@
+\@a@
+\@y@
+KD;aBi
+Cj_@
+Fk~@
+#Fl@
+JmeFc
+neFS
+ojAn
+ModF
+~Zk@
+`@Jk
+obF<F~
+KFLF
+,CFN
+lx@`@
++ngFZ
+Hnnn
+Z@|@
+iPA	
+F@FIFI
+H@IFO@9F
+IjHF$j
+@FIFI
+H@IFO@9F
+EF@F/
+IFMFO
+ux@OFL@
+x@L@
+HFb@S@p
+`v	Q@R
+fC@N@P
+vF:FB
+~7Fd
+HFQF
+i4F<
+RFp@^
+cZFO
+gj@IF
+FXFO
+~w	@
+Q51F
+Fp@[
+\FEF
+WzFFN
+JOFO
+D5LFB
+J#BFO
+YXC@O
+|@UF'FI
+	RF<
+VNJFD
+TUTF
+aLFD
+"Fx@2
+		:FE
+^CF[
+4@FJF@
+V8F\
+CF:F[
+ZFcF
+fF]FO
+DFMF
+ QFA
+CF:F
+&RFA
+,YFA
+UXc@j
+]FcFi
+UTMFE
+URUF
+i_FT
+G^Z@D
+kMFk@L
+t@fFO
+a`FF
+h^@%
+Q@A@N
+H@qF
+hjMF
+&l@]
+U@,F
+T@"F
+nAnb@5
+,Fif6
+nj@7
+5dEF
+JF9FPF
+;FOF
+OF,F
+D	ZB
+"gYF
+7eEF
+RFOI F
+RF FIF
+ F8">
+6dEE
+JF9FPF
+;FOF
+OF,F
+D	ZB
+"gYF
+7eEF
+RFXI F
+%&N`
+RF FIF
+ F8",
+9FHF
+BF9FPF
+;FGF
+GF,F
+Bg(F
+^FgF
+"F(F
+	%oO
+menC
+(Fx"
+9FHF
+BF9FPF
+;FGF
+GF,F
+UF^FOF
+& ob
+Aeoa
+Ianf
+#YFD
+d7F?
+"\Ff
+fjac
++F1F
+iB@A
+jj@XjG
+B@Xk
+F^hP
++CX@
+		=F
+'F/@
+j@%F
+		.@
+U4]@
+S@5@
+@Z@$
+z@}@
+b@|m
+]@;@.
+K@}@
+K@1	
+	p@*
+g@$	
+Y@%C
+%N@&
+(@5F
+@&F#
+w@q@"@
+y@_@$
+5Cu@
+;Nh@
+		z@'FG@
+o@e@
+n@]F
+=@u@
+@}@2
+f@4F
+5@.F
+A@\@
+r@&FF@
+0`@D
+D,dS
+5DBF
+]`UF
+hWF`
+ UFi
+0%/"
+[F*F]FO
+"^Fc
+"]FO
+(`i`
+8"0#
+2@%/"
+5DBF
+lWFf
+(VFb
+LUFO
+0%/"
+[F*F]FO
+I_Ff
+(^Fc
+#]Fj
+(`i`
+8"0#
+2@%/"
+eDBFVFO
+HQFI
+)XFH
+HaFc
+%)Fk
+QWF^`VF
+ QFe
+6eEK
+8'0%/"
+[F:F_FO
+6dEE
+8"0#
+2@'/"
+BF^F
+cQFO
+HHFc
+ F^`_F
+n[Fb
+#XFn
+pYFl
+8'0%/"b
+[F:F_FO
+n[Fe
+#XFn
+ YFe
+8"0#
+2@'/"g
+p@?i
+8@M@aF
+L@!F+
+|@j@
+E@(F
+FM@.
+		W@*
+nJ@&
+XA@3
+&`x@
+"Fz@0
+'pf@S
+e@TF
+hG@&
+\@#F
+e@tF`@+
+	a@,
+(X@0
+s@b@
+,~@$
+h@z@
+L@!F/
+4t@	
+xX@2
+&`i@(
+FH@$
+y@wF
+{@c@
+n@5F+
+FBFO
+`|@O
+	F@-
+eD@_
+e@N@
+jN@	
+`T@Y
+@PZ@
+D@r@Z
+dPy@
+h ]@
+f@M@+
+L7F	
+p@x@.
+&`a@_
+ZF`@
+Xz@6
+#PL@
+u@_@
+Lo@N@O
+J@r@
+lh@Y
+\y@-
+D@]@
+,C@Y
+ `{@
+LP@_
+F@|@
++0~@
+$@W@
+Lp@O@
+t@A@
+ i@	
+BG@ 
+8i@<
+B@s@	
+' l@!
+f@C@
+LZ@_
+,L@O
+hZ@	
+a@w@
+0 (FF
+U@c@
+CN@	
+H@h@
+(c@Y
+,@C@
+" x@
+Kc@	
+%PF@
+e@z@`F	
+jh@C
+Nz@	
+$@j@Y
+$@h@
+" t@	
+xZ@_
+(0uF
+,C@	
+eFDF
+\{@$
+lY@ 
+\X@ 
+A^@	
+)FB@"
+_@;F
+hT@N
+#0h@%F
+D@ FO
+g]@_
+xD@ FN
+T@L@
+;FS@[
+FS@O
+FS@_
+$1F0F
+!F F
+<P5F
+cl1F2F
+A0Fc
+P#mc
+!"M`
+&d`d
+!F F
+<P5F
+cl1F2F
+A0Fc
+P#mc
+!!M`
+&d`d
+;5"IF
+$1F0F
+!F F
+cl(F)F*Fc
+@.Fc
+`8`(F
+ay`)F
+`*F#mc
+`cmc
+!!N`
+a#nc
+e#f%d
+!F F
+cl(F)F*Fc
+@.Fc
+`8`(F
+ay`)F
+`*F#mc
+`cmc
+! N`
+a#nc
+e#f%d
+;5"AF
+6dEE
+$1F0F
+!F F
+bj`2F
+0-Oc
+7eEF
+!F F
+bj`2F
+0*Oc
+7eEF
+;m"QF
+6dEE
+$1F0F
+!F F
+0(F)F*Fc
+@/Fc
+`0`(F
+aq`)F
+`0a(F
+aqa)F
+A(Fc
+B)Fc
+!F F
+0(F)F*Fc
+@/Fc
+`0`(F
+aq`)F
+`0a(F
+aqa)F
+A(Fc
+B)Fc
+;m"QF
+QlPn*
++F1F
+DLi`F
+.,T@
+W@.D
+1!t@
+7GP@5
+1AuD
+Dw@D@7
+D`@G
+00gFO
+NDt@O
+FgF{@9
+D>D6
+1!wDO
+D`@O
+AFK@
+Dt@O
+99k@O
+NDP@U
+	Z@V
+DbF]
+<,T@;
+991F[
+}@/FZ
+D=F^
+D/D=F
+DwFO
+NDt@
+4D=D
+FH@Z
+33@D
+6Fz@
+6&!D7F
+	!Fy
+5E~@
+DDDQFe
+JFV@
+66k@y
+:.X@O
+H@LFO
+0 g@
+=Dn@O
+D|@c
+e@:F
+5EW@
+DBFO
+9(~@f
+<,UDL
+:J=DO
+U@*F
+Dz@g
+D`@=DO
+FHFg
+Du@ 
+F@0Ff
+33>D4Fg
+F&Fd
+t@&F 
+<D'F
+1A5D
+s@^FO
+33q@O
+aFh@
+:J_@;Fd
+D=D	
+<L;F
+DL@^
+7DD@
+22CD
+p@eDO
+DTFV@
+11U@"F
+tD<D
+<,BD
+Dn@P@O
+8HJ@
+::,D
+qFM@f@)F
+11o@A
+>.j@0DO
+1Ao@O
+Do@f@O
+7G,D7
+335D
+22)D
+aDN@
+6&h@
+>Nh@
+Do@O
+7GvD
+Df@=D
+o@eDO
+>N4F
+22LFO
+D=DU
+11<F
+'D<FS
+Do@O
+D"Fp
+6&o@ DO
+D)Dr
+00g@
+77Z@
+88gD<F
+00/D
+|@'F`
+dYd)
+D,d}
++F1F
+	JQhF
+FM@/
+FU@~
+D,D(D@h
+	EFBDP
+,<5D
+M.DU
+vhAD
+FFUO
+0phhLMW
+<Ddh
+_@i@
+@^HFG@Y
+Ip@B
+HXwFZ
+L@s@2
+g@E@
+f@tF
+#g@O
+HXr@
+y@C@y
+~@7Fj
+FcgO
+cWM;`3F
+` mO
+`amO
+RFYF F
+2HF8"
+IF@" F
+ZFQF F
+cRM;`3F
+` mO
+`amO
+ZFQF F
+2hF8"
+iF@" F
+FcgO
+70RF	
+c:F3`;F
+`%mO
+``mO
+0=`e
+RFYF F
+2HF8"
+#IF@" F
+70ZFQF F
+c:F3`;F
+`%mO
+``mO
+0=`e
+ZFQF F
+2hF8"
+#iF@" F
+6dEE
+ah`)`
+bia*a
+`jb(b
+AFO`
+7eEF
+ZF F
+RFIF F
+ah`)`
+bia*a
+`jb(b
+A>O`
+7eEF
+RFIF F
+6dEE
+`j`(`
+aha)a
+bib*b
+`jc(c
+AHO`
+7eEF
+ZF F
+" F 
+w0RFIF F
+`j`(`
+aha)a
+bib*b
+`jc(c
+A?O`
+7eEF
+RFIF F
+EJ@A
++F1F
+<LS@*
+>Ng@
+11e@O
+DZ@g@
+7"ok
+GY5D
+Dpj4
+33n@5
+11%FuD4
+>.,F
+l@%F4
+6&GD
+<Ll@4
+Dg@3
+D{@3
+DX@8
+11Z@6
+7's@4
+D4D8
+!F\Fc@
+<LN@
+7',D8
+D=D*F
+00i@6
+33g@O
+D~@B
+5E:D5
+<L"F
+33`@
+DLFa@#
+DB@;
+D"F8
+6&*DS@A
+5E\@#F"
+D<D2
+a@DFf@9
+pFB@
+L@!F6
+11b@
+De@#
+D\DUF
+Df@7
+Dh@O
+F[FY@7
+<LY@
+00Y@
+5EY@
+Dy@8
+<,z@GFO
+22~@
+D>D6
+7Gq@9
+<Lf@
+00M@)F6
+DM@O
+\Df@
+D+FEF8
+%D+F;
+D/D8
+6&}@O
+D%D|@)F#
+4D5DO
+<LJ@9
+O@9FA
+11wD7
+4$N@
+D0D9
+<LE@
+6F\D
+Db@#
+22dD
+PDc@
+33a@7
+11'D 
+<D9D#
+_@;F
+7G@F
+2DA@
+228D
+D%FO
+110D
+22 D
+fFu@
+DC@O
+7#uFO
+	@De@B@
+4dsd(
+D4dG
+w/dhd
+FcgO
+70RF	
+c*F3`+F
+eu`@
+`'mO
+``mO
+RFYF F
+2HF8"
+#IF@" F
++F1F
+K@A@O
+F9F	
+.@]@Q@
++C{@
++C{@
+D,b'
+)@8D
+j{j=m
+pL@q@
+|t@q@
+f@l@
++Cs@
+3Ck@
+3Cc@
+#FQ@
+&`e`
+`!aba
+C0DsU
+'hB@'
+p@t@
+~~t@
+J@X@0
+K@Q@
+k@K@
+o@M@.
+qts@,
+P@n@
+~~c@
++C{@
+)@]@
++C{@
+aaa1
+)@8D
+Xh^i
+ir@/
+M@r@
+E@P@5
+rri@
+w@>F
+rD@G@
+g@!F!
+U@S@
+l@Z@ 
+]@P@
+O]@P@
++C{@
++C{@
++C{@
+E@(F
+=F<F8F:F	
++F1F
+FIi%
+h~@ 
+h@y@
+Z@a@
+}@/F
+p@>FO
+=Fu@
++C{@
++C{@
+^@ I
+#D+b5
++F1F
+	k@"
+}@Oh
+Fq@4
+S@U@
+t@Q@%
+Fh@u@
+3sh@:
+;{t@
+|N@=
+w@u@ 
+Qs@-
+#F~@
++C{@
++C{@
+"tGF
+#D+bA
+eF@D
+hHD 
+F5D"
+iIi'D
+tTKD
+yYWD
+xh"D
+yY2D
+p`)F
+{[.D
+pP[D
+sceD
+FKD	
+pP[D
+sceD
+pP[D
+sceD
+D&b%
+C0DsU
+j4kuk
+O@Qi
+ue3F
+1D>F
+uU9D
+9F)D
+9F)D
+wW4F
+9F)D
+D F	
+9F)D
+wW4F
+7D9F
+Qb/F
+e+F%F
+*b	+z
+=F?~
+;F+D
+ F8D<
+&B>F
+E9i:j
+)@~4
+),F4D
+l)mhm
+S@.F*i
+K@qi
+j+FS@
+FBjK@
+;FS@
+5Fvk
+X@+F
+y|T@
+p#PF	
+PD9D5
+	I5D
+'@<FG
+D+D	
+!&@b
+T@TD
+tD7D
+,)@B
+JcFD
+rd=D.
++@ @
+AZ@	
+z@OFy@f
+MDSD
+NB@r
+FV@@
+T(@O
+L@dD
+EY@s
+Ik@7
+@k@	
+BDs@~
+0{3D
+bD'D
+l@%F
+p@!@
+1qr@
+2rs@
+3shd(Fnf
+&FVD
+		K`
+ 7iCE
+Pd(F
+xt)mlm
+n@n,
+.omo
+MF*F
+Y@+F
+K#F"
+L#F3Cz
+%HDY
+#0C!@	
+tDO@
+PS`D
+H@aF
+BaF$
+$W1D
+Tw%D
+{naD~@
+w@>F
+pD:F
+`8:D
+F'@O
+xG#F
+ $0D
+LF0D
+~l%C
+hh@D
+ql7D
+(4"C
+X*D]
+{NW@O
+rD^@
+\@+F9
+D(Dw
+F'C)
+4@&F
+gD%D
+FsD.
+,D%F
+dF*D
+8ugFYD
+Aj@C
+SfFO
+C@0F%
+Db@~
+$S+Cd
+D/F 
+bD D
+;y+D
+#@N@
+0t D
+GDX@
+\@#F
+]Dt@
+TDp@
+HDq@
+ADr@
+UDt@
+HDDDq@
+bDs@
+6dEE
+!3;d
+B0D(
+,F"F-
+0l'D D@(0d
+g F'`
+ai`9F
+G2Fc
+`#mc
+@!Oc
+7eEF
+!3#d
+'l<"
+c Fc`
+br`:F
+`cmc
+!3#d
+6dEE
+!3;d
+B0D(
+,F"F-
+0l'D D@(0d
+g F'`
+`9F#mc
+G2Fc
+`cmc
+@!Oc
+a#nc
+7eEF
+!3#d
+'l<"
+c Fc`
+`:F#mc
+a#nc
+!3#d
+B0D(
+,F"F-
+'D D
+g F'`
+c Fc`
+0=F:F8Fc
+G)Fc
+g7`/F
+a1a9F
+gwa/F
+B0D(
+,F"F-
+'D D
+g F'`
+!;@ F
+g Fg`
+02F0F1Fc
+g/a7F
+a)b9F
+gob7F
+48F[
+$pTF
+" _@[
+j@{@
+t@A@
+Hj@	
+" IFdF
+&`W@
+r@c@
+&`g@
+DIF[
+s@c@
+b@i@_
+l@r@
+$G@[
+|@s@
+h@K@
+&`O@_
+(l@D@
+s@C@
+'pBF
+	G@[
+o@pF
+}@s@
+&`J@
+i@X@
+3E@/
+1o@*
+i@%F
+	P@Z
+Fb@p@#
+	`@-
+C@y@
+Z@y@
+]@q@
+]@L@7
+r@~@Z@
+	Q@/
+J@Z@A@
+3S@,
+1Z@C@4
+:Z@U
+J@i@
+5e@X
+48F[
+$pTF
+" _@[
+j@{@
+t@A@
+XF@$
+" IFdF
+&`W@
+Dn@	
+r@c@
+&`g@
+DIF[
+s@c@
+b@i@_
+TQF[
+\{@H@
+l@K@
+xl@2
+$G@[
+|@s@
+h@K@
+&`O@_
+"^@!
+(l@D@
+s@C@
+'p^@"
+.aF[
+'f@[
+i@C@
+3E@/
+1o@*
+i@%F
+	P@Z
+Fb@p@
+	`@-
+C@y@
+Z@y@
+]@q@
+]@L@7
+r@~@Z@
+	Q@/
+J@A@Z@Y@[
+9]@#
+3S@,
+1Z@C@4
+:Z@Z
+8J@i@
+5e@X
+B3pG
+B9F(
+ D,D
+B3pG
+B9F(
+ D,D
+B3pG
+B9F(
+ D,D
+&fTr
+o` g Fag
+5fEG
+op g Fag
+5gEF
+B3pG
+B9F(
+ D,D
+&fTr
+o` g Fag
+5fEG
+op g Fag
+5gEF
+!ps@
+p@Q@,
+z@U@
+	`Y@
+CdF*F&
+A@`@
+A@p@]@
+t c@
+%K@!
+AeFN
+.\@&
+x@y@
+s@E@
+		;CJ
+tL@X@
+Ah@"
+EC@#
+$e@X
+s@D@
+a@w@
+` !C"
+Jr@#
+Jp@*
+&K@'
+#Cp@
+	g@&
+M@s@
+C%C(
+Di@X
+h@Y@)
+cFl@
+BK@(
+)CB@
+@^@)
+FgFN
+4M@a@
+#F,F
+K@"F
+C#Fj@
+aF#C
+IL@_
+}@g@
+u@T@
+*F1F F
+c@M@
+#0i@
+FV@B
+9F`"J
+wFe@
+(N@X
+k@C@
+{@x@
+`FIFLF
+~@Q@
+}@Q@
+7Fg@
+B@;C
+A&CN
+!Fd"I
+h@S@
+*Q@b@
+.H@_
+,tvO
+Ltp,
+4rsr
+TFq@
+$A@X
+$:F_
+FaF_
+JB@`@_
+j@u@
+b@w@C
+#0D@
+CV@'
+#0f@
+B3CJ
+	]@ 
+L@A@;F
+		`@
+l<F_
+w@&F
+t`@\@
+;CA@
+\@C@M@
+Ah@%
+b@9C
+w@&F%
+`@\@M@
+|@N@1F*
+G;CK
+l"$%
+$"l%
+2F)FB
+*F1F
+ke@_
+V@Z@~@j@
+l"4`
+B@K@
+CcF9
+,`l"`F
+#0V@
+j@i@
+#Cp@I
+F|@	
+l|v-
+q=F;r|r
+rFF0
+N,wO
+&@,F
+H%F:
+/0+F
+*F1F F
+!Fl"?
+p@n@
+LV@L
+o@5F
+$w@Y
+Jf@Y
+F+FO
+uTt<
+aTvO
+psr1qtq
+\""LO
+`(aia
+;F9Ff
+pfi`
+(aia
+x@V@
+^@Y@
+LB@Y
+Lu@Q@
+X@T@
+{@F@
+,F@@F
+F=C1CS@
+u@J@#
+A;CH
+FQ@	
+Nt@&F
+;F5C
+C<C#
+Cg@9F
+ti@Y
+h@e@X@
+S@u@
+;CE@
+B@ F<FD@%
+L@B@
+G@8F 
+&{@}@
+dY@$
+4y@A@
+No@J@
+H"0%
+0"H%
+LvF_
+	bFI
+N@9F
+ #S@
+	W@}@
+8M@)F
+T@"F%
+'2F!
+4N@$
+)V@!
+	1FO
+hT@_
+|J@!
+4o@N@
+IfFA
+4r@[
+FN@[
+W@^@:F
+C2FG
+u@.F_
+4O@t@
+~@Y@#F
+FS@N
+LvF_
+	bFI
+N@9F
+ #S@
+	W@}@
+8M@)F
+T@"F%
+'2F!
+4N@$
+)V@!
+	1FO
+hT@_
+|J@!
+4o@N@
+IfFA
+4r@[
+FN@[
+W@^@:F
+C2FG
+u@.F_
+4O@t@
+~@Y@#F
+FS@N
+6dEE
+LY@!
+	J@(
+F%C)
+FT@)
+#0y@
+)]@(
+tt@Z
+"cF&
+1C%C
+%P4C#
+Ik@I
+Lr@~@
+4a@Z
+tY@"
+F*F"
+%P4C
+)y@]@
+HK@(
+cN@_
+.C4C
+L]@*
+	L|@
+~@M@)F(
+F3CI
+" |@&
+(N@T@
+6dEE
+i]j?j
+c@f@
+ f@z@
+pJ@	
+{@oi
+T@*i
+S@jhK@
+Pr@|@
+w@>F
+qqs@\@
+|b]@
+4V@}@O
+c@DF
+K@g@
+ppS@Y@
+yir@	
+Y@+C
+c@tF
+f@4F
+vvE@
+k@w@O
+wgA@
+xhM@
+iC@(i
+Xois@t@
++FohQ@
+tdG@
+|Z@O
+S@P@
+#F3C
+F@8C
+rr^@
+ppu@
+qqs@
+|lLF^@O
+j@`@
+U@F@
+		8C
+T@BF
+&C*F
+ppN@
+ttQ@
+K@1F
+|GF|@
+		i@<C
+IU@BF
+ppw@
+ttq@
+~nV@
+X@M@T@
+@/@O
+W@*CO
+N@!C
+ppY@
+ttZ@
+g@C@O
+T@"F
+f@a@
+g@c@	
+Jf@	
+L@)C
+y@p@
+&C}@
+		D@
+		x@
+yiN@
+e@,F
+|l]@
+4F6iE
+#e#F`e
+l@Mi8
+t@CiL
+`\@KF
+,@^@
+$ ^jU@BjU@JjU@
+( U@u@
+jt@>kT@
+<@V@
+40W@
+@kT@
+kV@A
+FYjPk
+h@K@
+|@'F&
+T@G@
+@8F8
+wM@4
+<lE@
+tS@$
+uea@
+W@:F
+srFO
+	!F3
+~nE@
+{ka@{@
+qqD@;
+rrc@#
+yd]@O
+G@w@
+MFc@!
+O@C@6
+O@9F:
+{{1C
+99M@4
+ssG@
+~nX@
+py@O
+tdX@ 
+zc@w@!
+xho@
+gFz@7
+|@K@ 
+Cs@3
+{~t@
+C FO
+xhZ@
+|y{@%
+M@)F
+6{@4
+S@*Fb@5
+~n`@O
+X@r@
+yiw@
+2bK@
+i@C@
+wgz@
+k^h,
+@hQ@A@
+A@ i
+<V@*i
+V@biA@
+hiB@
+RiP@	
+ZiP@
+V@Zj
+fjq@
+vjN@
+$ V@
+YkV@
+<PS@
+< s@~hk@S@>
+f@<i%
+:Cf@	
+Ci@6
+||l@
+{{p@#
+rxA@=
+yi*F
+|l7F
+y@s@
+rd^@
+		^@
+tdZ@
+uu_@;
+vje@$
+.Fb@
+CP@F@
+vv_@
+ssu@
+:nk@
+scg@
+b@;C
+u@s@
+h@w@
+ssG@
+xxP@=
+pqW@
+ttH@
+EFp@
+~U@Q@
+~n^@
+{kV@
+$aF9
+j@D@O
+tq@$
+(Fp@
+G@8F
+pp=C/F$
+{{j@
+rrl@	
+~nU@O
+zl_@
+{n^@
+nl@O
+.E@7
+C|@!
+CJ@=
+C]@#
+"#)@y@S@
+swM@
+		#F
+~l`@
+l`@%
+L@!F 
+G"@O
+qq%C
+Cc@!
+ssg@
+		H@
+{{`@
+pp#C
+xx(F
+%FU@$
+wwh@
+U@Q@2F
+qqC@O
+{`@6
+6fW@
+xe@ 
+cf@ 
+|@C@6
+LG@8F
+=C/F#
+zyl@
+rr~@C
+{{l@
+C(C	
+~nU@O
+zl_@
+xn^@
+|@7F
+	|@$
+CN@O
+ss)@y@P@
+~~C@
+ssD@
+i@B@ 
+tiw@O
+8hS@#
+pN@O
+y@7F
+w@>F
+	Z@ 
+HFC@
+G@8FO
+|lT@
+n`@_@
+0`^@
+(o@7
+xhG@
+Y@]@O
+J@!F
+L@!F%
+pp'C 
+%FU@O
+99M@%
+{@s@
+,,F 
+qf Fc@
+scf@
+wgJ@
+`2asa
+a2bsb
+"!F F
+1F F
+1D:F F
+ah)Da`
+FGh!F
+" FO
+c*F3`+F
+eu`C
+``iO
+csa#j
+`"aca
+a"bcb
+,8CH
+" FO
+c*F3`+F
+eu`C
+``iO
+csa#j
+`"aca
+a"bcb
+FC`O
+`2asa
+a2bsb
+"!F F
+1F F
+1D:F F
+ah)Da`
+FGh!F
+" FO
+cs`+F'iO
+`eiO
+bra"j
+`"aca
+a"bcb
+,8CH
+" FO
+cs`+F'iO
+`eiO
+bra"j
+`"aca
+a"bcb
+6dEE
+pG,3
+"!F F
+1F F
+1D:F F
+")F(FIO
+iF(F
+ pap
+ qaq
+ rar
+ sas
+ tat
+ uau
+ vav
+ waw
+&0+l
+7dEF
+")F(FHO
+iF(F
+ pap
+ qaq
+ rar
+ sas
+ tat
+ uau
+ vav
+ waw
+&0+l
+7dEF
+6dEE
+pGl3
+"!F F
+1F F
+1D:F F
+"!F F
+iF F
+c2F+`3F'iO
+FgiO
+F'jO
+cka3FgjO
+F'kO
+FgkO
+`(c lO
+aicalO
+7uEF
+"!F F
+iF F
+c2F+`3F'iO
+FgiO
+F'jO
+cka3FgjO
+F'kO
+FgkO
+`(c lO
+aicalO
+7uEF
+4D=CO
+*3Dd
+~J(C
+#<F`
+IeD3
+DgDO
+HK`e
+3F9F
+:h+@
+Y@{h
+P@Q@
+K@J@
+S@:i
+S@3@
+k@~i
+c@S@
+.1Fz@
+@vk`@
+l@f@
+?l.@
+Fl@J@
+{mj@
+5@E@	
+h@!@A@
+@u@	
+r@i@
++:@J@
+)DX@	
+r@h@
+r@/D
+s@B@
+i5=DQ@
+,y@#@
+ l@L@
+7@,F
+%FdF
+N@^@G
+,~@^@&
+FSFCD
+`Xt@
+'l@D@B
+HzF@
+ DQ@k@
+Db@a@
+o2;F
+0KF	
+3F9F
+Ei8FX@
+H 3F
+%@,F
+;@S@%
+		&@
+GX.@
+'L@G
+DV@>@
+#l@	
+:@T@
+i55DB@
+	A@'
+$0@A@
+0D)@
+@C@K
+p@#@
+3DM@
+#8@)
+%DV@
+p@l@
+0Da@
+1U%D
+r@a@
+r@l@
+`T4D]@
+Q@u@
+j@a@
+U!)D
+r@l@
+#:@b@+
+H{A@
+j@a@
+5DA@
+;P@N
++ @K
+	G@L
+ .@~@
+it@#
+|@u@	
+55D\@
+y@t@
+L@w@
+y@l@
++N@f@
+;@U@
+y@4D
+%!@A@
+x@)@
+i@{@B
+]Z_@
+q@`@
+b@H@
+:@C@D
+9&J@+@
+6S@&D
+c@2@
+y@*@C@
+^0S@
+j@{@N
+@!Fq@
+s@"@
+!;@*
+2E8D
+3F9F
+S@bh
+C@*@
+e@2@
+;@,@
+t@\@
+H@P@
++@9@q@
+FY@	
+QFJ@
+F	j	
+@g@	
+*t@(@
+x@t@
+ 2@J@
+Q1DB@
+k@r@
+k@J@
+)Ds@
+XA)D
+i@s@
+"u@]@
+(y@+
+ N@f@
+)`@H@
+>$q@
+"N@(
+!D(@
+1P;@l@0D\@
+,X@`@
+`Fc@
+%\@D@
+'X@h@
+.]@E@
+"X@h@
+!Z@j@
+D;@q@	
+*Y@Q@
+4ES@
+&Y@Q@
+'Z@J@
+		&D
+wi4@
+k@3@
+L@`@D
+$k@;@S@N
+ Q@k@K
+z@K@N
+(lS@I
+J@C@
+y@k@@
+"@Q@D
+%s@J
+!6S@@
+.J@{@H
+#F@F
+"g@~@E
+.@9D
+n@L@F@%
+&o@g@A
+x@\@
+L`@J
+p@]@
+9e@H
+h@L@
+L@8@k@`@	
+)3@C@	
+$;@I
+lB@B
+DS@I
+"@y@C@Q@
+C@J@
+s@J@
+n@Q@
+r@A@
+(@y@
+		E@%
+r|J@
+=)B@
+${U@,
+5J@+
+DS@	
+SH@3D
+h@N@ 
+XD1D
+%gF	
+%sFO
+2D^i
+b@cD
+"@J@
+@o@	
+u@^k
+#@]@
+8`{@
+OFc@
+@`S@
+X@~l
+lT@k@
+.S@wm
+'%@1F]@
+-nC@
+p`}@
+F@V@
+#r@A
+B@DF
+'Fr@
+r@`@
+(:@B@
+:FJ@b@
+GV&DX@	
+j@`@
+!h@P@
+x@*D
+**@r@
+r@`@
+(:@B@
+i>j@
+&DX@	
+j@`@
+XLH@
+!h@P@
+Rx@*D
+.D#F
+V@k@!
+S@;@
+@f@^@
+1ZQ@
+`P0DQ@c@a@
+UaB@1Dk@j@
+H~A@
+D{@#@
+.y@Y@O
+Q@s@
+ 3@b@H
+aZ@	
+$LRD
+"FO@
+}@'FO
+	1DO
+r@B@
+J@cD
+L@f@
+6kM@
+"X@%
+p#@s@C@	
+O@_@
+w@G@
+(:F	
+ u@#@
+@k@	
+$;@k@
+s@j@
+vZ@>D
++DG@
++&@ F&
+p@9@A@
+%`@)
+i@`@
+>Di@P@
+,DX@
+y@h@
+0@a@
+i@D@
+(Dy@
+ l@L@
+/D%F
+K@H@
+A*c@
+K@s@	
+)p@;@
+D;FK@
+x\@)
+`Q/F	
+)D=F
+U#+Da@
+\@Q@T@)@O
+"'@O@
+DQ@)@
+w@s@
+\hY@
+%a@y@
+~y@	
+DKDO
+L@_@
+DL@,@EFg@
+;F@j
+H@!F
+7D>F,
+H@}@
+M@<D
+	5D#
+F@:@MDr@
+p@#@*DC@
+:DK@
+}@k@#
+i@K@(
+k@q@
+ibK@
+N@s@
+#@M@
+<Dr@
+*+@'
+{@b@	
+k@b@
+J@7Dc@U@
+2D\@
+@t@@
+> s@
+z@A@	
+DY@j@A@
+rA)D
+r@E@
+#"@j@A
+*Eq@
+\||@
+@|@E
+_@'@
+1DW@
+	g@j@
+**@z@
+z@A@	
+j@H@
+A@7DJ
+J@(D
+`@J@
+@r@i@
+g@r@
++*@z@
+*2@O
+Z@`@
+hz@&
+Dj@H@
+j@A@
+'"@J@F
+r@i@
+r@i@
+X@#F(
+h@q@
+A@e@
+~@!D
+V@}@
+D@=@
+E@5@
+k@W@
+	<F!
+F'F_DdF
+&DdF,
+&DdF
+&DdF
+&DdF
+&DdF
+D&@"
+%;@C@)
+		;@B
+8@p@E
+@~@!
+.~@(
+T@~@
+7DZ@
+*Fb@
+o6j@&D
+@c@C
+3 S@
+*Ds@	
++F#@
+_@f@
+@~@ 
+*&@B
+8~@#
+^@/@
+:@P@(
+b@+@
+@;F0D#@E
+z@,@
+d*@4Dx@
+j@{@
+ 3@S@
+z<;F
+'c@O
+aFk@
+J@8j
+C@K@
+L@e@
+9@J@
+$l&F
+(f@:F
+Fi@%n"
+Y@k@en1@K@
+TF/F
+Ti5@o@
+-o,F
+@n@}oN@
+J@r@
+~@)@@
+j@s@
+DB@	
+GQ)D
+*)@q@
+s@J@
+DB@	
+#A@a@
+&Dh@
+.X@H@
+&D;@
+%X@H@
+)Y@!
+*L@(
+'`@H@
+>)a@
+"L@D@
+@G@D
+'0g@
+^W@w@
+%L@D@
+)H@`@
+*L@D@
+#H@`@
+*Ea@
+"L@D@
+]Qh@
+!D8@
++E@e@
+(D4@
+&@~@E
+.@g@
+LH@)
+,y@B
+(gA@B
+a@X@
+`@A@N
+`@y@
+\@i@J
+U8@`@A@G
+D`@9@
+n@'@
+9.~@E
+n@y@I
+@p@A@B
+a@X@
+`@A@N
+*\@D@L
+5T@`@A@G
+0@`@
+l@0@
+DO@-
+SV@ 
+C'Q@ 
+b)X@
+>F@)
+4H@'
+		]@
+@n@,
+:@S@
+x@0@
+i@9@
+dFc@
+~@Rk
+^@_@.@
+ ?m	
+m3FF@_@
+@g@w@.F
+GS+D
+ve@>D
+X@y@
+& 8D
+(z@3@
+y@+@
+{@J@
+i1)D
+s@j@
+XA)D
+s@j@
+D(@q@
+#A@a@
+&Y@A@
+%X@H@
+'Y@A@
++^@N@
+,`@H@
+>+a@
+"L@D@
+!D(@
+*F@f@
+0D<@
+ Q@i@
+$P@H@
+&Q@A@
+'P@H@
+.Q@A@
+*F@f@
+0D,@
+)g@w@	
+*:@j@
+b@A@
+b@H@
+<DX@
+r@A@
+A@j@
+r@A@
+:D(@q@`@
+]Qf@
+(@t@
+lJ@C
+(H@j@K
+b@A@
+b@H@
+<DX@
+r@A@
+A@j@
+r@A@
+:D(@q@`@
+Q!f@
+t@(@
+	N@HFJ
+:]@.
+TZ@*
+{<(F
+K@5F
+2@{h7F
+.@c@^@
+k@4@
+t@e@
+_@)@
+k|@L@
+mr@	
+X@,@p@D@
+"`@9@
+A@,@
+D@L@
+t@(@
+>DP@i@`@
+GWX@'Di@
+y@h@
+y@(D
+q@`@
+>DP@i@`@
+X@'Di@
+XD,D
+y@h@
+@y@(D
+`[p@
+$F@C
+s@"Fc@
+@Y@'
+i.@	
+@s@>F
+%0F"
+~@@o
+	T@	
+F5F]D
+%tF!
+	*FI
+	uF*F
+,e@;@K
+k@3@
++<@l@G
+`H~@
+Hw7D
+*.@	
+'DF@
+x@t@
+@`@!
+b@A@
+o6j@
+DC@	
+]RK@
+c@A@
+*+@K@
+C@J@
+K8'@
+c@W@
+W@#@s@
+s@x@
+Dh@s@H@
+j@`@
+Z@A@
+:@C@J@
+&+@S@
+y@*@H
+^0S@
+	j@{@q@"@
+;@S@*
+,;D(
+`1DY`/
+&@^@%
+#@s@
+@bF@iW@w@
+%@E@
+# Fdj
+!<@l@
+8DS@
++@y@
+.A@Q@	
+Dj@	
+K@B@
+s@B@
+:@K@
+C@J@
+XA1D
+0I_@
+*D@"
+	B@C
+%F@f@
+.E@e@
+,f@F@
+'D@	
+@&DM@
+#D@l@
+'6h@
+`T:@
+,DV@
+)U@u@
+		>D
+l@0@
+.x@!
+7\@	
+&E@e@	
+]\`@
+#D@t@
+!F@f@
+"e@u@
+5V@#
+*0@x@@
+X`@A
++o@g@B
+x@\@
+>`@J
+|h@I
+M@l@`@K
+!U@l@G
+<@(D
+u@l@H
+e4u@+
+@n@C
+r@}@
+@u@j@A
+,~@u@@
+j@^@
+	V@#
+O@&@
+"@G@
+Iz@L
+ZD/@
+*0@x@C
+@|@F
+G`@A
+aH'D
+(_@g@I
+x@T@
+#x@B
+V@,@
+~@,@
+$r@A
+b$n@ 
+1V@.
+)T@	
+*H@(
+;KW@
+FDOD
+b$0p
+$T)F
+SF)F
+4dM@
+<l(FO
+XcU@
+}@)F
+l@p@
+s@>F
+kk@	
+?ki@
+r@q@l@
+LDh@
+<D[j
+\Rk]@O
+B@Y@
+n@a@
+^@Z@
+Cb#lS@#dzh
+jV@S@
+4Pr@
+@ M@
+8@S@
+4DQ@
+V@2F
+Bbt@
+jL@O
+t!z@
+Bkb@Bc
+lb@e
+jp@.FO
+@=FV@O
+$0D@
+n@J@e@
+j	l]@
+]@X@
+P43q
+T43r
+X43s
+\43t
+`43u
+d43v
+h43w
+wdFuw
+$D!F
+F/Fl
+\tP@
+HQE@
+tQE@
+dQE@
+\QE@(F
+2^@	
+FJ@)
+tG@O
+4FE@7
+^@#F<
+V<.o
+F`@I
+V@2Fd
+'Fw@o
+8F`@g
+&FF@b
+`Fe@
+V(W@r
+IXZ@
+V.>F
+W@HF
+@r=F
+hqo@
+s@K@z
+U@}@s@
+4"M@%
+F|@"F
+<D2Cv
+h@%F
+4t}@
+TFE@
+0tG@
+PdK@O
+h$J@
+G@O@
+_@A@
+@D^@
+b!Fz
+X,/F
+K@c@
++FK@
+]@+F
+$k@4
+x@dF
+		J@
+o@bFM@
+Fh@c
+0Te@1
+Te@Z
+Te@-
+,$b@X
+x4c@C
+|4c@T
+T4c@=
+X4c@e
+1c@<
+1c@D
+"FcF
+($f@
+pN@T
+mi_@
+L@!F
+q1c@
+tT:i
+o@G@O
+1u@.F
+|<o@
+wWn@
+v&j@
+M@9F
+a@A@
+L@B@
+5gC@
+>[j8
+#Fe@0
+a@,Ft@
+u@&F
+k\@=
+~@\@
+A@X@
+8l]@
+cllO
+"Fj@]@.
+l@{@
+F=Fn
+xXJ@O
+py@!
+q@^@{@ 
+C@}@;
+0`O@O
+wWL@O
+i@e@
+~@^@7
+dFZ@
+:*U@T
+z@f@O
+|<n@O
+\@l@U@}@'
+F^@'
+|,i@
+TH@O
+U@J@3
+E@J@B
+_@c@i
+,CD@O
+3P@b
+i@q@%
+a@p@
+b@Y@d
+4ds@&
+{+O@"
+,B@G
+q@C@`
+`@~@O
+Fx@n
+A@i@
+laj@ 
++kj@
+9F8F
+)F(F
+3c:C@
+Fw@_
+x@{@[
+FN@;
+A@G@U
+t1J@H
+:Fj@:
+eFk@9
+|<X@
+8xH@<
+p@O@
+V@z@
+o@K@<
+f@S@O
+u@]@(
+(J@W
+8(n@E
+~.b@
+B@k@
+	}@{@
+	!FB
+y9w@
+{@M@
+q@Z@
+C@x@
+	w@B
+	NFC@M
+`}@7
+4bC@O
+E@Y@
+	)Fa@D@
+z*G@
+|lX@
+L@V@
+T@z@G@/
+.z@$
+2by@o
+zjU@a
+;{T@h
+C@(FB
+s@e@*
+\@j@6
+t@B@5
+6&k@
+i@b@d
+E@|@g
+	4FZ
+		]@
+O@H@U
+S@o@O
+P@J@
+\@B@O
+Y@P@
+5$w@O
+O@P@b
+"=F(
+t@3C8
+c@5C
+yY]@
+p`_@
+Jp2F
+q3FfF
+	)FA@(
+C2Fl
+iW@:F
+>.}@
+ue|@F
+Ff@D
+p@^@C
+9F8F
+r(Da
+)F(F
+FZ@*
+F]@'
+L^S@
+FZ@w@
+FD@v
+S@V@
+F@T@
+o@=F
+Q s@
+S@M@
+a@k@
+1FP@
+F@0F
+o@=F
+.F^@
+u@F@
+K@y@
+y@/F
+E@z@
+j@z@
+|@'F
+}@z@'F
+e@E@
+W@b@
+]@c@
+)Fl@
+T@"F
+Z@J@
+|@o@
+T@~@x@v
+D@x@
+Z@{@o@u@F@
+l@x@\
+~@U@/
+q@&F
+&FN@!F
+A@8F
+Z@C@
+03:F.
+D@Q@
+U's@
+f@i@
+L@H@
+{@b@,F
+Y@!D2F
+~N%@
+De@O
+6f,D
+	1@	
+tny@
+DgDO
+]kfD
+UD!DO
+D&DO
+F4@*D
+qD7@
+		>DO
+	=DF
+D8D	
+(D&CO
+WvDO
+D/@O
+	.CI
+	HDG
+uUADO
+D;DM
+tTND
+KMDO
+	TDFDO
+w@UD
+O@.DO
+n>DO
+fDVD
+xh0D
+.D"D
+D%D0F	
+GhLh
+k@;D
+4TAj
+jVDO
+Du@O
+D0@O
+~N|@
+DMD;D
+zj(@
+_@<D
+8h1DO
+D=Dh
+D.@<D^@
+zZ&@
+DGDn@l
+DNDh
+f@=D5D	
+DVDi
+V@<D4D
+DN@j
+DqDk
+NGDO
+NDEDg
+zZP@
+pQ D
+U"D`
+8hj@=D
+kgD'D
+D<@fD
+E@4D
+D*D3DJD`
+2\[D
+uDC@O
+4@{@l@
+vF;@
+~n%D
+!DQD
+D&DO
+<\/D
+"DDh1D
+i+DEj
+3SGk
+jvDk
+~^l@O
+ds@:Dc@
+DIDn
+j\@ID
+td*D
+s@P@@D
+)F;D
+sS/D
+8h!D
+qA.D
+D#D0Dh
+ZwD,Df
+;@C@
+0`&@
+FDUD
+9@A@
+|@`D
+3D,@
+^>@O
+UF@1D
+xh~@O
+;[5D
+DDDf
+DEDi
+DJ@h
+wg(DpDb
+D`@k
+Q@WD1D
+LrDf
+2b,D
+F DO
+^!Dg
+DLDa
+dF@O
+#D<F
+q@GF
+^W@O
+D Fa
+D"FBD
+DVDi
+DDVD
+p@rD
+a"DO
+Y@2@
+	"@(D
+(Dy@
+pDXD
+DY@AD
+CD&D
+3cfD
+DT@8D D
+RtD<D	
+9DAD
+WN@O
+7gZDO
+["D4F
+btDO
+y@S@AD D
+RDdD	
+6fo@
+8R_D
+RsDO
+Dp@(D~@b@d
+CV@O
+i@2D
+DQ@7D
+)D8D
+z@DDZD3D
+(did
+4F"F%DW
+IF8F
+QF F
+! FW
+cmQF"m FO
+pcl+q
+!@GhY@
+V@=D
+Gi%@
+D)DO
+9@e@
+	1@,D
+DDjO
+jgDO
+D>D	
+J=DGk
+NfDO
+uk!DO
+D&DO
+*D4@
+|@JD
+qD7@
+		>D
+	=DF
+4D/C
+(D&CO
+D/@O
+	.CI
+	HDG
+uUADO
+D;DM
+D\DFD
+tTND
+KMDO
+	TDFDO
+w@UD
+O@.DO
+n>DO
+1QVD
+bDSD
+(did
+4F"F%DW
+IF8F
+QF F
+! FV
+cmQF"m F
+#l+p
+pcl+q
+ku@O
+k@;D
+jVDO
+Du@O
+D0@O
+~N|@
+DMD;D
+zj(@
+_@<D
+8h1DO
+D=Dh
+D.@<D^@
+zZ&@
+DGDn@l
+DNDh
+f@=D5D	
+DVDi
+V@<D4D
+DN@j
+DqDk
+NGDO
+NDEDg
+zZP@
+pQ D
+U"D`
+8hj@=D
+kgD'D
+D<@fD
+E@4D
+D*D3DJD`
+2\[D
+uDC@O
+4@{@l@
+vF;@
+~n%D
+!DQD
+D&DO
+<\/D
+0d hqd
+4F"F%DV
+IF8F
+QF(F
+!(FV
+m(FO
++l N#p
+pkl#q
+"DDh1D
+D|@tD
+D+DEj
+iT@\@
+LOD:F
+DIDn
+td*D
+J@ZD
+P@@DO
+V)Fs@;D
+sS/D
+8h!D
+qA.D
+D#D0Dh
+H,D%F
+d;@O
+0`&@
+FDUD
+9@A@
+|@`D
+,@3D
+xh~@O
+;[5D
+DDDf
+	HDj
+DEDi
+DJ@h
+wg(DpDb
+D`@k
+Q@WD1D
+LrDf
+2b,D
+F DO
+4D'Db
+D!Dg
+^,DO
+RLDa
+dF@O
+#D<F
+q@GF
+^W@O
+D Fa
+D"FBD
+DVDi
+DDVD
+p@rD
+a"DO
+Y@2@
+	"@(D
+(Dy@
+pDXD
+DY@AD
+CD&D
+3cfD
+DT@8D D
+RtD<D	
+9DAD
+7gZDO
+["D4F
+btDO
+y@S@AD D
+RDdD	
+6fo@
+8R_D
+RsDO
+Dp@(D~@b@d
+CV@O
+i@2D
+DQ@7D
+)D8D
+z@DDZD3D
+DeDN`
+'	hD
+pcrh
+;Dj@
+D>@+
+2D"D
+|iV@
+Svi6
+kSDO
+kLD?
+('@o@O
+x98D
+	]DOD+D=DO
+@H@?
+vnT@
+DpDE
+|ir@
+q2;D
+uK@D
+XD+@
+D(DA
+{LLD
+FuD"
+r0dF
+8@P@
+LQDO
+viz@
+	*F	
+r8sF
+CD;DO
+	/D%F
+DGDO
+JrDO
+qJ.DL
+FcD&F
+X5D.F	
+sf!F
+TD D
+q8<D
+&D8C
+_DHDB
+tEPDO
+86TD
+EfD1D
+xk1DO
+@w@N
+3CGDcD
+8D`D
+G2CRD
+HD9C
+q8>D
+w@&D
+K'0D
+KDDDLD
+rFADO
+BFK@
+HXDO
+"@.D
+DRD	
+ygf@B
+vD>D
+{8.D
+ud>D
+D0DN
+O BF
+:D#F
+JF#DO
+)(DO
+rLuD
+,rFO
+znr@O
+KdDZ@
+|F(F
+	>DO
+t7CD
+DVDO
+=D_D
+0dqd
+0eqe
+0dqd
+0eqe
+4F"F%DS
+IF8F
+9F(F
+!(FS
+kn9F.n(FO
+!pbp
+!qbq
+!rbr
+!sbs
+!tbt
+!ubu
+,!vbv
+(dy`
+8aya
+9F(F
+!(FR
+hn9F
+!pbp
+!qbq
+!rbr
+!sbs
+!tbt
+!ubu
+,!vbv
+(dy`
+8aya
+9F(F
+!(FR
+kn9F.n(FO
+Vs1N
+!pbp
+!qbq
+!rbr
+!sbs
+!tbt
+!ubu
+ vav
+(dy`
+8aya
+9F(F
+!(FR
+hn9F
+!pbp
+!qbq
+!rbr
+!sbs
+!tbt
+!ubu
+ vav
+(dy`
+8aya
+FlhB
+#(i	
+mh3D
+#D/@
+Rs@I
+)^iL
+5D?jSD3DO
+w9>F
+DbDO
+~9vk
+@PFO@0
+D%CID=D
+ti @
+pi9D
+>CdD
+%D'D
+w3!D
+tL0D
+s0DF
+wKIDO
+Fo@B
+D7FO
+KIDO
+D[F.D
+5CrD+F
+D.FO
+@E@,D
+t9(D
+]D)D
+%ODO
+zf*D
+KD4F@
+UDODO
+sB=DO
+D>FO
+*>F@
+&F:@
+j`UF
+t@*C
+~j D
+H3C+D
+D_FO
+Kd_D
+p7XFO
+rj7D
+v@dD
+|7^D
+@Z@P
+DPDO
+*XDL
+vARDZD
+vD>D
+pnFDO
+#DDD
+	bDH
+HNDO
+J&EF
+X@(DD
+D(CO
+DVDO
+~`S@CDO
+AQDO
+8D4@
+t4:D
+uj+@
+K+@MFL
+0D#D
+,rFO
+'"DO
+|FrD
+|NND
+DVDB
+FnEm
+LF)F>
+^vZ@I
+<Ly@S
+7(FO
+L.FA
+`\FFI
+F@0F
+6dEE
+6dEE
+4F"F%DO
+IF8F
+1F(F
+!(FO
+1F*g
+'(Fkg
+ 2EO
+ pap
+ rar
+ tat
+.0<F
+7dEF
+1F(F
+!(FO
+)g1F
+ 2GO
+ rar
+ tat
+.0<F
+7dEF
+1F(F
+!(FO
+1F*g
+'(Fkg
+ 2]O
+ pap
+ rar
+ tat
+>0<F
+7dEF
+1F(F
+!(FO
+)g1F
+ 2`O
+ rar
+ tat
+v!wbw
+>0<F
+7dEF
+^vZ@I
+<Ly@S
+7(FO
+L.FA
+`\FFI
+F@0F
++F1F
+8p Ds@
+6M@'D
+J@S@*
+cFQ@O
+CM@-
+fFaFO
+qGC@
+rHE@
+@l@%
+ Fc@4F
+l@%F
+D@0F&
+I	o@"
+$@K@
+(@J@
+,@YFH@
+9@|@,
+q@vF
+C=F:
+c@p@
+Cf@6
+(p]@?
+@[F|@2
+40E@
+< [F
+<pf@
+Ch@5
+*Flo
+ F4h 
+A@J@
+y@7jJ@
+^@sF
+[iu@
+X`U@
+cF_@*
+Ct@	
+`FeFO
+		h@
+B@XFF@1
+xL/@#
+Ci@,@4
+EF*@
+l@eF
+n@+@f@%
+c@dF
+g@ @
+vDX@
+v\@C
+,F\@O
+'@e@
+DCD9D8
+		i@
+		l@
+|@f@
+4n@o
+1w@1
+S@k@
+Z@CF
+	aF	
+yLM@:
+s:Fy@,
+yGt@
+	{@3
+I	B@
+C.@k@
+C%@E
+i@eF
+;@gFO
+J@AF
+p@vF
+F_@C
+8Db@
+F&D0
+6tEE
+5dEF
+6tEE
+vF4F
+6tEE
+6tEE
+vF4F
+6tEE
+  Oh
+iBiD
+{@Mi
+jbj>
+Ok(F
+k@`kA
+kS@"
+#Fk@J
+vhJ@
+4 Mm
+fhS@
+*v{@iOu@<FW
+Fh{@#
+Fh{@!
+{@EhWO
+n@=F
+{@PO$
+n@<F
+nhc@Im
+*v9M{@q@U
+Vh{@"
+Vh{@
+6pVh{@
+q@#N
+Jq@?
+*qz@
+ON@8F
+ahz@)
+N@9F
+z@q@
+Rhh@
+*qx@U
+N@Yhx@*
+Yhx@
+,0q@
+Cq@>FW
+nhx@
+Oq@-
+t@}N
+*q|@V
+H@Qh|@#
+|@Qh
+4 A@jH
+Ph|@
+A@dH
+Rh`@Q
+*GS@
+{@LO
+Rh`@
+h7L'
+	7J{@Q
+7mtm
+|@,Oa@
+TPdhz@$
+a@'L
+7@oh
+$Pb@
+K~@S
+Ih~@
+L`Oh
+Nh{@
+;0J@Ah
+@tMJ@
+MF@hK@
+Z@EK
+X@oh
+z@?O
+4p4F
+x@6O
+6mP@	
+D@&H~@
+!%J~@D@-
+">FW
+a@F@
+50@hf@%
+LY@F@
+2 a@	
+L[hQ@@h^@
+5@F@
+aDh5
+c@j@C@J@
+	^h[K
+,NY@	
+4@S@KH1
+`B@F
+`#ibiX@
+aB@<
+a#j=
+bjX@
+bB@I
+FC@@
+b#kakX@
+cA@QcA
+hk@L
+ix@O
+*iliC
+Cjq@
+jJ@dj
+z@1F
+a@,F
+F@k=F
+k7FO@ 
+NJ@S
+:FZ@
+Tp[h1
+v7AF	
+B@S@4
+4@[h`@ELZ@
+9@[h`@
+k@D@
+mhT@k@*
+C@5Hb@/
+7pmh
+@_@e@
+_@l@,
+Ko@_
+Rh[h+
+e@Z@
+@hj@C@
+B@tH{@
+5PIhj@'
+Y@B@/
+bMA@
+30EF/
+JhC@ih
+J@QI
+c@ELJ@
+30mh
+OPhV
+IhS@
+IhS@
+!EF-
+0@Xh
+b@A@
+Z@vKA@
+0 {@,
+Q@VJ
+${@c@RLJ@T
+Lhj@
+z@KO
+k@&M
+)@hc@
+dhIhC@
+C@Rh
+J@C@
+IhC@
+8@IhX@@
+vXJ@
+30Ih
+H@bh
+dLk@
+#l@!
+7@_h-
+`@kL
+`C@B
+`#ibiX@
+aB@D
+C@ FKb
+kBkH
+z@JcC@J
+%FS@E
+s@*j
+jijE
+e@rL
+U@bJ
+Ie@$
+4 F@Ih
+V@VLM@%
+mh5O
+8RJ@,In@
+Ih~@S
+j@!M~@U
+,]hN@
+Oh^@!
+80Mh
+i@g@
+ Rhi@T
+LW@i@
+$PBh(
+ehQ@
+N5FV
+ehq@h@S
+KE@.
+H[hq@]@/
+\hq@
+Dhq@
+mha@
+Gh@bM
+uha@0
+E_JL@E@R
+YHZNRhL@U@$
+PhL@
+4Ha@
+lhC@1
+L@0IX@Q
+)KL@
+x@%O
+E;FW
+L@x@
+@hJ@_
+xhQ@X@
+NQ@%
+A@Rh8
+'FRhA@
+[hh@
+qhk@
+dhK@
+chE@*
+Y@h@R
+ThX@
+a@fL
+h@dh]Ma@,FU
+$[hh@
+Y@WK
+x@K@EIQ
+ah{@
+$;OK@#
+Ihs@
+H@9I
+,,OH@
+ghK@
+Ax@&O
+Rh_@
+JrhC@
+Eh{@
+2@mh
+Yh`@
+j@]h
+6`_h
+30tO
+OMOh'
+y@S@$
+i@r@
+0i@V
+h+FgM
+j@ZM
+b@i@
+`J@L
+`J@?
+`#ibiY@
+aJ@A
+a"jcjC
+bK@CbM
+FCcH
+4F"F%DH
+IF8F
+4F"F%DH
+IF8F
+4F"F%DH
+IF8F
+'/bAFob(F
+.l9Fkl@"@F&pO
+c&rO
+c&tO
+c&vO
+AF(F
+!(FH
+'/bAFob(F
+.l9Fkl@"@F&pO
+c&rO
+c&tO
+c&vO
+AF(F
+!(FG
+'/bAFob(F
+.l9Fkl@"@F&pO
+c&rO
+c&tO
+c&vO
+AF(F
+!(FG
+a?hRh
+6`Q@
+c@u@yN
+w@gN
+>@i@A@
+r@hO
+*"LO
+Pp@A
+>Bw@
+9P|@
+Shoh[
+>R_@
+<`E@R
+: @F
+'Ny@[
+p1F^
+r@xhCF
+6`dF
+	Eah
+dhE@u@
+<pL@
+Spq@O
+)Ch^
+V@F@
+Qhn@
+p@Q@
+,[h^
+8 ]@
+Qhw@
+eFp@{@P@/F
+8pe@[
+ C@W
+1pXF
+>\f@
+wOk@%
+N[J[
+F!Fo
+JOF<F
+5Pdhy
+W@|@
+EFK@BI
+	*ORhO
+Sp:K
+6`a@Z
+8@Y@
+7@@h
+@hj@T
+ta1aj@
+2`h@p`#
+4F"F%DF
+IF8F
+1F(F
+!(FF
+g"tO
+a?hRh
+6`Q@
+c@u@yN
+w@gN
+>@i@A@
+r@hO
+*"LO
+Pp@A
+>Bw@
+9P|@
+Shoh[
+>R_@
+<`E@R
+: @F
+'Ny@[
+p1F^
+r@xhCF
+6`dF
+	Eah
+dhE@u@
+<pL@
+Spq@O
+)Ch^
+V@F@
+Qhn@
+p@Q@
+,[h^
+8 ]@
+Qhw@
+eFp@{@P@/F
+8pe@[
+ C@W
+1pXF
+>\f@
+wOk@%
+N[J[
+F!Fo
+JOF<F
+5Pdhy
+W@|@
+EFK@BI
+	*ORhO
+Sp:K
+6`a@Z
+8@Y@
+7@@h
+@hj@T
+ta1aj@
+2`h@p`#
+1F(F
+!(FD
+g"tO
+vhy@
+<pr@
+y@G~
+r@D|Fz
+"@r@
+vhz@
+3@r@
+J@dh
+hq@S
+>pq@
+%`Rh
+vhz@
+6@r@y@
+7pvh
+q@C@
+<Fj@%F$i
+iW@Zi
+"jdj
+Ik~@
+{@i@
+>Pth
+;Brh
+5PvhE
+<Prh
+$Brh
+3`}h
+>PIht
+`Rh|
+0\f@Y
+ez@Y
+\@#F
+XiU@
+H@U@
+!(FB
+@" F
+ F2F
+!0FCF
+:FQF0DC
+?p F2FG
+!!1p
+*F!F
+8`y`
+8aya
+`/i~@&aniq@aa
+Q@+`O
+OSz@s@ Fi`E
+FYhM
+1A%D
+Ds@)
+2B;F
+3#t@O
+2Bq@
+=Dl@
+2"vD
+DYFK@
+3#=Dl@
+1AfDt@
+fDt@
+2BvD
+=Dl@
+3Cq@O
+>>_@
+vDq@
+4$)D
+fDt@
+fDt@
+2B=Dl@
+3Cq@O
+>>_@
+vDq@
+fDt@
+fDt@
+1!uD
+2B=Dl@
+3Cq@O
+>>_@
+vDq@
+fDt@
+fDt@
+1!uD
+2B=Dl@
+3Cq@O
+>>_@
+vDq@
+fDt@
+1!uD
+2B=Dl@
+3Cq@O
+>>_@
+vDq@
+fDt@
+2B=Dl@
+3Cq@O
+>>_@
+vDq@
+fDt@
+fDt@
+2B=Dl@
+3Cq@O
+>>_@
+vDq@
+fDt@
+fDt@
+2B=Dl@
+4Dq@
+>>%D
+::o@
+77.D
+vDq@
+1!+F
+fDt@?iO
+1Ak@
+::z@O
+uDk@
+1%FF
+<LGD
+11z@
+22~@
+66|@O
+DDFOD
+9FS@J
+nCb`s@O
+`X@F
+3 a{@M
+'X@L
+a@"A
+AF*F
+#jAFej F
+ @3?+
+5#bRDeb
+IF2FA
+*F9F0DA
+ 01F
+$@PF
+ @3?+
+ 0*D
+EE+F
+9F0DBFA
+9F F
+j&ic
+)ai`
+I(FO
+@39F?+
+8F@:
+LgRFAFHD
+#jIFej F
+ @3?+
+5#bRDeb
+LV@8
+.F2FAFHDA
+@{@?
+Ih(h
+Y@g@
+	LhD
+0T@9
+	wFA
+N@0F
+th3hO
+j@uF
+\@'F
+Lw@;
+IFRh
+"hdh
+@Y@cF
+4EEL
+! D@
+&`s@	
+0;h^i
+0;h^i
+0;hXi
+1F FY
+DBDXD
+"Z`+h
+a+h\a(h@
+!0`@
+.`(F
+"Z`+h
+a+h\a(h@
+ ,`p
+"Z`+h
+a+h\a(h?
+!0`@
+.`(F
+"Z`+h
+a+h\a(h?
+ ,`p
+"Z`+h
+a+h\a(h?
+,`  
+!0`@
+.`(F
+"Z`+h
+a+h\a(h?
+ ,`p
+'a` `
+`gq+h
+FYh@
+"Z`#h
+a#hZa h?
+!(F@
+"Z`#h
+a#h]a h?
+%5`#h
+a#h]a h?
+"Z`#h
+a#hZa h?
+!0F%`.`@
+2F9Fh`@
+ 1F@
+D4D>D?
+"*`#
+"Z`#h
+a#h^a h?
+&`,h F?
+ (`p
+i`!F
+@Y@+zB@
+izc@
+za@,F
+ FZ@#{
+(|b@
+ C@i|
+h}b@
+ `a`
+(`i`
+0,F 
+D@kz
+D*DAD
+LDYD
+]D[D
+[D\D
+p@_D
+F\Dh
+<DXD	
+GD^@
+	]D 
+YDaDb@
+XD D
+.F :-h2`
+F3| 1
+	<l@
+ZxJ@
+ID9D
+ID1D
+h	xL@
+h	yL@
+hIyJ@
+h[zZ@
+h[{Z@
+	W@i
+*~@f
+DeD&D
+Cz@b
+yS@JyKp
+qCyS@JzKq
+rDzb@Jr
+{J{]@
+sD{b@Js
+c@)D
+V@_@n@
+%b@q@Z@a
+%Y@Z@
+t@Z@\@b
+Y@Z@a
+%f@b
+E~@f
+	0Z@
+z@u@
+vL@5
+r`@&
+B@W@
+E@K@,
+\`k@
+sh%C0h
+T`e@
+V@7F1
+<j@&
+h,Z@Y
+T\c@0
+PLM@Y
+4,]@Y
+$LM@Y
+<]@Y
+	b@K@
+1FBFhF<
+p@j@
+h@r@
+>eQ@
+z@u@/
+s@K@
+rX@	
+b@p@O
+xB@O
+sh%C0h
+@@W@+
+` p@
+``Q@
+h`aF
+TE%D
+)FRFhF<
+,a@C
+?@J@=
+	ij@K
+Lj@O
+j@Q@
+(Pz@S
+& y@
+}@f@
+&`b@S
+	dr@E
+}@f@
+	ij@K
+cQcEx
+`+FO
+h@t@L@
+se@Dj
+BcDa
+gq@N
+$@q@S
+,j@O
+ja@F
+" u@
+	ij@K
+Lj@O
+j@Q@
+bQbBx
+(Pz@S
+& y@
+}@f@
+3pD{
+a@n@
+8|p@:
+$`t@
+(`u@
+4`W@
+#BF)F0
++@8*O
+'=F@
+E8#!Fb
+:FhF
+iF	"
+:~J@?
+<XK@
+0`q`
+0aqa
+F8*O
+@"!F0
+;D7*
+iHxH
+BN{(C
+(!,"
+_D[D
+D:FX
+D~@7F 
+rDp@O
+0 Q@O
+gD9F
+5EC@
+@L8D	
+>>>D
+88O@9F&
+G@8F(
+o@=F)
+eDg@<F
+4$:F
+h5ia@
+tiS@
+U@JFT@
+TA`H
+DFMF3k9F0F
+s3cC
+sk@7
+Ir D9
+#D:F
+3sc!F0F
+DFMF3k9F0F
+s3cC
+sk@7
+Ir D9
+#D:F
+3sc!F0F
+r#c F
+k@;#c
+x+pc
+kp#h
+kqch
+z+rc
+|+tc
+kt#i
+kuci
+~+vc
+s#c F
+3cc9F F
+Lr^F
+r#c F
+k@;#c
+x+pc
+kp#h
+kqch
+z+rc
+|+tc
+kt#i
+kuci
+~+vc
+s#c F
+3cc9F F
+Lr^F
+r#c F
+k@;#c
+x+pc
+kp#h
+kqch
+z+rc
+|+tc
+kt#i
+kuci
+~+vc
+s#c F
+3cc9F F
+Lr^F
+YF0F
+4#C@
+kI0F
+@<@"
+c9`O
+YF0F
+4#C@
+nI0F
+@<@"
+c9`O
+OP#`E
+#ba@"
+#AF F
+pAFHFO
+FVF_F
+IF@F
+"@F &
+p#`@
+#ba@"
+#AF F
+pAFHFO
+FVF_F
+IF@F
+DFMF3k9F0F
+s3cC
+sk@7
+Ir D7
+#D:F
+3sc!F0F
+DFMF3k9F0F
+s3cC
+sk@7
+Ir D7
+#D:F
+3sc!F0F
+r#c F
+#c@"
+*fia
+@	@D
+y "NF
+F@F7
+08F@"
+s#c F
+0AF8F
+KDVFB
+r#c F
+#c@"
+*fia
+@	@D
+F@F7
+08F@"
+s#c F
+0AF8F
+KDVFB
+nA#`F
+I F%c
+=@=@"
+#YF F%c
+*`ia
+=@=YFJ
+g2b`E
+nC"a
+#!`O
+s#cYF F
+" F]F
+.I F%c
+r+I F
+g)F:
+I F%c
+=@=@"
+#YF F%c
+*`ia
+=@=YFJ
+g2b`E
+nC"a
+#!`O
+s#cYF F
+" F]F
+.I F%c
+r+I F
+g)F:
+4FVi.
+c@3@;
+}@\@.
+dF_@
+^FgF
+7@A_
+0q@(
+2V@6
+w@S@5
+	=@#
+L`eF4
+\`.F
+wi%@
+	O@#
+u@.F$
+a@VFO
+3:X@(
+J@q@*
+N@1F1
+S@K@*
+34u@'
+mh`@
+F?i<F
+@o@5
+n@5F.
+:B@#
+_@		-
+`@t@'
+9@+@8
+V@2F'
+uFK@$
+	P@"
+mh`@
+<Fwi:
+E@PF
+S@p@
+	|@/
+3@/C
+,@O@5
+=@u@
+9@+@4
+&en@5F0
+2{i=i
+	)F+
+\@o@+
+BL@K
+o@=F
+!C4F1
+	:F7
+W@:F-
+3@p@O
+K^FG
+|@k@
+L@^F
+.F>C
+4@0F
+g@!@$
+G@`F
+O@)@q@"
+%@4F(
+Z@X@
+!j F
+b!kZ@
+ Y@ck!c
+c#lJ@
+lS@cd
+S@"m
+dcmQ@
+29FPF2
+!i;F
+9F D
+aj F3C
+pj@K@
+j&k"b
+ i@cb
+P{@!l
+#q@fl
+qu@ed
+l&mj@
+PgmK@
+#n8"
+!fnPF
+nff]@
+f%o_@
+ofg]@
+2Wk@
+`>F2
+gajb
+j%bS@
+#lQ@bl
+lcdO@
+p]@cm
+d{@ce
+bn&n
+0"oi@&f
+`B@i@
+$5#h~@
+`4%F
+4UEF
+%(F?
+9F D
+9F8"PF2
+!"jc
+j"bs@
+p"kcb~@
+0n@%m"dY@
+v]@cm
+bes@
+nanV@
+0gfp@
+`]@+F
+X@#h~@
+%0`q`
+0a(Fqa
+%0`q`
+`0a(Fqa
+p4%F
+4UEF
+EFNF
+h5F h
+ZC@O
+KxDFA
+Kp@-
+	"F(
+		g@2
+*,FN
+wF|@
+N5V@)
+@rGAH
+D}AD
+ N@]
+nb@(
+5gAO
+%DiQ
+_F0F
+i@eFJ@-
+T9,FF
+1FYA
+l@%FG
+J@qF'
+J@QF
+fSc'
+k[k 
+		M@
+nE@H
+HN@O
+^w@O
+UL@O
+	a@	
+C@O@O
+\L@O
+9c@O
+Ni@O
+Kt@O
+hO@O
+	n@J
+Tp@A
+g@S@
+		_@
+" <j
+'F$k
+c@<l
+l%F<i 
+c@|i!
+c@<o
+@'F,
+k@{@
+F+FAF
+T9,FG
+l@%FH
+B@%c
+O@u@
+[F_@a@h
+G@8F;
+C"aca
+ &FIhA
+=F7j
+wjX@
+0F6i
+NAAi
+Xp@O
+		N@
+Wp@A
+		N@
+Wj@O
+XC@O
+	B@a@
+"0F(
+@#)F
+ *1F(
+%*F9F
+ ?+B
+3<FO
+F,F.F
+@*AF(
+~ALE
+AF("
+AF@"0F(
+"1F(
+,F/F
+*1F(
+ #)Fz	(
+@0"F
+#)FXD
+SHA3
+8)FO
+"@#>
+8)FO
+8)FO
+)FXDJF(
+)FXDJF(
+)FXDJF(
+9FBFXD(
+GDCD
+ < #(
+b	9F
+D@4w
+9FBFXD(
+GDCD
+9FBFXD(
+@<@#(
+FlFjF
+(`i`
+(aia
+@tFyS
+&`|@
+%P|@t@l@
+%P|@Wh|@t@l@L`
+%P|@
+h|@t@l@
+$@Ex
+'pJ@
+* L@
+|9ir@S
+@{T@S
+jB@S
+Qjl@
+%PG@T@_
+,`}@
+@r	k_
+'pF@
+t@kW@S
+@|D@S
+)PH@
+@|J@
+@{P@
+lh@	m
+pr@S
+@pr@S
+`F@S
+)mm	
+xn@_
+%PN`
+tE@S
+@tG@8
+@|x@S
+)U@S
+B@z@_
+@wE@S
+@{`@,
+dp@S
+@tB@S
+E@}@
+@wu@S
+t@L`
+%Pp@`@S
+"`x@_
+@r@S
+C@K@
+xPDA
+lLTD
+ 1CEA
+#*F+F
+8aya
+#8byb
+4>DE
+A@Ba
+D4GF
+lL@D
+!8F&
+#*F+F
+8aya
+#8byb
+QFCF
+4F=F
+A@Ba
+D4QF
+4#C	
+j|j{hzn
+=n{l
+h\@%
+s@	i
+W@l@O
+F	mO
+H@k@
+mfFA
+lk@L
+OFx@
+xp@%
+qfFE
+eFr@C
+NuFC
+|a@tFO
+|`@tFO
+Ha@	
++eFC
+xN@N
+A@\@
+x@wF|@O
+	HpF
+cLAg@O
+NN@	
+A@\@
+FX@sF\@O
+x@wF|@O
+cLAg@O
+A@\@
+FX@sF\@O
+x@wF|@O
+	HqF
+cLAg@O
+A@\@
+		QF
+x@wF|@O
+p@vFt@O
+cLAg@O
+LaFE
+T@i@f
+A@\@
+#dFA
+wX@sFO
+cLAg@O
+T@i@f
+A@\@
+wX@sFO
+H\@O
+cLAg@O
+LfFE
+T@i@f
+A@\@
+wX@sFO
+cLAg@O
+T@i@f
+A@\@
+		TF
+wX@sFO
+cLAg@O
+A@\@
+&EFG
+wX@sFO
+H\@O
+cG@O
+|l@%
+		pF	
+*_@3
+!sFF
+@vFG
+`E@O
+ofgF
+XPeF
+		Pc
+!@"#
+$`"1F(F
+0F`5
+hBhf@
+Ve@r@
+VBie@
+Ve@r@
+Ve@r@
+Ve@r@
+VBke@
+Ve@r@
+VBle@
+Ve@r@
+eBmt@j@
+ml@J@
+hBhf@
+Ve@r@
+VBie@
+Ve@r@
+Ve@r@
+Ve@r@
+Ve@r@
+Ql@J@
+^@dF
+LbFC
+`FC@
+jAS@x@
+OA}@
+zy@O
+TpgFA
+c@J@O
+^@J@
+Y@`@
+L@{@6
+(0B@
+S@q@
+H p@
+T`cF
+bFW@
+FaFO
+LO@B
+fFA@w@
+dpvF
+K@GF
+S@F@cf&fU
+J@"gC@cgU
+C@J@
+#`5B@K@
+h@K@
+@0n@
+TPU@
+HEFA
+	JFE
+	Q@KFX@
+Z@DF
+>Fj@=
+WFy@
+X@g@
+VF~@
+D	FFO
+M@Z@.
+p@WA
+j@C@bf#f\
+C@J@
+J@"gC@cg\
+B@K@
+X C@
+T,a@K
+L\X@J@K
+k@b@K
+4\S@a@K
+8LX@J@K
+\@U@K
+$\Y@P@K
+\@U@K
+\Y@P@K
+\@U@K
+\Y@P@K
+#b@k@K
+h@K@
+@0n@
+TPU@
+h|i@
+uAQ@h@
+XP`FC
+x f@
+)gFE
+LA`@.
+NFq@
+X@g@
+	x@O
+k@z@N
+L\Y@P@N
+\@U@N
+4\J@C@N
+\@J@N
+,LX@U@N
+$\Y@T@N
+LX@U@N
+\Y@T@N
+LX@U@N
+\Y@T@N
+#B@k@N
+T,a@K
+L\X@J@K
+k@b@K
+4\S@a@K
+8LX@J@K
+\@U@K
+$\Y@P@K
+\@U@K
+\Y@P@K
+\@U@K
+\Y@P@K
+#b@k@K
+;x$+@
+{x7+@
+)x$)
+5$+@
+P@ix
+P@)z
+$!(F!
+9FRF%
+3FfF
+%2fF
+12FP#	
+$%7$
++<]O
++8\O
++<]O
++8\O
++8\O
++y\O
++8\O
++y\O
+#pF#p
+FbYc
+#cQ`
+#cQ`
+#cQ`
+#cQ`
+#cQ`
+ueDD
+$p,D
+`)D;D
+,00D
+(`*D
+F)h F"h
+kh@6'iQ@
+h!`ahY@
+2{@giz@'j
+j{@gjz@
+2'kY@
+k{@gkz@
+# FH
+#jl/l#hah{@
+hQ@#`
+1{@J@
+#J@aiK@
+i{@'jQ@
+1{@J@
+2!k{@
+jz@gk
+#Q@{@
+5{@J@
+#UEF
+ F@0
+A@S@
+`C@ i
+A@S@
+iJ@!j
+ J@C@
+jcb"b
+ J@C@!k
+ J@C@"c
+J@C@
+_D|h
+aYD[
+VY@,F
+gb@k@
+5K@B@
+#k@r@J
+#C@b@J
+#*mkmZ
+J@{@J
+#B@Z
+#B@Z
+`_D{h
+`[DLFUF
+P[D\h
+G@K@[
+F"h FghT
+4|!i
+biw@T
+$lu@&j
+S@bk
+<u@J@
+lCEO
+aj i
+`k!j
+ah k
+ 7:FR
+4FqF
+h@3	
+@	"p
+<,"q
+8,"r
+4,"s
+0,"t
+,,"u
+(,"v
+$,"w
+4,"iI
+0,bhI
+$,"jI
+ ,biI
+,"kI
+,bjI
+ 62FR
+ 62FR
+pYhz@
+iA@`i
+!iJ@	
+!`jW@N@
+!r@H@
+jgmA@ kr@
+A@r@bc!c
+lM@alJ@
+!%mP@N@
+mU@O@
+!%ngnP@N@
+nU@O@
+oP@N@
+A@`oB@
+#U@_@
+Pyhj@K@
+A@u@
+p@i@
+p@i@
+h@q@
+Pu@A@
+4Q!F
+Pn@	
+pq@C@
+x@K@
+0A@s@
+K@p@
+pA@s@
+A@s@
+i@C@
+0A@k@
+0h@K@
+A@k@
+C@y@
+B@i@
+yhB@i@ei
+ iA@
+h@%j
+iq@fjh@
+i@p@
+jh@q@
+akp@
+ki@ cac
+p@i@
+lh@q@
+Pamu@A@
+ nE@
+%fp@`f
+P&ou@fop@
+0J@C@
+J@h@
+ A@j@
+h@J@
+Pi@B@
+Pp@y@
+e/FuFn@
+0J@C@
+J@h@
+ A@j@
+h@J@
+Pi@B@
+Pp@y@
+e/FuFn@
+lsEO
+`j!i
+ak j
+`h!k
+eFQF&
+0F\FQ
+h@3@2!p
+% 5U
+SDBD 3
+0#d	
+hh)i
+hh)i
+RF[F
+DFNF
+(iih
+PFYF
+hh)i
+PFYF
+04#C2
+xH{6
+02DK~
+	%ED
+(`8D
+,prD
+GsDO
+(,9D\
+8|(D
+(pD\
+ \'D\
+4L8D\
+LLqDHDADO
+SF]D5D8+GD
+'!D\
+uB D
+%0hD
+0iqi
+r3 @MD
+@<DC@&DE
+7D5D
+(#DO
+PK@<@3D	
+CD&C
+*D9D
+:D.@
+WNDD
+xj;D
+0pKDSDA
+&@n@
+tDLD
+pDHD
+p>u@
+DpBD
+CDKD
+LpDDB
+ADID
+XpJD@
+)CDsD
+`pDDB
+t8u@
+9D@D
+hpaD
+lpBD@
+Yt<D
+ppCDA
+@DHD
+|pIDD
+)BDbD
+pCDA
+|i%FO
+s8u@
+`8DDD
+pADD
+pBD@
+jd<D
+DDLD
+pHDC
+)ADqD
+pBD@
+r8u@
+K$<DCD
+s8'D
+p@DC
+pADD
+CDKD
+pLDB
+)@D`D
+pADD
+q8u@
+C;DBD
+pDDB
+p@DC
+@cDF
+s>fD
+ID5D
+`MDO
+Z~@C
+DVDO
+jXDO
+DphO
+(aDO
+\(@X@G
+'D\F
+D7aua
+AF8F
+@6&D!F8F@4
+*F!F@F
+Fkj1FO
+A7/c
+Ekb(DH
+(	@?
+IF(F
+1F(F@6
+:F1FHF
+?+kb
+2F`FiF
+(FIF
+nD?*
+1F(F@6
+1FHF
++h(Fh"
+pfp#pkh
+qfq#q
+rfr#r
+sfs#s+i
+tft#tki
+ufu#u
+vfv#v
+wew#w
+!`c`M
+ aba8F
+AF F
+	+2j
+7dEE
+1F@F
+OR `E
+ a`F
+a3FBF`b!b
+AF F
+IF?*
+=OFO
+9F F@7
+hF!F
+:S `
+OSb`
+a6!cbnF#b
+7bE<D
+AF8F
+@6&D!F8F@4
+*F!F@F
+0 ,$
+"F`FiF
+)F0F
+lD?*
+@	!F0F@4
+!F(F
+1F@F
+1F@=
+@55D1F
+:F1F
+#(Fa
+AF(F
+ F'F
+YF(F
+3+b *
+`F!F
+@	AF(F
+@	AF^
+bhC@
+ "8F
+;F 3
+8aya
+:F1F
+P"!F
+2F!F\
+(`i`
+(aia
+!FHF(
+RDY`
+ "!F
+@"YF
+ `a`
+ aaa
+)FPF(
+ZDY`
+"FP!0F.
+8F!F@"
+!F8F
+@"!F8F
+!F8F
+!F@"y
+@"!F0FB
+!F0FB
+@"!F
+(`i`
+(aia
+0F!F@"B
+!F0FB
+hF!F@"
+!FhF
+)FPF(
+ZDY`
+@	c]`
+0F9F@"[
+#cUa
+@"IF(F[
+"2p|")F
+8FAF(
+#DJ`
+@	c]`
+0F9F@"^
+#cUa
+@"IF(F^
+"2p|")F
+8FAF(
+#DJ`
+F0F !
+0FP"
+0F!F "
+(`i`
+(aia
+#1F(F
+4TEC
+p!9F|"
+L0(F
+"YF(F
+ "(FAF
+AF(F'
+#DJ`
+#DJ`
+P"lFF
+(`i`
+(aia
+4TED
+P")F
+1FXF'
+#DJ`
+#DJ`
+P"1F
+@"!F
+@"!F
+@"!F~
+@"!F
+@"!FhFA
+!FhFA
+@"!FM
+@"!F$
+@"!F
+@"!F
+`@"y
+`!Fy
+(`i`
+(aia
+F$h)x
+L0XF
+9FXF"
+@FYF'
+`Z`K
+`Z`K
+F F0
+F3F)F
+ F "
+<FEF
+2h(F
+2h8F
+2hHF
+2hPF
+2hXF
+" F)F
+x@hO
+P!!F
+rC@E
+0 kak"ici
+B@K@
+`!k`
+h!K@s`
+h@hJ@
+rQC@
+h+hhhIhS@
+`A@j
+)F2F
+F[hJ@
+rQc`
+h@hIhS@
+`A@j
+L@z@
+eh F"hk@J@c`"`
+eh"hk@J@c`"`
+eh F"hk@J@c`"`
+eh"h
+J@c`"`
+eh"hk@J@c`"`
+eh"hk@J@c`"`
+8F:h
+J@:`zhS@{`
+eh"hk@J@c`"`
+0F2h
+J@2`rhS@s`
+eh"hk@J@c`"`
+"h FJ@"`bhS@c`
+eh"hk@J@c`"`
+"h FJ@"`bhS@c`
+%hchj@K@"`c`
+ F$x@
+ F1F,F^F
+2h(F
+2h@F
+2hHF
+2hPF
+2hXF
+" F)F
+w kak"ici
+`!s`
+h!K@{`
+QF F
+hIh@hS@
+4oA(
+!F*F
+p hdh
+s`9h
+hChxhJ@
+eh F"hk@J@c`"`
+eh"hk@J@c`"`
+eh F"hk@J@c`"`
+eh"h
+J@c`"`
+eh"hk@J@c`"`
+eh"hk@J@c`"`
+8F:h
+J@:`zhS@{`
+eh"hk@J@c`"`
+0F2h
+J@2`rhS@s`
+eh"hk@J@c`"`
+"h FJ@"`bhS@c`
+eh"hk@J@c`"`
+"h FJ@"`bhS@c`
+%hchj@K@"`c`
+ F$x@
+!F@1ZF*
+!F(1E
+!F01
+h\h1hsh
+2h(F
+2h8F
+2h@F
+2hHF
+2hPF
+2hXF
+" F)F
+h@h[h1
+h@h[hJ@
+*`C@)
+h[h@h
+h@hJ@
+rQC@
+h+hhhIhS@
+`A@j
+)F2F
+F[hJ@
+rQc`
+h@hIhS@
+`A@j
+L@z@
+eh F"hk@J@c`"`
+eh"hk@J@c`"`
+eh F"hk@J@c`"`
+eh"h
+J@c`"`
+eh"hk@J@c`"`
+eh"hk@J@c`"`
+8F:h
+J@:`zhS@{`
+eh"hk@J@c`"`
+0F2h
+J@2`rhS@s`
+eh"hk@J@c`"`
+"h FJ@"`bhS@c`
+eh"hk@J@c`"`
+"h FJ@"`bhS@c`
+	%hchj@K@"`c`
+ F$x@
+*F[j
+`J`a
+!F@1ZF*
+FcF&
+!F01
+1#3 
+h\h1hsh
+2h(F
+2h8F
+2h@F
+2hHF
+2hPF
+2hXF
+" F)F
+h@h[h1
+h@h[hJ@
+*`C@)
+h[h@h
+h@hJ@
+rQC@
+h+hhhIhS@
+`A@j
+)F2F
+F[hJ@
+rQc`
+h@hIhS@
+`A@j
+L@z@
+eh F"hk@J@c`"`
+eh"hk@J@c`"`
+eh F"hk@J@c`"`
+eh"h
+J@c`"`
+eh"hk@J@c`"`
+eh"hk@J@c`"`
+8F:h
+J@:`zhS@{`
+eh"hk@J@c`"`
+0F2h
+J@2`rhS@s`
+eh"hk@J@c`"`
+"h FJ@"`bhS@c`
+eh"hk@J@c`"`
+"h FJ@"`bhS@c`
+	%hchj@K@"`c`
+ F$x@
+*F[j
+F F0
+1F;F
+3L"8F
+ "9F
+2h(F
+2hXF
+2h@F
+2hHF
+2hPF
+" F)F
+Phch
+B@K@
+`!s`O
+FK@k`
+h@hJ@
+rQC@
+h+hhhIhS@
+`A@j
+)F2F
+F[hJ@
+rQc`
+h@hIhS@
+`A@j
+L@z@
+eh F"hk@J@c`"`
+eh"hk@J@c`"`
+"h FJ@"`bhS@c`
+eh"h
+J@c`"`
+eh F"hk@J@c`"`
+eh"hk@J@c`"`
+eh"hk@J@c`"`
+eh"hk@J@c`"`
+8F:h
+J@:`zhS@{`
+eh"hk@J@c`"`
+0F2h
+J@2`rhS@s`
+eh"hk@J@c`"`
+"h FJ@"`bhS@c`
+%hchj@K@"`c`
+ F$x@
+!F@1ZF-
+h\h1hsh
+2h(F
+2h8F
+2h@F
+2hHF
+2hXF
+2hPF
+" F)F
+h@h[h2
+h@h[hJ@
+*`C@,
+h[h@h
+h@hJ@
+rQC@
+h+hhhIhS@
+`A@j
+uX\h
+)F2FJE
+:h{hJ@
+rQc`
+h@hIhS@
+`A@j
+j@F@
+`J`]`
+eh F"hk@J@c`"`
+eh"hk@J@c`"`
+eh F"hk@J@c`"`
+eh"h
+J@c`"`
+eh"hk@J@c`"`
+eh"hk@J@c`"`
+8F:h
+J@:`zhS@{`
+eh"hk@J@c`"`
+0F2h
+J@2`rhS@s`
+eh"hk@J@c`"`
+"h FJ@"`bhS@c`
+eh"hk@J@c`"`
+"h FJ@"`bhS@c`
+	%hchj@K@"`c`
+ F$x@
+*F[j
+`J`e
+!F@1ZF 
+{#3+
+h\h1hsh
+2h(F
+2h8F
+2h@F
+2hHF
+2hXF
+2hPF
+" F)F
+h@h[h2
+h@h[hJ@
+*`C@,
+h[h@h
+h=@t
+C@c`
+h+hhhIhS@
+`A@j
++F4F
+~h:F
+`t@T`
+rQc`
+h@hIhS@
+`A@j
+j@B`
+L@z@
+eh F"hk@J@c`"`
+eh"hk@J@c`"`
+eh F"hk@J@c`"`
+eh"h
+J@c`"`
+eh"hk@J@c`"`
+eh"hk@J@c`"`
+8F:h
+J@:`zhS@{`
+eh"hk@J@c`"`
+0F2h
+J@2`rhS@s`
+eh"hk@J@c`"`
+"h FJ@"`bhS@c`
+eh"hk@J@c`"`
+"h FJ@"`bhS@c`
+	%hchj@K@"`c`
+ F$x@
+*F[j
+	c]`
+0F9F
+#cUa
+1F;M
+CF:F
+"!F(FW
+"2p|")F
+4"IF
+9F F$
+BDY`
+ -:GTan{
+)FhF@"c
+!FhFc
+)FhF@")
+!FhF)
+)FhF@"X
+!FhFX
+)FhF@"6
+!FhF6
+)FhF@">
+!FhF>
+)FhF@"^
+!FhF_
+)FhF@"u
+!FhFu
+)FhF@"S
+!FhFS
+)FhF@"
+!FhF
+)FhF@"o
+!FhFo
+!FP"
+BFIF8F
+@>C#
+BFIF8F
+@>C#
+BFIF8F
+BFIF8F
+(`i`
+(aia
+FFMF<F
+2FIF8F
+FFFMF<F
+2FIF
+FFFMF<F
+2FIF
+FFMF<F
+2FIF8F
+!F8F
+3l!F"h8F
+1F F#
++DJ`
++DJ`
+2F!F 
+@"iFU
+@"iFU
+(`i`
+(aia
+#DJ`
+#HFa
+CP"d
+IF0F#
+P"1F@
+@"!F
+@"!F
+@"!F~
+@"!F
+@"!F
+@"!F
+@"!FhF
+!FhF
+(`i`
+(aia
+F$h)x
+L0XF
+9FXF
+@FYF#
+`Z`;
+`Z`;
+1FhFP"5
+!FhF5
+!FhF@"5
+hF!F5
+(`i`
+(aia
+4\EJ
+P")F
+@"1F
+9F(F#
+*F9F
+F0F)
+:F1F8
+ ")F8
+:F1F
+ ")F
+:F1F
+ ")F
+:F1FT
+)F "T
+ F "
+4DE"
+dP")FXF
+QFXF
+YF(F#
+`K`+
+P"1F
+(`i`
+(aia
+4\EM
+P")F
+@"1F
+9F(F#
+#DJ`
+0`q`
+0aqa
+!FhF@"=
+!FhF=
+#DJ`
+CHFd
+IF0F#
+!F(F
+!F(F "
+!F(F
+@F!F "
+!F@F
+8F!F "
+8FIF
+8FAF
+IF(F
+AF(F
+!F(F
+!F(F "
+(F!F
+0`q`
+0aqa
+)FPF"
+ZDY`
+(`i`
+(aia
+4\EC
+P")F
+9F(F"
+#DJ`
+#DJ`
+P"!F
+2F!F\
+(`i`
+(aia
+!FHF"
+`Z`M
+`Y`M
+P"9F	
+:F!F
+:F)Fq
+:F)F(
+:F!Fq
+:F)FL
+0`q`
+0aqa
+!FHF"
+`Z`M
+`Y`M
+P" 'V
+ "0F
+:F1FM
+:F1F(
+(`i`
+(aia
+!FHF"
+`Z`M
+`Y`M
+P"1F
+!FhF@"
+hF!F
+(`i`
+(aia
+4\EM
+P")F
+@"1F
+9F(F"
+P"lF'
+(`i`
+(aia
+P")F$
+AF8F"
+1FhFP"
+!FhFV
+!FhF@"V
+1FhFV
+1FhF@"V
+!FhFV
+!FhF@"V
+1FhFV
+1FhF@"V
+hF!FV
+(`i`
+(aia
++DJ`
+P"IF
+@"!F
+@"1F
+@"!F
+@"1F
+QF8F
+P"1FhF<
+!FhF<
+@"!Fx
+@"!F%
+@"!FN
+@"!F
+(`i`
+(aia
+!FHF"
+RDY`
+"P"`
+)F@"
+@")F<
+0`q`
+0aqa
+)F@"s
+ $)b
+YF0F!
+:DY`
+9FP"(F
+!F(FU
+!F8F@"A
+!F8FA
+g!F8F@";
+!F8F;
+g@"8F!F3
+8F!F
+@"8F!FE
+!F8FE
+!F8F@"U
+!F8FU
+g@"8F!F'
+8F!F
+8F@"!F;
+!F8F;
+e!F(F@"E
+!F(FE
+0`q`
+0aqa
+g!F8F@"3
+!F8F3
+@w!F8F@"@
+!F8FA
+%e!F(F@"'
+!F(F'
+L (F
+)FPF!
+ZDY`
+D;:i
+xizj"
+9kzk
+1D+DN
+*,DO
+D\DTD^
+L<9D
+L4D^
+0lQD
+$(DRD
+D DN
+E2D[
+uA3D
+<FfFWF
+z`a@
+@-JD[D
+FChFi
+|f/D
+TD%F
+r`1a
+hBhFi
+D>Dq@
+2R(D
+8XG@
+4dp@/DO
+3FcD
+(DG@
+7G#D
+66!D
+88	i
+(DG@
+7'3D
+<LZ@
+88}@
+55~@
+668D
+<,Z@
+(D;D
+88|@
+44;D
++DZ@8D
+1A8DO
+66D@
++DZ@
+2" D
+7' D
+66G@O
+88|@
+44;D
++DZ@8D
+1A8DO
+66D@
++DZ@
+2" D
+7' D
+66G@O
+88|@
+44;D
++DZ@8D
+1A8DO
+66D@
++DZ@
+2" D
+7' D
+66G@O
+88|@
+44;D
++DZ@8D
+1A8DO
+66D@
++DZ@
+2" D
+7' D
+66G@O
+88|@
+44;D
++DZ@8D
+1A8DO
+66D@
++DZ@
+2" D
+7' D
+66G@O
+88|@
+44;D
++DZ@8D
+1A8DO
+66D@
++DZ@
+2" D
+7' D
+66G@O
+88|@
+44;D
++DZ@8D
+1A8DO
+66D@
++DZ@
+2" D
+7' D
+66G@O
+88|@
+44;D
+<,(D
++DZ@diO
+55 D
+2B]@
+>NgD
+~@`@
+66g@O
+aS@	
+ iai
+#jaj
+\\>D
+0D#D\
+,,^D\
+4D(DO
+LZDuD
+DVDL
+!.D\
+uC D
+v`1@"D
+C@/ZD#D
+s"hdh
+i)D@iBD
+eDCb
+	@DG
+AF F
+i0 F
+x+pc
+kp#h
+kqch
+z+rc
+|+tc
+kt#i
+kuci
+~+vc
+!@"L
+#D?+
+Z#@#:
+"!FXF
+ -*F0F(
+[D?+
+RD?*
+LF9F"F
+#D?+V
+#D?+:
+FP"^
+1FP"r
+1FP"
+1hrh
+6JF!F
+r5ah
+3 iaieF
+D@3M
+@&PDM
+TDRD@3M
+D@.M
+?S@A
+#D!D
+?K@@
+F8D!D
+o\FF
+bl!lS@
+lA@cd
+hP@"m
+dY@#i`i
+ibm#e
+m`eY@
+eS@aj"n
+ecnP@
+nS@boA@#g`k
+gAFXF
+3@1A
+2@5E
+lChAlb@
+hC`L@
+`Am\@
+aAn\@
+nBbK@
+oJ@Ak
+bc@Do
+cK@9F
++l(hjllhX@
+lT@(d
+hY@ld+m,iP@
+djmii\@
+iQ@,e
+iX@ie+nT@)jjn
+ehjY@
+j*o,kX@ikkoT@
+o,gB@
+9FC@0F
+hC`L@
+BbK@
+@J@Ak
+cK@9F
+,hklihb@
+l*dK@
+lkdL@
+dQ@,ijm
+dii\@,e
+e+nQ@,jjn
+eij\@
+n,fJ@
+jjfK@
+j+o)kb@lo
+fK@ik
+o+gL@
+olgJ@
+gK@9F
+0ilb@
+@Q@,m
+im\@
+0Q@,n
+in\@
+0)ob@
+ K@io
+ K@9F
+9FC@0F
+ kd*m
+ kf*o
+)hjh
+h)`YhQ@
+hA@hi
+hQ@*i
+i)aYiA@(jia
+iQ@jj
+jA@)bYjQ@ib
+jQ@*k
+jA@hk
+k)cYkA@ic
+KF2F
+kZc\
+ $:F
+,BkC
+KF2F
+>DCE+
+5XkJ@
+kp@XcU
+,B@S
+,B@C
+,Q@C
+!F(F
+`J`Q
+0F "
+)F F
+P"!Fh
+@"iF
+@"iF4
+@"iF
+(`i`
+(aia
+#DJ`
+CHFd
+IF0F
+q>S@*h
+zi'D
+S_DA
+pc7D
+D,F+iO
+qg+F
+VsDdi
+/D^D:D7DA
+C@.DSD
+?##D
+`sDO
+0SD DO
+uD!DO
+"pD"DO
+q8"D
+tU[D
+wj D
+DFDB
+p9!D
+q9"D
+u9 D
+oBQD
+r9#D
+p9!D
+mbID
+s9%D
+Q2QD
+q9"D
+u9 D
+T3RD
+r9#D
+p9!D
+KcRD
+p5SD
+s9%D
+$bQD
+q9"D
+u9 D
+@IDG
+LrQD
+r9#D
+J UD
+O!PD
+p9!D
+KDSDF
+@UD DO
+YD>D
+@^DO
+DXDUDJ
+q`!D@DO
+h<`<Fy`PD
+D<a~a
+$p`D
+/`qD
+?p2D
+n"`O
+qa"D
+~lfF
+i,D!
+%D,F,
+r5D.F
+wX)F
+pX)F
+pX)F
+OBQD
+SR#D
+B#4D
+#PFYF
+)F0F
+D)F0F
+FFD0F
+sP)F
+0F)F
+0FgP)F
+D\P0F)F
+0FTP)F
+FVD\P0F)F
+FNDTP0F)F
+\P)F
+TP)F
+\P)F
+TP)F
+tP)F
+tP)F
+tP)F
+h5F h
+FB@0
+~ldF
+"F h
+FQh+F
+B.D5F
+0FoX!F
+`r>F
+iXPF
+hX!F
+hX!F
+rmXXF
+WBQD
+#PFYF
+Y*F3D
+|e)F
+@DTD
+)F0F
+D)F0F
+FFD0F
+sP)F
+0F)F
+0FgP)F
+D0F\P)F
+0FTP)F
+FVD\P0F)F
+FNDTP0F)F
+\P)F
+TP)F
+\P)F
+TP)F
+tP)F
+tP)F
+tP)F
+ hah
+h(`i`
+` iai
+i(aia
+2b@ 
+h5F h
+1F"FHF
+ sIF
+F/h!x
+4LE&
+T#)F0F
+YF0F
+1FPF
+#DJ`
+P"!F9
+@"iF
+@"iFj
+@"iF
+(`i`
+(aia
+#DJ`
+CHFd
+IF0F
+$`Y@
+=FHF
+N*C6
+C2C8C
+~@JF
+@F=F
+C2C8C
+3F:C
+	j5C
+~@JF
+@F=F
+C2C8C
+3F:C
+	j5C
+~@JF
+ pAF
+&u@F@
+%D6j
+J@q@
+a}@z@k@h@
+J@C@y@
+i@r@
+& x@
+C@J@
+&0y@
+* x@
+s@J@C@y@
+q@Si
+,PK@
+(& D
+  3j
+PwjS@
+( ]@3F
+ F 4
+0`q`
+0aqa
+3 Fc`
+8F,FL&
+>;hdFx`
+K FO
+3`EO
+3 Fc`"`
+YF F
+B9F F
+38F{`:`
+6< "
+Da`%`
+F "(F
+)F#F
+hs@A
+#`#Fb`
+i\@2ata3
+pjj@4j
+EJX@wk
+Fw@2
+on@!mX@
+y@f@+
+1Q>D*D
+2BX@
+wg]@
+0A@b@
+  $nX@
+8F#F
+0@X@So
+\@#F
+0FvF
+ p|@
+(@_@
+,p|@
+|@'F
+|@'F
+,0\@
+0<k@[
+,<i@[
+\^@[
+(<\@[
+ <S@
+XFSF
+(<\@X
+$<Y@X
+<K@X
++l)F0F
+3l1F(F;@
+chQ@
+ciP@
+X@Ha
+cjP@
+bX@Hb
+ckP@
+cX@Hc1
+clP@
+/FO@
+XFl@C@
+F0D*F
+0+DG+
+`kh,h
+W@*i
+X@3F6j
+(pq@
+r@9N1
+T s@
+l@"F
+^Fs@
+%Ff`,
+\EhO
+JFQF
+2F)F
+0+DG+
+QF FJF
+[FRFIF F
+9F0F
+"F F
+ #2F
++DT`
+8F:F
+#FPF"
+RF+F8FP!
+(`i`
+(aia
+@=@7
+r9F0F
+d@KD
+"11F?
+`FbF
+' an
+Q0@=
+\0`D
+g0AD
+fj'hO
+%3Dfj
+AwDO
+.1Dfj9DsD
+'k;D
+gj9D
+af!k'fgk
+G(Dei
+i)FO
+H7D'e
+D#gO
+YF8F
+A5:D
+ sDM@;D
+s7u@
+r`eD
+u7J@O
+.F[Fu
+!F@F
+H1@F
+AFXF
+F0F !
+t9F0FP"
+0F!F
+(`i`
+(aia
+5MEH
+N! F
+P"QF F
+1F F
+9F F
++DJ`
++DJ`
+5MES
+P"AF F
+QF F
+9F F
++DJ`
++DJ`
+P"9F
+@")F
+@"!F
+@")FhF,
+!FhF,
+@"!F~
+@")F
+@"!F
+@")FM
+@"!F$
+@")F
+@"!F
+0`q`
+0aqa
+F$h)x
+L0XF
+9FXF
+@FYF
+`Z`K
+`Z`K
+P"!F,
+iF@"
+(`i`
+(aia
+4TEO
+P")F0
+1FXF
+#DJ`
+#DJ`
+P"1FhF+
+!FhF+
+!FhF@"+
+hF!F+
+(`i`
+(aia
+4\EO
+P")F
+@"1F
+9F(F
+#DJ`
+#DJ`
+P"1F
+@"!F
+@"!F
+@"!F8
+@"!F
+@"!F
+@"!F
+@"!F]
+@"!F
+@"!F
+0@"c
+ @"#
+`@"5
+N`@"
+P@"A
+@"!F
+!FhF@"{
+!FhF{
+ @"#
+`@"5
+N`@"
+P@"A
+0@"c
+@"!FhF{
+!FhF{
+ @"#
+`@"5
+N`@"
+P@"@
+0@"b
+!FhF@"{
+!FhF{
+@"!F
+!FhF@"{
+!FhF{
+0@"b
+P@"@
+ @"#
+`@"5
+N`@"
+P@"@
+0@"b
+!FhF@"{
+!FhF{
+@"!F
+ @"#
+`@"5
+N`@"
+P@"@
+0@"b
+!FhF@"{
+!FhF{
+@"!F
+ @"#
+`@"5
+N`@"
+P@"@
+0@"b
+!FhF@"{
+!FhF{
+@"!F
+(`i`
+(aia
+#DJ`
+CHFd
+IF0F
+P"1F$
+@"!FY
+!FhF@"+
+hF!F+
+(`i`
+(aia
+#DJ`
+P")F<
+@"9Fq
+@"9F
+IF0F
+bKb3
+$uDU
+}k\,M
+@JF[
+4@7U
+JFAF(
+0`q`
+0aqa
+`JF0
+`JF"
+F$h)x
+L0XF
+9FXF
+@FYF
+`Z`;
+`Z`;
+4@7U
+JFAFQ
+0`q`
+0aqa
+`JF"
+F$h)x
+L0XF
+9FXF
+@FYF
+`Z`;
+`Z`;
+P"1FhF4
+!FhF4
+@"!Fz
+(`i`
+(aia
+#DJ`
+P")F
+@"9F
+@"9FL
+IF0F
+P"lF*
+(`i`
+(aia
+F$h)x
+L0XF
+9FXF
+@FYF
+`Z`K
+`Z`K
+4FcD
+gdFMF
+;(F9F	+
+P'lF
+7;0;
+@'&F
+qaQA.
+:F1F
+:F1F
+:F1F4
+:F1F]
+:F1F
+:F1F
+:F1F
+:F1F
+:F1F
+:F1F
+!CsEt
+L0HF
+YFHF
+IF@F
+`K`O
+SDJ`
+P"9F
+@"!F
+@")F
+@"!FhF)
+)FhF)
+@")F~
+@"!F
+@")FM
+@"!F$
+@")F
+@"!F
+`@"a
+`!Fa
+0`q`
+0aqa
+F$h)x
+L0XF
+9FXF
+@FYF
+`Z`K
+`Z`K
+P"1F
+@"!F
+@"!Fc
+@"!F:
+@"!F
+@"!F
+@"!F
+@"!F
+@"!F
+@"!F
+@"!F
+!FhF@"y
+hF!Fy
+(`i`
+(aia
+F$h)x
+L0XF
+9FXF
+@FYF
+`Z`K
+`Z`K
+P"!F
+(`i`
+(aia
+#DJ`
+CHFd
+IF0F
+P"!F
+(`i`
+(aia
+#DJ`
+CHFd
+IF0F
+P"!F
+(`i`
+(aia
+#DJ`
+CHFd
+IF0F
+7;0;
+E%FO
+8`y`
+8aya
+2`JF`
+pJFY
+,PJF>
+8@JF
+`JF2
+!`JF 
+`JFB
+`JF-
+`FrF
+L0@F
+YF@F	
+AFPF
+`K`Q
+KDJ`
+`FrFYF
+7;0;
+RF)F
+!F@"
+E%FO
+RF)F
+!F@"H
+RF)F
+@!F@"
+`RF2
+'`RF 
+`RFB
+`RF-
+8`RF_
+PRF=
+`FrF
+L0@F
+YF@F
+AFPF
+`K`Q
+KDJ`
+`FrFYF
+P	[D
+7;0;
+E%FO
+8`y`
+8aya
+2`JF_
+pJFX
+,PJF=
+8@JF
+`JF2
+!`JF
+`JFB
+`JF-
+IFPF
+poRI
+6NE*
+L0(F
+QF(F
+)F F
+`K`Q
+`J`Q
+]FfF
+1FPF
+7;0;
+PJF)F
+E%FO
+8`y`
+8aya
+JF)F
+JF)F
+K`JF_
+`JF=
+`JF1
+:`JF
+`JFA
+)`JF,
+`FrFYF
+7OE*
+L00F
+YF0F
+1FPF
+`K`Q
+;DJ`
+`FrFYF
+P"1F
+@"!F
+@"!F
+@"!F8
+@"!F
+@"!F
+@"!F
+@"!F]
+@"!F
+@"!F
+@"!F
+@"!FhFw
+!FhFw
+@"!F
+@"!F
+@"!F
+@"!F
+(`i`
+(aia
+F$h)x
+L0XF
+9FXF
+@FYF
+`Z`;
+`Z`;
+`P"A
+"!F8
+"!F]
+"!FhFw
+!FhFw
+"!F8
+"!F]
+"!FhFw
+!FhFw
+(`i`
+(aia
+F$h)x
+L0XF
+9FXF
+@FYF
+`Z`;
+`Z`;
+)F F
+)F F
+ZDY`
+)F F
+)FPF
+ZDY`
+)F F
+)FPF
+ZDY`
+)F F
+)FPF
+ZDY`
+)F F
+)FPF
+ZDY`
+)FP"
+!F@"@
+!F@"@
+pcVX
+!F@"@
+!F@"@
+0`q`
+0aqa
+hF!F@"&
+!FhF&
+!F@"0
+!F@"
+hF!F@"&
+!FhF&
+!F@"0
+!F@"
+hF!F@"&
+!FhF&
+!F@"0
+!F@"
+hF!F@"&
+!FhF&
+!F@"0
+!F@"
+#h2h
+3`1F F
+(`i`
+(aia
+5UEA
+!F8F
+3l!F"h8F
+1F F
++DJ`
++DJ`
+QFP"
+M@T@
+swFF
+`@b@O
+Ih@S@
+8iyi
+p"FS
+FP"0F
+8`y`
+8aya
+B9F<F
+h9F<F
+FaFdF
+[*D*
+aFdF
+[*D*
+`D9F
+eF;hU
+>`bFA
+(F#FBF
+AF8F
+!:h8F
+"F)FHF
+FAF"F
+`Nhs
+#lhOD
+4GEl`
+:F(F
+ODGE
+@"!F
+{sFrF
+{SFRF
+pFbF'
+Z{sFrF
+`F2F'
+uFbF'
+%0F1F
+" @+
+#0@*
+"1F@F
+2F@F
+#F)FQ
+F.FV
+/F8F
+#h(F
+F#F*F
+;hlF F
+!pG0
+F#hX
+$0II
+<Hd3+`
+$01I
+<1"F+F
+/(D9F
+#(F#p
+@ pG
+@ pG0"P
+pG0 
+0pG0 
+0pG0"
+pG0 
+0pG0 
+ pG( pG
+  pG
+0 pG8 pG
+zq9q
+)F F
+)F`U@F
+#!FxU
+(@*F
+"iF(F
+|@1F
+F#F*F
+;hlF F
+,Q F
+"!F@F
+#xw+	
+q`xS
+#yw+
+OJ/F
+9]XF
+l`BF
+W=+C[
+\r!F
+$!FZH
+!FYH
+"(F1F
+(@2F
+F~+O
+9>! F
+#?"!F
+h1U+@
+3hP"th
+P"@IF
+kx*popj
+yoq/~
+r+uo{
+ky*x/y 
+r!#D
+:j:K
+@#("
+&(FGh
+ ?bD:D
+! x*o
+sZhx*i
+hx*f
+hx*c
+ix+`
+X3Dx*l
+Zhx*i
+hx*f
+hx*c
+ix+`
+&eFjh
+FdF 
+-0FO
+IA[E
+IA[E
+{1FS
+\rAF
+l9(F
+AF8FO
+&(FAh
+ ?:D
+L(XF
+{1FS
+,Q*F
+G,KF
+[AQE
+X;Dx*l
+Zhx*i
+hx*f
+hx*c
+ix+`
+b@fffff
+1FhF
+1FhF
+jF8F
+ Z`pG
+#!i2D3D
+:F(D
+h!i2D
+ g`2D
+9]aE
+#MEJ
+FHFO
+:FIFPF
+FHFO
+"FIFPF
+BFQFXF
+%HF*F
+5<F h
+3BD	
+%<F+F
+"FIFPF
+"FIF@F
+AFPF
+AFPF
+%IF*Fx
+FhFO
+KF2FiF@F
+FhFO
+KF2FiF@F
+(<Q&E
+V4?6	
+F(FO
+"!F8F
+#xw+
+q`xS
+#yw+
+l`!F
+"F)FPF
+l`!F
+l`!F
+Q"F01
+l`!F
+@Q"F
+G5 F
+IJFH
+D@ffffff
+)F0F
+|q0F
+)F0F
+8-AF
+8=8+
+8=8+
+Ps8?
+P#8:
+8=8+
+P38+
+iFHF
+)F0F
+)F0F
+|q0F
+)F0F
+|q0F
+)F0F
+8-AF
+8=7+/
+D8+	
+P0<F
+RYF F
+6HF1F
+9F@F
+9F@F
+@-	*_
+RF9F@F
+RF9F@F
+P!8F
+r!F(F
+zp_F
+rIF(F
+#4F	
+"F)F@F
+2FAF
+)FcF_F^
+r!F(F
+zp_F
+rIF(F
+#4F	
+"F)F@F
+02FAF
+(!(F
+`!(F
+x!(F
+`!(F
+`!(F
+`!(F
+)FcF_F
+81(F
+81(F
+81(F
+81(F
+l1(F
+l1(F
+l1(F
+<A(F
+<A(F
+<A(F
+<A(F
+H1 F
+\1 F
+p1 F
+,A F
+@A F
+Ha F
+\a F
+pa F
+,q F
+@q F
+Tq F
+TA F
+hA F
+$Q F
+8Q F
+dQ F
+xQ F
+/(F9F
+H+`F
+Vk`H
+41FPF
+"FIF
+\Q"F
+<@CF
++0F)F
+PF:F
+,C:F
+PF:F
+ C:F
+,C:F
+PF"F
++!FO
+0F*F
+,C*F
+ F8F,F
+	#RF
+ FCF
+!RF F
+RF3F
+")F F
+")F F
+)F F
+)F F
+,GBF
+BF)F F
+*FKF
+!*F F
+*F;F
+#FPF
+ FCF
+	#RF
+hF!F
+;F2F!F(F
+<@#F
+vRQ>
+8STs
+LwH'
+vRQ>
+8STs
+LwH'
+oh F
+ pGG
+-!"F
+(F-!
+@=HF
+!"9F
+`3`S
+!(J- 
+$;`!F
+2- "F
+0F"F
+!"F0F
+r#F!F
+%"#F!F
+4G!F80O
+d"!F
+2FAF
++r(`i`
+b#F!F
+r#F!F
+b#F!F
+#F!F
+#F!F
+"#F!F
+#F!F
+#F!F
+"F!F8F
+F8F'hD
+F0F&hD
+F(F%hD
+1F#F
+F1FC
+h!hZ`
+ F4F
+!F(F2"
+F0F,D
+D`9F
+L`!F
+!(F7h
+TQ(F
+ q F
+,q F
+`q F
+cxo+
+@1 F
+cxa+@
+xn+@
+TA(F
+TA(F
+4@X3
+A8FX1
+YFHF
+tq(F
+4@+F
+IFHF
+IF8h
+z|SF*FHF
+H1(F
+T10F
+@X0,
+4Q F
+<a F
+pq F
+4Q F
+RhX0
+)F@"H1
+F2"XF
+9FHF2"
+d9FPF2"
+9F F2"
+9F@F2"
+"FQFCF
+<FGF4
+IF8h
+")FPF
+"QF	
+TBTA
+F'F\F
+Pk9F	
+ "9FHF
+XpXF
++ Fsh
+IF F
+"hshO*
+"iO*
+[ rhD
+!FHF
+!FHF
+FQFO
+QFHFO
+D`pI
+,qKF
+l$MF
+(!B"
+@@ffffff
+@sYF
+IFPF
+[#p~b
+9FHFO
+Tc9FXFO
+shYF
+TB[F
+shYF
+shYF
+ QX+DD
+h DE
+9F FO
+2HF\F
+YFHF
+{QFU
+1FHF
+@X0+
+  "h
+0!FO
+R!FPF
+P "FYF
+X YF
+` !F
+/F[D
+/F9F
+>DQFv
+F#FS
+h hJ`
+`4x|
+F/F*
+?,Fb
+0F/F
+#0F;p
+9F0F
+;FBF
+80:F
+C2F83!F
+@!F80
+0 FK
+802F
+h180#F:F
+!D3D
+2F80
+X180
+;FBF0D
+ pGE
+ piF
+HpiF
+|piF
+y `hF#q
+4@#F
+4@KF
+4@CF
+4@;F
+4@3F
+4@+F
+iFHF
+iF@F
+iF(F
+1F)F
+1F)F
+X!CF
+4@#F
+4@[F
+4@KF
+4@CF
+4@;F
+:F0F+F
+d@@"
+\P@"
+ 1*F
+FhF@"
+)F F
+iFPF
+)F F
+iFHF
+)F F
+iF@F
+)F F
+iF8F
+O "-
+h0D "
+4SES
+$@1F
+jhxK
+T{XF
+R`hF
+L@"`
+`"ag`
+@=HF
+!"F(F
+Fai0F
+	P!`C
+pt9`
+-!2F
+(F-!
+p6			
+{#h4
+/)F*
+/9F F
+#+`qF
+0FCF
+kh!F
+-!F0F
+\Q"F
+a2#F!F
++QF(F
+! F@
+@u `
+'cPD
+#F!F
+!F F
+xp!F
+1F@"(FF
+!F8F.*
+<F0F
+(F!F
+!#A8F
+0F!F
+1F(F
+!F(F
+"F)F@
+!F(F
+!F(F
+D!F(F
+!F(F
+0F9F
+1F:F
+9F0F
+@F1F:F
+9F0F
+:F1F
+!F*x@F
+9F0F
+9F0F
+} 		
+ pGO
+Ih@h
+BFIF8F
+ F:F
+QF F
+3SE@
+1F8F
+9FHF
+)FSF
+BFQF
+1F8F
+QFXF
+6FE?
+YFHF
+)F#F
+PFBF!F
+1FXF
+1FXF
+FRF0F
++F9FLF
+	4F#x
+& F&b
+gaBF
+>F<F
+$ F-
+B FF
+	&F3x
+<F>F
+FCFPF
+1F F
+QFCF
+,F#x
+5F4F
+&(F.b
+2F#F1F
+BF#FAF
+oa#F
+	5F+x
+0F#F
+>F=Fn
+0+bh
+5F+x
+0F#F
+(p*F#F
+>F=Fr
+CFXF
+0ka"
+1FPF
+F#FLF
+0F#F
+(p*F#F
+5F+x
+>F=F
+"Fka
+)b#F
+&(F.b
+2F#F1F
+BF#FAF
+	5F+x
+0F#F
+T`#F
+\`#F
+>F=Fr
+6+bf
+5F+x
+0F#F
+(p*F#F
+>F=Fr
+CFXF
+1FPF
+0F#F
+(p*F#F
+5F+x
+>F=F
+2FIF
+2FIF
+2FQF
+2FQF
+;F2F)F
+T`2F
+\`2F
+2F)F F;F
+HF+F
+AFPF
+2F)FKF
++FXF
+0ca5
+AF F
+2Fca
++F8F
++FJFIFTF
+2F#b
+hn`bh
+:hXF
+(uh"
+ pG-
+FpGO
+KF2FAF(F
+pGci
++&a r
+!"Ffr
+0#iY
+"+Faa
+F8F!F
+2#i#
++&a r
+!"Ffr
+0#iY
+"+F8Ffa!F
++.a(r
+!*Fnr@
+QF(F
+QF(F
+!F(F
+\a F
+lc F	
+a*bO
+#.D3r+iY
++i+D
++ijj
+2+ajb	z
+4 Flc	
+t Flc	
+QF(F
+QF(F
+QF(F
+la:F)FPF
+2QF(F
+F",~
+\,QF(F
+H2PF
+F3` F
+3h"+
+QF(F
+QF(F
+QF(F
+QF(F
+Cxu+F
+	##p
+QF(F
+QF(F
+0<A;
+y\*@
+yu*@
+7:Az
+QF(F
+(F!F
+,)F	
+02#FPF
+#FPF
+x2PF
+3kb#
+2+ik
+QF(F
+)F F
+ck}+
+AF0F
+)F F
+ck:+@
+)F F
+*FIF F
+ChAFZ
+3C`0F
+)F F
+ck,+@
+)F F
+lB!F(F
+|B(F!F
+)F F
+ck]+?
+F0FZ
+)F F
+ck)F F,+6
+*FIF F
+B!F(F
+B!F(F
+B!F(F
+LB!F(F
+\B!F(F
+4B!F(F
+AF F
+*F1F
+ChAFZ
+3C` F
+F FZ
+*F1F
+AF F
+2F)F
+ChAFZ
+3C` F
+F FZ
+2F)F
+AF F
+*F1F
+ChAFZ
+3C` F
+F FZ
+*F1F
+F FZ
+*F1F
+IF F
+*F1F
+ChIFZ
+3C` F
+CF(F
+ Q0F
+lB0F
+AF F
+2F)F
+ChAFZ
+3C` F
+|B0F
+F FZ
+2F)F
+LB0F
+\B0F
+4B0F
+"F1F
+p F8
+`pG-
+`*F1F@D
+De`SU
+ch&`
+`*F9F@D
+De`SU
+.!(F
+3`(F
+p.!8F
+Fe!8F
+x-*'
+6Zpe!
+ pGx
+pGCx
+fF<FO
+9F@F
+#h*h
+)F F
+3hAFHFs
+ F,F
+0pG8
+a(F8
+8pG8
+ea F8
+ pG-
+$ F8
+$ F8
+ pGO
+ pGO
+C"D1
+01FHF{
+9FHF
+)FPF
+chI	
+i)F#FPFU
+)FHF
+!FPF
+rh[	
+i!F3FPFT
+BF9F
+hQF i
+!FPF
++hAFHF
+*h3h
+i9F#FPFW
+AFXF
+ah[	
+EC`&
+FYFHF
+!FPF
++h~a
+gC`A
+gC`2
+`#FB`
+`bF\0
+;JFAF8F
+stratum_thread
+Sa:b:Bc:CDf:hm:n:p:Px:qr:R:s:t:T:o:u:O:VEF:G:
+Try `cpuminer-multi --help' for more information.
+Usage: cpuminer-multi [OPTIONS]
+Options:
+  -a, --algo=ALGO       specify the algorithm to use
+                          allium       Garlicoin double lyra2
+                          axiom        Shabal-256 MemoHash
+                          bitcore      Timetravel with 10 algos
+                          blake        Blake-256 14-rounds (SFR)
+                          blakecoin    Blake-256 single sha256 merkle
+                          blake2b      Blake2-B (512)
+                          blake2s      Blake2-S (256)
+                          bmw          BMW 256
+                          c11/flax     C11
+                          cryptolight  Cryptonight-light
+                          cryptonight  Monero
+                          decred       Blake-256 14-rounds 180 bytes
+                          dmd-gr       Diamond-Groestl
+                          drop         Dropcoin
+                          fresh        Fresh
+                          geek         GeekCash
+                          groestl      GroestlCoin
+                          heavy        Heavy
+                          jha          JHA
+                          keccak       Keccak (Old and deprecated)
+                          keccakc      Keccak (CreativeCoin)
+                          luffa        Luffa
+                          lyra2re      Lyra2RE
+                          lyra2rev2    Lyra2REv2
+                          lyra2v3      Lyra2REv3 (Vertcoin)
+                          myr-gr       Myriad-Groestl
+                          neoscrypt    NeoScrypt(128, 2, 1)
+                          nist5        Nist5
+                          pluck        Pluck:128 (Supcoin)
+                          pentablake   Pentablake
+                          phi          LUX initial algo
+                          phi2         LUX newer algo
+                          quark        Quark
+                          qubit        Qubit
+                          rainforest   RainForest (256)
+                          scrypt       scrypt(1024, 1, 1) (default)
+                          scrypt:N     scrypt(N, 1, 1)
+                          scrypt-jane:N (with N factor from 4 to 30)
+                          shavite3     Shavite3
+                          sha256d      SHA-256d
+                          sia          Blake2-B
+                          sib          X11 + gost (SibCoin)
+                          skein        Skein+Sha (Skeincoin)
+                          skein2       Double Skein (Woodcoin)
+                          sonoa        A series of 97 hashes from x17
+                          s3           S3
+                          timetravel   Timetravel (Machinecoin)
+                          vanilla      Blake-256 8-rounds
+                          x11evo       Permuted x11
+                          x11          X11
+                          x12          X12
+                          x13          X13
+                          x14          X14
+                          x15          X15
+                          x16r         X16R
+                          x16rv2       X16Rv2 (Raven / Trivechain)
+                          x16s         X16S (Pigeon)
+                          x17          X17
+                          x20r         X20R
+                          xevan        Xevan (BitSend)
+                          yescrypt     Yescrypt
+                          yescryptr8   Yescrypt r8
+                          yescryptr16  Yescrypt r16
+                          yescryptr32  Yescrypt r32
+                          zr5          ZR5
+                          kaspa        KASPA
+  -o, --url=URL         URL of mining server
+  -O, --userpass=U:P    username:password pair for mining server
+  -u, --user=USERNAME   username for mining server
+  -p, --pass=PASSWORD   password for mining server
+      --cert=FILE       certificate for mining server using SSL
+  -x, --proxy=[PROTOCOL://]HOST[:PORT]  connect through a proxy
+  -t, --threads=N       number of miner threads (default: number of processors)
+  -r, --retries=N       number of times to retry if a network call fails
+                          (default: retry indefinitely)
+  -R, --retry-pause=N   time to pause between retries, in seconds (default: 30)
+      --time-limit=N    maximum time [s] to mine before exiting the program.
+  -T, --timeout=N       timeout for long poll and stratum (default: 300 seconds)
+  -s, --scantime=N      upper bound on time spent scanning current work when
+                          long polling is unavailable, in seconds (default: 5)
+      --randomize       Randomize scan range start to reduce duplicates
+  -f, --diff-factor     Divide req. difficulty by this factor (std is 1.0)
+  -m, --diff-multiplier Multiply difficulty by this factor (std is 1.0)
+  -n, --nfactor         neoscrypt N-Factor
+      --coinbase-addr=ADDR  payout address for solo mining
+      --coinbase-sig=TEXT  data to insert in the coinbase when possible
+      --max-log-rate    limit per-core hashrate logs (default: 5s)
+      --no-longpoll     disable long polling support
+      --no-getwork      disable getwork support
+      --no-gbt          disable getblocktemplate support
+      --no-stratum      disable X-Stratum support
+      --no-extranonce   disable Stratum extranonce support
+      --no-redirect     ignore requests to change the URL of the mining server
+  -E, --burn            burn bin file
+  -F, --files=FILES     files to burn
+  -G, --binver=TEXT     bin version string
+  -q, --quiet           disable per-thread hashmeter output
+      --no-color        disable colored output
+  -D, --debug           enable debug output
+  -P, --protocol-dump   verbose dump of protocol-level activities
+      --hide-diff       Hide submitted block and net difficulty
+  -S, --syslog          use system log for output messages
+  -B, --background      run the miner in the background
+      --benchmark       run in offline benchmark mode
+      --cputest         debug hashes from cpu algorithms
+      --cpu-affinity    set process affinity to cpu core(s), mask 0x3 for cores 0 and 1
+      --cpu-priority    set process priority (default: 0 idle, 2 normal to 5 highest)
+  -b, --api-bind        IP/Port for the miner API (default: 127.0.0.1:4048)
+      --api-remote      Allow remote control
+      --max-temp=N      Only mine if cpu temp is less than specified value (linux)
+      --max-rate=N[KMG] Only mine if net hashrate is less than specified value
+      --max-diff=N      Only mine if net difficulty is less than specified value
+  -c, --config=FILE     load a JSON-format configuration file
+  -V, --version         display version information and exit
+  -h, --help            display this help text and exit
+SIGHUP received
+SIGINT received, exiting
+SIGTERM received, exiting
+sig=%d
+net diff: %f -> shift %u, bits %08x
+(booooo)
+(yes!)
+[32myes!
+(yay!!!)
+[32myay!!!
+[31mbooooo
+%.0f
+%.2f
+lbs_miner->pool_state1 = %d
+diff %.3f
+%.2f%%
+accepted: %lu/%lu (%s), %s H/s %s
+accepted: %lu/%lu (%s), %s kH/s %s
+reject reason: %s
+mutable
+coinbase/append
+submit/coinbase
+version/force
+version/reduce
+height
+JSON invalid height
+Current block is %d
+version
+JSON invalid version
+Switching to getwork, gbt version %d
+Unrecognized block version: %u
+previousblockhash
+JSON invalid previousblockhash
+curtime
+JSON invalid curtime
+bits
+JSON invalid bits
+transactions
+JSON invalid transactions
+data
+coinbasetxn
+JSON invalid coinbasetxn
+No payout address provided, switching to getwork
+No payout address provided
+coinbasevalue
+JSON invalid coinbasevalue
+coinbaseaux
+Signature does not fit in coinbase, skipping
+JSON invalid coinbaseaux
+JSON invalid target
+workid
+JSON invalid workid
+longpollid
+longpolluri
+JSON invalid data
+POK received: %08xx
+, diff %.3f, target %.1f
+, diff %.3f
+%s block %d%s
+{"method": "getmininginfo", "params": [], "id":8}
+getmininginfo not supported
+result
+difficulty
+proof-of-work
+networkhashps
+blocks
+diff %.2f
+, net 
+%s block %d, %s
+{"method": "login", "params": {"login": "%s", "pass": "%s", "agent": "%s"}, "id": 1}
+DEBUG: authenticated in %d ms
+{"method": "getwork", "params": [], "id":0}
+CURL init failed
+%s%s%s
+Long-polling on %s
+{"method": "getjob", "params": {"id": "%s"}, "id":1}
+{"method": "getblocktemplate", "params": [{"capabilities": ["coinbasetxn", "coinbasevalue", "longpoll", "workid"], "longpollid": "%s"}], "id":0}
+submitold
+, target %.3f
+%s detected new block%s
+DEBUG: job_id='%s' extranonce2=%s ntime=%08x
+ (%.5f)
+Stratum difficulty set to %g%s
+DEBUG: stale work detected, discarding
+block %u was already solved
+{"method": "submit", "params": {"id": "%s", "job_id": "%s", "nonce": "%s", "result": "%s"}, "id":4}
+{"id":140,"method":"mining.submit","params":["%s","%s","%.16s"]}
+{"method": "mining.submit", "params": ["%s", "%s", "%s", "%s", "%s"], "id":4}
+submit_upstream_work stratum_send_line failed
+{"method": "submitblock", "params": ["%s%s", %s], "id":4}
+{"method": "submitblock", "params": ["%s%s"], "id":4}
+submit_upstream_work json_rpc_call failed
+{"method": "submit", "params": {"id": "%s", "job_id": "%s", "nonce": "%s", "result": "%s"},"id":4}
+status
+Invalid job id
+submit_upstream_work OOM
+{"method": "getwork", "params": ["%s"], "id":4}
+reject-reason
+{"method": "getblocktemplate", "params": [{"capabilities": ["coinbasetxn", "coinbasevalue", "longpoll", "workid"]}], "id":0}
+CURL initialization failed
+...terminating workio thread
+...retry after %d seconds
+json_rpc_call failed, terminating workio thread
+json_rpc_call failed, retry after %d seconds
+No usable protocol
+getblocktemplate failed, falling back to getwork
+got new work in %.2f ms
+Thread %d priority %d (nice %d)
+Binding thread %d to cpu %d (mask %x)
+Binding thread %d to cpu mask %x
+scrypt buffer allocation failed
+pluck buffer allocation failed
+Waiting for Stratum to set the job difficulty
+work retrieval failed, exiting mining thread %d
+temperature too high (%.0fC), waiting...
+network diff too high, waiting...
+network hashrate too high, waiting %s...
+Benchmark: %s
+%llu
+Mining timeout of %ds reached, exiting...
+CPU #%d: %.2f H/s
+CPU #%d: %s kH/s
+%.3f
+Total: %s H/s
+Total: %s kH/s
+scrypt-jane
+%s:%d
+algo
+JSON option %s invalid
+blake2
+cryptonight-light
+flax
+diamond
+droplp
+jackpot
+lyra2
+lyra2v2
+lyra2rev3
+monero
+scryptjane
+sibcoin
+timetravel10
+ziftr
+kaspa
+Unknown algo parameter '%s'
+incorrect Nfactor %d
+%s:%d: %s
+http://
+https://
+stratum+tcp://
+stratum+ssl://
+unknown protocol -- '%s'
+invalid URL -- '%s'
+http://%s
+stratum
+invalid username:password pair -- '%s'
+socks4://
+socks5://
+socks4a://
+socks5h://
+invalid address -- '%s'
+coinbase signature too long
+ built with GCC 
+%d.%d.%d
+ the Sep 12 2023
+ compiled for general use
+ config features: ARM ARMv5E
+jansson/%s 
+EDD1 Starting Stratum on %s
+pool%d
+/var/volatile/tmp/bgserver.conf
+user
+init... pool[%d] addr:%s	user:%s	pass:%s
+EDD2 Starting Stratum on %s
+addrupdat_flag %d sleep_flag %d 
+func:%s line:%d
+addrupdata! !
+addr:%s	user:%s	pass:%s
+cur addr | user |pass need updata
+need 1stratum url %s 	 rpc url %s user:%s pass:%s
+sleep !
+lbs_miner->pool_state2 = %d
+disconnecting...
+lbs_miner->poo3_state3 = %d
+addr%d = %s
+stratum.url%s
+before addr1======= %s 
+edd before addr-------- %s 
+................. addr_no = %d .................
+edd need 2stratum url %s 	 rpc url %s user:%s pass:%s
+Connection changed to %s
+Stratum connection reset
+ failures>=2 will need_reset!
+%s block %d, diff %.3f
+%s %s block %d
+%s asks job %lu for block %d
+Stratum connection timeout
+lbs_miner->pool_state4 = %d
+lbs_miner->pool_state5 = %d
+Network disconnection
+Stratum connection interrupted
+Disconnect and reconnect
+JSON decode failed(%d): %s
+.................vital key=%d................
+%s: unsupported non-option argument -- '%s'
+eddie test!
+rate :%0.2lf rt_pow :%d accepted :%d rejected :%d 
+edd rate :%0.10lf rt_pow :%d accepted :%d rejected :%d diff:%lf
+miner
+conffile
+/var/order/conf/bgserver.conf
+miner_vson_conf_buf = %s
+bg_vson_conf_buf = %s
+nums
+/var/order/conf/reset.conf
+nums_buf = %s
+killall reset
+need init reset
+mkdir resetbak
+mkdir /var/order/resetbak
+cp -r /var/order/reset/* /var/order/resetbak/
+miner_md5_conf_buf = %s
+cp -r /var/update/*miner.bgz /var/order/resetbak/formal/miner.bgz
+md5sum /var/order/resetbak/formal/miner.bgz
+miner_md5_buf = %s
+cp miner md5 same
+rm -r /var/order/resetbak/formal/*ks*miner.bgz
+not .bgz
+mv /var/order/resetbak/formal/miner.bgz /var/order/resetbak/formal/%s
+mv /var/order/resetbak/formal/miner.bgz /var/order/resetbak/formal/%s.bgz
+miner_mv_buf = %s
+cp miner md5 no same
+rm -r /var/order/resetbak/formal/miner.bgz
+/var/order/resetbak/conf/bgserver.conf
+bg_md5_conf_buf = %s
+cp -r /var/update/*bg.bgz /var/order/resetbak/web.bgz
+md5sum /var/order/resetbak/web.bgz
+bg_md5_buf = %s
+cp bg md5 same
+rm -r /var/order/resetbak/*bg.bgz
+mv /var/order/resetbak/web.bgz /var/order/resetbak/%s
+mv /var/order/resetbak/web.bgz /var/order/resetbak/%s.bgz
+bg_mv_buf = %s
+cp bg md5 not same
+rm -r /var/order/resetbak/web.bgz
+rm -r /var/order/reset
+mv /var/order/resetbak /var/order/reset
+/var/update
+./reset &
+not init reset
+/var/order/reset/conf/bgserver.conf
+model_buf = %s
+ks3m_miner
+KS3M model
+model mismatching
+Version_error
+127.0.0.1
+/proc/self/exe
+Using config %s
+Using JSON-RPC 2.0
+CPU Supports AES-NI: %s
+%s: no URL supplied
+%s:%s
+https:
+setsid() failed (errno = %d)
+chdir() failed (errno = %d)
+Binding process to cpu mask %x
+cpuminer
+stats
+benchmark
+work thread create failed
+long poll thread create failed
+stratum thread create failed
+api thread create failed
+thread %d create failed
+%d miner threads started, using '%s' algorithm.
+workio thread dead, exiting.
+api-bind
+api-remote
+background
+cputest
+cert
+coinbase-addr
+coinbase-sig
+cpu-affinity
+cpu-priority
+no-color
+debug
+diff-factor
+diff-multiplier
+help
+nfactor
+no-gbt
+no-getwork
+no-longpoll
+no-redirect
+no-stratum
+no-extranonce
+max-temp
+max-diff
+max-rate
+protocol
+protocol-dump
+quiet
+retries
+retry-pause
+randomize
+scantime
+show-diff
+hide-diff
+max-log-rate
+syslog
+time-limit
+threads
+timeout
+userpass
+burn
+files
+binver
+keccak
+keccakc
+heavy
+neoscrypt
+quark
+allium
+axiom
+bastion
+blake
+blakecoin
+blake2b
+blake2s
+cryptolight
+cryptonight
+decred
+dmd-gr
+drop
+fresh
+geek
+groestl
+lbry
+luffa
+lyra2re
+lyra2rev2
+lyra2v3
+myr-gr
+nist5
+pentablake
+phi1612
+phi2
+pluck
+qubit
+rainforest
+scrypt
+shavite3
+sha256d
+skein
+skein2
+sonoa
+timetravel
+bitcore
+tribus
+vanilla
+veltor
+x11evo
+x16r
+x16rv2
+x16s
+x20r
+xevan
+yescrypt
+yescryptr8
+yescryptr16
+yescryptr32
+123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz
+rpc2_login_decode
+rpc2_job_decode
+X-Long-Polling
+X-Reject-Reason
+X-Stratum
+sock
+...........vital sock=%d...........
+[%d-%02d-%02d %02d:%02d:%02d]%s %s%s
+[01;37m
+[33m
+[31m
+[90m
+Failed to get extranonce1
+Failed to get extranonce2_size
+Failed to get valid n2size in parse_extranonce
+Failed to alloc xnonce1
+hex2bin str truncated
+hex2bin failed on '%s'
+Stratum set nonce %s with extranonce2 size=%d
+HOME
+%s\.cpuminer\cpuminer-conf.json
+%s%scpuminer-conf.json
+%.2f %cH/s
+%.2f H/s%c
+JSON protocol request:
+Content-Length: %lu
+sctx3=%s
+Content-Type: application/json
+User-Agent: IceRiverMiner-v1.1
+X-Mining-Extensions: longpoll reject-reason
+HTTP request failed: %s
+Empty data received in json_rpc_call.
+json_buf=%s
+JSON protocol response:
+code
+method not getwork
+(unknown reason)
+JSON-RPC call failed: %s
+Remote config init failed!
+http_proxy
+all_proxy
+ALL_PROXY
+Remote config read failed: %s
+Empty data received for config
+%02x
+JSON key '%s' not found
+JSON key '%s' is not a string
+hash <= target
+hash > target (false positive)
+DEBUG: %s
+Hash:   %s
+Target: %s
+> %s
+sock send_line 
+...........vital send sock=%d...........
+...........vital send n=%d...........
+...........vital send s=%s...........
+...........vital ret=%d...........
+stratum_recv_line timed out
+stratum_recv_line failed
+stratum_recv_line failed to parse a newline-terminated string
+< %s
+http%s
+.............vital sctx->curl_url=%s...........
+Stratum connection failed: %s
+.................vital url=%s................
+.................vital session_id=%s................
+{"id": 1, "method": "mining.subscribe", "params": []}
+{"id": 1, "method": "mining.subscribe", "params": ["IceRiverMiner-v1.1", "%s"]}
+{"id": 1, "method": "mining.subscribe", "params": ["IceRiverMiner-v1.1", "EthereumStratum/1.0.0"]}
+stratum_subscribe send failed
+stratum_subscribe timed out
+JSON invalid result
+JSON inval id
+JSON id is not a string
+Auth id: %s
+JSON inval status
+JSON status is not a string
+JSON returned status "%s"
+%s: fail
+Failed to call rpc command after %i tries
+Tried to call rpc2 command before authentication
+params
+Unauthenticated
+Low difficulty share
+Block expired
+Duplicate share
+json_rpc2.0 error: %s
+Tried to decode job without JSON-RPC 2.0
+job_id
+JSON invalid job id
+blob
+JSON invalid blob
+JSON invalid blob length
+RPC2 OOM!
+Stratum difficulty set to %g
+Work requested before it was received
+mining.notify
+Stratum notify: invalid claim parameter
+Stratum notify: invalid UTXO root parameter
+Stratum notify: invalid parameters
+Stratum notify: invalid Merkle branch
+mining.ping
+Pool ping
+{"id":%d,"result":"pong","error":null}
+mining.set_difficulty
+diff:%lf lib_diff:%lf
+mining.set_extranonce
+set_extranonce
+client.reconnect
+stratum+tcp://%s:%d
+Ignoring request to reconnect to %s
+Server requested reconnection to %s
+client.get_algo
+Pool asked your algo parameter
+client.get_stats
+linux
+GCC %d.%d.%d
+sharing CPU stats with freq %s
+type
+device
+vendorid
+arch
+freq
+memf
+power
+khashes
+intensity
+throughput
+cpuminer-multi/1.3.7
+client
+driver
+client.get_version
+sctx1=%s
+client.show_message
+MESSAGE FROM SERVER: %s
+unknown stratum method %s!
+unknown method
+sctx2=%s
+............malloc 
+ = %d............
+{"id": 2, "method": "mining.authorize", "params": ["%s", "%s"]}
+............vital s 
+ = %d............
+Stratum authentication failed
+%s%02x%02x%02x%02x 
+[90m
+%02x%02x%02x%02x 
+%s %s
+[01;37mCPU HASH ON EMPTY BUFFER RESULTS:
+[36m
+%s%11s%s: %s
+scrypt:2048
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+bye|
+CPU=%d;KHS=%.2f|
+1.3.7
+cpuminer-multi
+NAME=%s;VER=%s;API=%s;ALGO=%s;CPUS=%d;KHS=%.2f;SOLV=%d;ACC=%d;REJ=%d;ACCMN=%.3f;DIFF=%.6f;TEMP=%.1f;FAN=%d;FREQ=%d;UPTIME=%.0f;TS=%u|
+API disabled
+0.0.0.0
+ - API will not be available
+API not running (no valid IPs specified)%s
+API initialisation failed (%s)%s
+API initialisation 2 failed (%s)%s
+API setsockopt SO_REUSEADDR failed (ignored): %s
+API bind to port %d failed - trying again in 20sec
+API initialisation 3 failed (%s)%s
+API failed (%s)%s
+Accepted
+API: connection from %s - %s
+Ignored
+Sec-WebSocket-Key
+API: exec command %s(%s)
+clientkey: %s
+%s258EAFA5-E914-47DA-95CA-C5AB0DC85B11
+%c%c==
+%c%c%c=
+%c%c%c%c
+HTTP/1.1 101 Switching Protocol
+Upgrade: WebSocket
+Connection: Upgrade
+Sec-WebSocket-Accept: %s
+Sec-WebSocket-Protocol: text
+API bind to port %d failed (%s)%s
+GET /
+summary
+seturl
+quit
+/sys/devices/platform/coretemp.0/hwmon/hwmon1/temp1_input
+/sys/class/hwmon/hwmon1/temp1_input
+/sys/class/hwmon/hwmon0/temp1_input
+/sys/devices/platform/coretemp.0/hwmon/hwmon0/temp2_input
+/sys/class/hwmon/hwmon0/temp2_input
+/sys/class/hwmon/hwmon0/device/temp1_input
+/sys/class/thermal/thermal_zone0/temp
+/sys/devices/system/cpu/cpu0/cpufreq/cpuinfo_cur_freq
+/proc/cpuinfo
+model name	
+cpu family	
+model	
+stepping	
+%x:%02x%02x:%d
+share diff %.5f (%.1fx)
+HEFTY1_Init
+HEFTY1_Update
+HashBlock
+vRQ>
+8STs
+LwH'
+[HEFTY1_Final
+sha3/sph_hefty1.c
+digest
+_E`%
+\hQV
+Sb*kA?AT?*
+0Hx(x`(07
+$~Z6ZH6$
+tX4Fr.rh.46Aw-wl-6
+%Ku>
+cw/X
+cB pP0P@0 
+&y_5_L5&
+.eK9K\9.
+2O}+}d+2
+k(lD<DP<(
+r\8Tl$lp$8W_
+Ws!R
+>]c!c|!>
+B|q&W
+:Si'it':'
++"wU3UD3"
+-<Zf"fx"<
+m,bN:NX:,2
+__`%
+\hhV
+SbbkA?AT?**
+Hx(x`(00
+~Z6ZH6$$
+iNN3L
+tXXFr.rh.44Aw-wl-66
+%%u>
+cc/X
+cBBpP0P@0  
+y_5_L5&&
+eK9K\9..j
+Gzz'
+O}+}d+22B
+kklD<DP<((,
+Ntt6"
+GG8(
+r\\Tl$lp$88_
+WW!R
+]c!c|!>>
+B||&W
+Si'it'::
+++wU3UD3""
+--Zf"fx"<<
+xPP+
+		#9
+wZZ-3
+mmbN:NX:,,
+9T``
+qbMM|1
+AAn/
+}g__C
+EE`%
+-[uu(]
+\QQV
+Msbb
+S**kA?AT?
+1RFF
+!^00Hx(x`(77
+	$$~Z6ZH6
+t44Fr.rh.66Aw-wl-
+ua}}4I
+yy:C
+*OO{4
+KKu>
+ww/X
+EuBB
+c  pP0P@0
+&&y_5_L5
+..eK9K\9
+=WUUX
+22O}+}d+
+((lD<DP<
+anCCi*
+IIr;
+GGg 
+r88Tl$lp$WW_
+ss!R
+>>]c!c|!
+Bqq&W
+)X::Si'it'''
+""wU3UD3
+<<Zf"fx"
+{{=F
+,,bN:NX:
+9P``
+MM|1
+AAn/
+EE`%
+uu(]
+zjLL
+MSbb
+?**kA?AT
+1eFF
+!(00Hx(x`
+6$$~Z6ZH
+:tXX
+.44Fr.rh-66Aw-wl
+SMvv
+}}4I
+yy:C
+OO{4
+b/Uff
+[Dxx
+KKu>
+BHpp
+ww/X
+EcBB
+0  pP0P@
+<05&&y_5_L/
+9..eK9K\W
+2o+22O}+}d
+]fDD
+<((lD<DPy
+CCi*
+IIr;
+GGg 
+$88Tl$lp
+ss!R
+!>>]c!c|
+qq&W
+)'::Si'it
+V3""wU3UD
+Z"<<Zf"fx
+OxPP
+RwZZ
+{{=F
+:,,bN:NX
+MM|1
+AAn/
+EE`%
+uu(]
+T?**kA?A
+`(00Hx(xn
+H6$$~Z6Z6
+h.44Fr.rl-66Aw-w
+}}4I
+yy:C
+OO{4
+KKu>
+ww/X
+@0  pP0P
+<L5&&y_5_
+q/qg
+O\9..eK9K=W
+2d+22O}+}
+nP<((lD<DUy
+CCi*
+IIr;
+GGg 
+p$88Tl$l
+ss!R
+e#eY|
+|!>>]c!c7
+qq&W
+t'::Si'iN
+D3""wU3U
+x"<<Zf"f*
+{{=F
+aX:,,bN:N
+MM|1
+AAn/
+EE`%
+uu(]
+SAT?**kA?
+^x`(00Hx(
+	ZH6$$~Z6
+trh.44Fr.wl-66Aw-
+}}4I
+yy:C
+OO{4
+KKu>
+ww/X
+cP@0  pP0.
+_L5&&y_5q
+q/8g
+K\9..eK9
+}d+22O}+
+DP<((lD<
+CCi*
+IIr;
+GGg 
+rlp$88Tl$
+ss!R
+c|!>>]c!|7
+qq&W
+Xit'::Si'
+UD3""wU3
+fx"<<Zf"
+{{=F
+NX:,,bN:
+MM|1
+AAn/g
+EE`%
+uu(]
+?AT?**kA
+(x`(00Hx
+6ZH6$$~Z
+.rh.44Fr-wl-66Aw
+}}4I{
+yy:C
+OO{4
+KKu>
+ww/Xu
+0P@0  pP
+$<5_L5&&y_/q
+O9K\9..eKW
+2+}d+22O}
+n<DP<((lDy
+CCi*
+IIr;
+GGg 
+$lp$88Tl
+ss!RQ
+!c|!>>]c
+qq&W
+'it'::Si
+3UD3""wU
+"fx"<<Zf
+{{=F
+a:NX:,,bN
+__C%
+uu($
+QQV\4\
+A?AT?**k
+x(x`(00H
+Z6ZH6$$~
+r.rh.44Fw-wl-66A
+yy:,
+OO{:
+]]D[
+P0P@0  p.
+$_5_L5&&yq/q
+K9K\9..e
+}+}d+22O
+D<DP<((l
+7M;M
+tV2V
+GGg(
+l$lp$88T
+WW_R
+de#e
+Wc!c|!>>]|
+qi'it'::S
+U3UD3""w
+f"fx"<<Z
+N:NX:,,b
+#"! '&%$+*)(/.-,32107654;:98?>=<
+CBA@GFEDKJIHONMLSRQPWVUT[ZYX_^]\cba`gfedkjihonmlsrqpwvut{zyx
+'&%$#"! /.-,+*)(76543210?>=<;:98GFEDCBA@ONMLKJIHWVUTSRQP_^]\[ZYXgfedcba`onmlkjihwvutsrqp
+~}|{zyx
+E~Dl
+0/*g
+)5CN
+@T z
+p_i7
+$1J^
+5;6Q
+kgyA
+~	L#'Q&
+k<VL
+XX&~
+0t*Q
+N^ee
+1p.D
+0xGNe
+Mf3L
+2_{6n
+)l\^'-
+<$;nq
+TZFx
+T`00P
+V++}
+L&&jl66Z~??A
+Oh44\Q
+sb11S*
+RF##e
+&N''i
+X,,t4
+v;;M
+R)){
+>^//q
+,@  `
+r99K
+f33U
+x<<D%
+p88H
+uB!!c 
+z==G
+D""fT**~;
+;d22Vt::N
+H$$l
+Cn77Y
+J%%o\..r8
+|>>Bq
+j55_
+P((x
+Z--w
+00P`
+++}V
+=&&jL66Zl??A~
+44\h
+11Sb
+##eF
+''iN
+,,tX
+-6nn
+;;Mv
+})){R
+//q^
+  `@
+g99KrJJ
+33Uf
+<<Dx
+!88Hp
+!!cB
+==Gzdd
++2ss
+""fD**~T
+22Vd::Nt
+$$lH\\
+77Ynmm
+%%oJ..r\
+!>KK
+>>B|
+55_jWW
+3"ii
+((xP
+)--wZ
+P`00
+gg}V++
+jL&&Zl66A~??
+\h44
+Sb11?*
+eF##^
+iN''
+tX,,.4
+RRMv;;a
+{R))>
+q^//
+`@  
+Kr99
+MMUf33
+PPDx<<
+Hp88
+cB!!0 
+DD9.
+~~Gz==
+]]+2
+fD""~T**
+Vd22Nt::
+lH$$
+Yn77
+xxoJ%%r\..$8
+tt!>
+ppB|>>
+aa_j55
+UUxP((z
+wZ--
+0P`0
+g+}V+
+&jL&6Zl6?A~?
+4\h4
+1Sb1
+#eF#
+'iN'
+,tX,
+R;Mv;
+){R)
+/q^/
+ `@ 
+9Kr9J
+M3Uf3
+P<Dx<
+8Hp8
+!cB!
+~=Gz=d
+"fD"*~T*
+2Vd2:Nt:
+$lH$\
+7Yn7m
+x%oJ%.r\.
+p>B|>
+a5_j5W
+U(xP(
+-wZ-
+XK`(p
++}`n"|
+?{H">6
+-Pxq5
+j?$Dsp
+)"8	
+!(El
+iNWq
+p09Y
+|6*)
+g&3g
+E=zpb
+@=_h
+%.U4
+zJv8
+;4=N
+ouD2
+-oI&`xR
+nMp_
+H5[-Q"cN
+1Ab~
+I%9	
+*`NK
+Jw%G%
+aC%lym
+YaSj
+wD;>
+nX33
+!C	M
+00P`
+++}V
+=&&jL66Zl??A~
+44\h
+11Sb
+##eF
+''iN
+,,tX
+-6nn
+;;Mv
+})){R
+//q^
+  `@
+g99KrJJ
+33Uf
+<<Dx
+!88Hp
+!!cB
+==Gzdd
++2ss
+""fD**~T
+22Vd::Nt
+$$lH\\
+77Ynmm
+%%oJ..r\
+!>KK
+>>B|
+55_jWW
+3"ii
+((xP
+)--wZ
+T`00P
+V++}
+L&&jl66Z~??A
+Oh44\Q
+sb11S*
+RF##e
+&N''i
+X,,t4
+v;;M
+R)){
+>^//q
+,@  `
+r99K
+f33U
+x<<D%
+p88H
+uB!!c 
+z==G
+D""fT**~;
+;d22Vt::N
+H$$l
+Cn77Y
+J%%o\..r8
+|>>Bq
+j55_
+P((x
+Z--w
+P`00
+gg}V++
+jL&&Zl66A~??
+\h44
+Sb11?*
+eF##^
+iN''
+tX,,.4
+RRMv;;a
+{R))>
+q^//
+`@  
+Kr99
+MMUf33
+PPDx<<
+Hp88
+cB!!0 
+DD9.
+~~Gz==
+]]+2
+fD""~T**
+Vd22Nt::
+lH$$
+Yn77
+xxoJ%%r\..$8
+tt!>
+ppB|>>
+aa_j55
+UUxP((z
+wZ--
+0P`0
+g+}V+
+&jL&6Zl6?A~?
+4\h4
+1Sb1
+#eF#
+'iN'
+,tX,
+R;Mv;
+){R)
+/q^/
+ `@ 
+9Kr9J
+M3Uf3
+P<Dx<
+8Hp8
+!cB!
+~=Gz=d
+"fD"*~T*
+2Vd2:Nt:
+$lH$\
+7Yn7m
+x%oJ%.r\.
+p>B|>
+a5_j5W
+U(xP(
+-wZ-
+	h}}
+?		$
+ZZsM
+XX{[
+QQ_D
+]]oO
+dBss
+OO'"
+^^c1
+\\kx
+NN#r
+YWtt
+HH;	
+8<aa
+9m00
+	I}}
+M>11
+1c##
+P		$?
+lAnn
+MRRS
+:[[w
+fPP[
+uQQ_
+E0!!
+']]o
+dOss
+]"""
+U,^^c
+(6II?
+Y%tt
+|]KK7
+)HH;
+8*aa
+Dwii
+\UUO
+=TTK
+Pu	$?	
+'d]o
+)fH;
+oo9m
+Err-v
+LqqM>
+11Tk
+Puu$?		:
+,,hF
+!!@p
+DD\e
+'ddo
+]]dO
+;``2
+OO]"
+^^,1
+::(6
+\\%x
+5bbr
+..pT
+Wtt|]
+)ff;
+iiI9
+((Q+
+--<-
+aK ,lohtekeiinU srevietieL tnevueD ,trapnemelE trtkecetoeinhC ,kupmo retuceSytirdna dnI rtsu laipyrCrgotyhpaaK ,eetsraplrA kebne1 grb ,02 su,6443-B  100vueLH-nereve,eelleB muig
+f=q"
+f=q"
+i[#T
+;8O1 
+D%w;
+N{~b0
+cCx?
+N{~b0
+| I?
+TaosCd
+>j"Q
+;8O1 
+i[#T
+cCx?
+>j"Q
+| I?
+D%w;
+TaosCd
++|(Q
+l;t#1Edj
+Cc/D
+59g2$
+6v7Q
+TY=F
+(YDP
+f6~;4
+'C"B
+H@;I
+"4$;
+O{J(
+.g.r]
+P%WshV
+v|B>
+_aC}g
+Gh=JI
+t*|s
+NXNN
+4z:7
+5P"a
+9D# 
+Cc/D
+llju:
+'C"B
+-gaIC
+59g2$
+6v7Q
+@D	!
+WO8a
+TY=F
+(YDP
+_aC}g
+t*|s
+NXNN
+5P"a
+.+Br8
+v|B>
+.}y\{
+?ety
+O{J(
+Q:=A
+.g.r]
+#D>x0
++|(Q
+l;t#1Edj
+llju:
+-gaIC
+f6~;4
+@D	!
+WO8a
+.+Br8
+#D>x0
+P%WshV
+?ety
+.}y\{
+Q:=A
+9D# 
+Gh=JI
+4z:7
+H@;I
+"4$;
+!,#1
+!,#1
+0WD|
+rp%O}
+0Z *u
+"I<y%Pl
+j z1
+@Q]1
+~lOo%
+s |1}
+JeH-g
+IQju
+MQeyD
+8.lCd
+8C ,uiDs
+&+VT"
+0Z *u
+"I<y%Pl
+8.lCd
+]]W(
+8C ,uiDs
+7go5$
+	=Lt
+8;!O:
+IQju
+rp%O}
+j z1
+&+VT"
+0WD|
+JeH-g
+]]W(
+MQeyD
+7go5$
+@Q]1
+8;!O:
+s |1}
+	=Lt
+~lOo%
+,`9J
+fTqC
+Bm`0CW
+VNfR
+Nwy	
+7/[=O
+Jt`6C
+L'O%
+/o[Z8?
+~1AOq
+_YgY2
+ha4	
+-at|
+)?[Qz~>D
+6mhu
+C7`+:
+kc$T
+^7 b
+tn#c
+iWq6
+SgcV
+@bZq
+<%]u>y}
+lXa\x}6T
+V. d
+I%uq
+}sae
+6`NY
+@Lr*YO]
+Xy)3
+fTqC
+TL:4
+,`9J
+Bm`0CW
+VNfR
+Nwy	
+Jt`6C
+L'O%
+/o[Z8?
+^Q4Zyq
+BoWYa
+}sae
+c|:,
+M<A7
+5y[,.j
+6`NY
+r=W6
+@Lr*YO]
+x(>Uj
+-at|
+Qg;y
+H\):
+S+~P
+6mhu
+kc$T
+^7 b
+V. d
+iWq6
+EWlx.
+@bZq
+<%]u>y}
+t>!$
+TL:4
+~1AOq
+7/[=O
+tn#c
+C7`+:
+t>!$
+lXa\x}6T
+EWlx.
+SgcV
+^Q4Zyq
+I%uq
+BoWYa
+r=W6
+Xy)3
+c|:,
+M<A7
+5y[,.j
+_YgY2
+ha4	
+x(>Uj
+)?[Qz~>D
+Qg;y
+S+~P
+H\):
+H"bx
+bM0*
+8fQr
+yQj1M
+H"bx
+8fQr
+yQj1M
+bM0*
+8%=F[o
+/T_)
+Et7)2Be
+SN;U
+~Z;q
+Cl4$*
+EdN)
+DQMH
+8N8T:&
+(i&Ec
+`$*/
+SN;U
+(i&Ec
+]{E%
+=~K`
+EdN)
+8N8T:&
+DQMH
+`$*/
+/T_)
+Et7)2Be
+8%=F[o
+Cl4$*
+]{E%
+~Z;q
+=~K`
+.//)r
+g8IZ
+:"<]_
+]d0#T
+gB]C
+p{l`6
+GQMb
+vyik
+.|gI
+zR\Q
+<lWL
+kL1Wc
+Vq7{
+%ye=
+'OAj
+f61A
+l3)y
+gecmo
+6W=c
+~9zZwH
+t;um
+Q/70
+;]4s
+ScV2z7
+:f`Z'
+3"CO
+a	gP
+.//)r
+8k`~"
+GQMb
+C]XW
+:"<]_
+*VA?
+JYP=iu
+;]4s
+>L(f
+ /13j8
+ScV2z7
+IJLD
+8C	Xg
+:i%2
+.|gI
+gwwC
+kL1Wc
+:kcN
+Vq7{
+N5Tj
+'OAj
+f61A
+N]8y
+ D4!
+"eSt4
+Q/70
+l3)y
+f)NB
+~9zZwH
+,`7C
+1($	
+8k`~"
+a	gP
+gB]C
+JYP=iu
+C]XW
+p{l`6
+g8IZ
+]d0#T
+*VA?
+N]8y
+ D4!
+1($	
+t;um
+,`7C
+6W=c
+"eSt4
+f)NB
+gecmo
+>L(f
+8C	Xg
+IJLD
+:f`Z'
+3"CO
+ /13j8
+:i%2
+vyik
+N5Tj
+gwwC
+%ye=
+:kcN
+zR\Q
+<lWL
+y(>q$
+m,V]
+m,V]
+[{:y9
+y(>q$
+[{:y9
+V];s
+$6B]z
+k=gO
+(")@B
+lT;E
+V];s
+\1}$
+"'sO
+lT;E
+^[q}
+JG]9
+$6B]z
+aJp%
+\1}$
+aJp%
+"'sO
+k=gO
+(")@B
+^[q}
+JG]9
+14yBvkVC.
+.spV
+]2.Z'
+E-7I
+z`0A
+JjOC;O
+dt9i
+fX:W
+imgiB1
+O>26C
+zu*"
+1~*l
+1j%8i
+p-<X
+,Hen)
+0]AWW
+1[-r
+L<Eo
+%[PfEjm
+g^Vr
+$LZ*Y7)
+Qle[
+3z$At
+s^+f
+P9\H
+rXGC
+~["u
+dF=2
+7_w\
+$]<C
+8t\Xf
+14yBvkVC.
+5`Ea
+dt9i
+Ho~xq
+.spV
+E-7I
+JjOC;O
+#Ov1
+~["u
+dF=2
+@O"'
+\2aj
+7_w\
+imgiB1
+O=7jW
+fX:W
+0]AWW
++fV_!
+1j%8i
+bfbe
+p-<X
+L<Eo
+%[PfEjm
+Sj:o
+s^+f
+P9\H
+2j)'
+QCyr
+!H<\
+ZrEe
+z`0A
+5`Ea
+Ho~xq
+]2.Z'
+1[-r
+ZrEe
+$LZ*Y7)
+Sj:o
+Qle[
+!H<\
+2j)'
+3z$At
+QCyr
+g^Vr
+rXGC
+#Ov1
+8t\Xf
+@O"'
+\2aj
+$]<C
+O=7jW
++fV_!
+bfbe
+1~*l
+,Hen)
+O>26C
+zu*"
+8IDZ
+nCS,
+nCS,
+tRcZ!Q
+8IDZ
+tRcZ!Q
+NP;,
+E{b:
+gak/
+E)%"
+]jn6
+#4U~
+_^1a
+mk[@
+hgH)"
+CIIQ
+NP;,
+#4U~
+8179yH
+mk[@
+hgH)"
+CIIQ
+:H~7N
+E{b:
+gak/
+E)%"
+g.w#D
+]jn6
+:<,T
+:<,T
+:H~7N
+8179yH
+_^1a
+g.w#D
+8a1Twy
+!O&DZ
+uCaY
+Nx+g
+2z6$	#
+/0jm
+Dbt3\
+.*D.
+;e7r}8Z
+' ;xK
+[:iZ=
+"U_$Xb
+T<(d
+YY%Z
+E9DQ
+(G/u
+'1`+
+UH{M
+vNO^
+(g`B
+7f	5
+$}js
+#T9)
+8']q
+Qr4')#
+'nkCg
+xF"#
+W	2f
+(j6:
+tYLrc
+[y*@7
+S*g~
+t/@d
+0WMDY1y
+!O&DZ
+;e7r}8Z
+[:iZ=
+Zc?;
+/0jm
+.*D.
+W	2f
+u,/~_D:>H
+(j6:
+tYLrc
+Z7<H
+62(9G
+B	H/
+(G/u
+@*j.
+UH{M
+vNO^
+8']q
+a-C7}
+xF"#
+m-7e
+Qr4')#
+\;HP(g~
+uCaY
+0WMDY1y
+8a1Twy
+Dbt3\
+' ;xK
+Zc?;
+Nx+g
+2z6$	#
+$}js
+#T9)
+\;HP(g~
+m-7e
+a-C7}
+'nkCg
+[y*@7
+t/@d
+Z7<H
+S*g~
+u,/~_D:>H
+62(9G
+T<(d
+"U_$Xb
+(g`B
+B	H/
+7f	5
+YY%Z
+@*j.
+'1`+
+E9DQ
+g6$f-
+;^l)
+se@=
+;^l)
+se@=
+g6$f-
+g:/Ir
+f	u&
+DeL6
+0O?a
+Orv~
+xQZ#
+^`"5
+ad.0L
+jKq<
+7WxZ
+ad.0L
+;``m
+0O?a
+xQZ#
++N-\
+_2; 
+g:/Ir
+jKq<
+7WxZ
+DeL6
+_2; 
+Orv~
++N-\
+^`"5
+;``m
+f	u&
+@;JT
+g_1#j
+%	Sst*
+H6t r
+YOc;"R
+Z<wZ
+lpn/)
+U_P/
+OVCItI$W
+_$Qs
+g}0:
+{.;<
+;@wl2
+9-$U
+6w5~
+VaHT0
+{Oi>
+Nosv#
+SD%(J
+~#1~
+=Q2<
+jN\s
+w9u%
+UDLd.
+w7BD
+CO:1
+-!=,
+:)U\?QN
+c`*I
+NcxY|
+@;JT
+']q6
+`*p#t
+OCKtk
+%	Sst*
+YOc;"R
+r0(d
+-PET
+%QqQ
+;t#j
+IX$1t
+UDLd.
+CO:1
+4xxu
+c`*I
+:7:G
+g}0:
+_$Qs
+Bw{=7x$
+lTfmn
+9-$U
+r8D\
+Sf1Q
+{.;<
+;@wl2
+0xkk
+jN\s
+=Q2<
+$q["
+VaHT0
+SD%(J
++V^i
+keNN
+']q6
+g_1#j
+`*p#t
+r0(d
+H6t r
+OCKtk
+r8D\
+Sf1Q
+{Oi>
+keNN
+Nosv#
++V^i
+0xkk
+$q["
+~#1~
+6w5~
+-PET
+w9u%
+:)U\?QN
+%QqQ
+;t#j
+IX$1t
+NcxY|
+-!=,
+4xxu
+w7BD
+:7:G
+Z<wZ
+OVCItI$W
+lpn/)
+Bw{=7x$
+lTfmn
+U_P/
+)JzBN
+)JzBN
+\1Jg
+:[Pi
+\1Jg
+:[Pi	
+((YD
+P<Dq
+{)]Y
+yN@*:
+`)#1
+h;:*U
+<yuIj?
+Mk%O
+~NNd
+BTms
+]rR`jC\
+oaM!
+IcYsPl
+((YD
+"}NB
+Gl<#
+;S,U
+yN@*:
+Mk%O
+~NNd
+BTms
+<yuIj?
+]rR`jC
+"}NB
+Gl<#
+IcYsPl
+oaM!
+P<Dq
+{)]Y
+`)#1
+h;:*
+>;=_6
+;Z_q
+HE9I
+_uI*
+j[Ah
+x;Ezf
+vVx4A
+{Gu}u
+=;3Y
+"%*l
+<,:z
+#[.xU
+Qak=
+`c0 
+Xd.+
+5T$E
+Mj2G
+IKDD
+Bt%z3
+sIfH
+WRL6
+WkfX
+w1b.
+Y=U|
+HZT<
+xqQZp~
+o.;4(
+mcrj
+I;=]{
+>;=_6
+"`};fms
+HE9I
+P,pQ
+JV~Er
+HZT<
+mcrj
+aW'%
+|K1}5
+N!s1
+Z}6.2
+$+1s
+xqQZp~
+#[.xU
+V61Q6	
+=;3Y
+t,wu
+{Gu}u
+jR2=
+(4~V
+Nl{\
+^"1k]
+C*ig`
+IKDD
+Y=U|
+Bt%z3
+:l]O
+"`};fms
+JV~Er
+P,pQ
+_uI*
+^"1k] 
+5T$E
+Mj2G
+C*ig`
+Xd.+
+WRL6
+:l]O
+WkfX
+w1b.
+j;4)
+sIfH
+o.;4(
+N!s1
+I;=]{
+aW'%
+|K1}5
+Z}6.2
+$+1s
+x;Ezf
+vVx4A
+(4~V
+Nl{\
+<,:z
+"%*l
+V61Q6	
+t,wu
+{~TZ
+c[RwIMB0<1
+iO4}
+@>:2
+kN0(V
+{~TZ
+c[RwIMB@*]
+iO4}
+Ngy#
+Ngy#
+@>:2
+1p>Q
+EC:Y
+xp^#
+t@^Hr
+H";]
+NtaP]
+s4K00ZIwT
+`EpJD
+FI@J/Q
+$	Sf%
+<~=0T
+EB~0Z
+x/7$2
+@vuE
+u/BT
+EC:Y
+VL5$
+xxr*
+u/BT
+<~=0T
+x/7$2
+)rfL
+BF<=4W$
+mq;{
+NtaP]
+s4K00ZIwT
+<[y	
+r6R00
+FIpz
+VL5$
+@^Hr
+H";]
+=Y@F
+!p^#
+^0H$
+r6R@J/Q
+$	Sf%
+xxr*
+)rfL
+c0t~
+EB~0Z
+o@vuE
+BF<=4W$
+mq;{
+<[y	
+A']_
+(!aP
+x4Pf
+1zu;c
+@&0W
+lRZ;
+]p&[
+M\1L[
+#f'/
+"00\
+.@2Wt
+s&]Fb
+e@.[
+%{+6
+jOt{
+$&	W
+/	3V
+f`5j
+.cj'
+f.vu
+Vr@,
+(Gqy
+"Z0t
+rj<s.yN>
+P&s#
+:J`<7
+vgO:B
+20P.
+>@R%4
+Qr4"?B
+.,jaxx
+W'*(
+(5:@
+0)0A
+tMpF)
+dCwU
+ppzs
+Ex=;
+/PW/
+QVO`
+Vc-0
+a^4l%l
+(72P*
+#f'/
+lp00\
+@2Wt
+3.J|
+A']_
+(!aP
+uT=u
+<=;I
+M\1L[
+M0$;
+x4Pf
+^mK9`em
+@&0W
+lRZ;
+6"1W
+:J`<7
+tv="
+JpRN
+Qr4"?B
+.,jaxx0
+F@R%4
+Nklo
+AwpF)
+kg{@FB
+(5:p
+dCwU
+Ex=;
+e@.[
+5\|.@
+:gpJ
+w%0t
+9'WA
+a^4l%l
+(72P*
+x)Qp
+6"1W
+1zu;c
+^mK9`em
+3.J|0
+uT=u
+<=;I
+/	3V
+f`5j
+Vr@,
+rj<s.yN>
+9'WA
+(Gqy
+.cj'
+f.vu
+tv="
+P&s#
+vgO:B
+"*90
+Nklo
+QVO`
+/PW/
+W'*(
+CRAp
+0)0A
+kg{p
+s&]Fb
+$&	W
+jOt{
+5\|.p
+%{+6
+%O)qB
+%O)qB
+C=X^RrI
+9Rs8
+uz4d
+As@,
+'6j/
+9Rs8
+nVSz
++(F-
+'6j/
+uz4d
+nVSz
+C=X^RrI
+As@,
++(F-
+}9y 
+{8d0d
+ly-!	
+pNyl
+XvPQCt
+]T!02/
++S94O
+$Kdgu?
+X42BR
+\:wcH
+ZZA(\N
+c<Tsb
+.-N7
+{Yh:
+ab)1:
+V7sB(g
+2+_h
+|ioP&
+<kY%E
+D4OPc
+`n`Q
+{8d0d
+pNyl
+ly-!
+{Yh:
+%VfaY#
+D4OPc
++[)	
+<kY%E
+V7sB(g
+2+_h
+8\ T
+|ioP&
+83+j
+si{^
+S$802#
+f10*
+HomG-v
+%9dE
+.-N7
+c<Tsb
+`n`Q
+}9y 
+bD'	
+XvPQCt
+S$802#
++S94O
+%9dE
+ZZA(\N
+f10*
+$Kdgu?
+X42BR
+HomG-v
+\:wcH
+%VfaY#
+8\ T
+ab)1:
+83+j
+si{^
+]T!02/
+aPWq
+aPWq 
+|0[S
+aT@eA
+|0[S 
+aT@eA
+dj4R
+1v`{
+uXjt
+iX{,R
+uXjt
+:c#P
+dj4R`
+iX{,R
+1v`{
+JK	N
+WJ#>R
+b5j.
+7fJN
+RA^{
+S(P0
+3$r 
+iT+w~7
+z$|)V
+4oVo
+Wd	_3
+iKs0
+	GQ 
+%r#01
+~:NF|
+HZhX
+PK~_
+"_P{
+Ieb7
+(1"R
+JK	N
+b5j.
+yVG5 
+h#j`'
+7fJN
+(1"R
+Ieb7
+gDj(
+4oVo
+VI9D
+@j:UG
+<sgP
+skjY
+HZhX
+~:NF|
+M<IioY
+yVG5
+WJ#>R
+RA^{
+h#j`'
+iT+w~7
+z$|)V
+%r#01
+skjY
+M<IioY
+PK~_
+"_P{
+gDj(
+@j:UG
+Wd	_3
+VI9D
+GFy5
+GFy5
+/{4(
+o.$|
+iW=fg
+e]"a
+TReF
+o.$|
+iW=fg
+TReF
+e]"a
+/{4(
+MvbY`
+%t6S
+KK!z
+hj}Qw
+~Za{
+%&b@
+{hf`
+@"_?q
+\hjp
+<8p$z
+tG([Mg
+Ri1r
+E{:2s
+@.<H
+8Y~N
+KK!z
+~Za{
+hj}Qw
+	;fe
+MvbY`
+l!gzb
+OkrL]
+{hf`
+\hjp
+E{:2s
+@.<H
+%t6S
+	;fe
+8Y~N
+Ri1r
+l!gzb
+OkrL]
+%&b@
+@"_?q
+<8p$z
+tG([Mg
+t~F+Z+
+t~F+Z+
+(dz$
+ y~/
+(dz$
+^t;bU
+ y~/
+^t;bU
+lY?_
+kY2K
+0}bg
+(vvB
+Pt:,
+W;jI
+lY?_
+kY2K
+W;jI
+	fJ3
+(vvB
+	fJ3
+Pt:,
+0}bg
+oq%c
+&\(:
+0IR"n
+KY6r
+t:1P
+*\LG
+C23:
+9B^H
+:/_L
+J:p@
+X}\{c
+k*L1
+pV1<
+@* Vf$
+XIYY
+hny4
+H}zW|B
+C\:s
+ZN{?T
+ES#dE
+Z%Ko
+Mn#r*
++x E
+l|L&
+KY6r
+t:1P
+&\(:
+0IR"n
+C(N?
+b!0s
+!}XI
+H}zW|B
+C\:s
+ r7-;$
++x E
+ES#dE
+'4,C
+J:p@
+:/_L
+*\LG
+C23:
+X}\{c
+oe3W
+b&zD-
+XIYY
+k*L1
+KK*-
+<RA&x
+pV1<
+l|L&
+!}XI
+oq%c
+C(N?
+b!0s
+KK*-
+@* Vf$
+<RA&x
+oe3W
+b&zD-
+hny4
+Z%Ko
+'4,C
+ r7-;$
+Mn#r*
+ZN{?T
+9B^H
+p09Y
+D7q/;M
++Yo,
+&\8!
+* qW
+LwH'
+L*~e
+|6*)
+g&3g
+7%iY
+2F0U
+HPa25Q
+5|m^
+rR_E
+0	C\
+K?3e
+V3Da
+q>/e*
+	OO!OBn
+?mRRUR
+\CKK1Kbz
+]WWAW
+#JJ5Jj
+DXX}X
+sg<]]i]
+ZZuZ
+II9Irp
+[[q[
+)>&&
+HH=Hzu
+=d__a_
+@=hh
+^u}TTMT
+D/dd
+Vnvv
+PP]P
+EE	E
+UUIU
+FMM)MRd
+9vuu
+YYyY
+LL-LZa
+^^e^
+E{B!!
+$QQYQ
+/%mm
+NN%NJk
+VVEV
+SSQS
+		$	H-
+Pu\\m\
+O!OBn
+\C.K1Kbz
+J5Jj
+I9Irp
+4H=Hzu
+@= h
+D/"d
+Vn+v
+jP]P
+PE	E
+?UIU
+M)MRd
+%YyY
+9L-LZa
+L^e^
+N%NJk
+i	$	H-
+Pu(\m\
+x0&##
+OO!OBn
+RRUR
+\)KK1Kbz
+WWAW
+ JJ5Jj
+XX}X
+]]i]
+NsAA
+K.EGG
+ZZuZ
+f\cc
+}2;II9Irp
+[[q[
+h2HH=Hzu
+__a_
+TTMT
+;/""
+Dcdd
+Z$z@@
+PP]P
+WEE	E
+UUIU
+hiJ//
+MM)MRd
+c>Ubb
+)2MR
+YYyY
+LL-LZa
+^^e^
+E{4!!
+f<aCC
+QQYQ
+/"mm
+NN%NJk
+_&Q,,
+VVEV
+!7Og**
+SSQS
+'+ll
+A		$	H-
+Uu((
+\\m\
+xF&##
+OO!OBnl
+RRUR
+\C..
+)KK1Kbz
+WWAW
+ JJ5Jj
+XX}X
+R|))
+]]i]
+ZX--
+ZZuZ
+;II9Irp
+[[q[
+2HH=Hzu
+__a_
+>@=  
+TTMT
+D/""
+Vn++
+PP]P
+WEE	E
+UUIU
+h^J//
+MM)MRd9v
+)21R
+YYyY
+LL-LZa
+^^e^
+EB4!!
+QQYQ
+NN%NJksf
+_XQ,,
+VVEV
+!7Tg**
+SSQS
+A		$	H-
+B*W-,
+Pu((
+\\m\
+F&##
+OO!OB
+RRUR
+`'ve5
+\C..
+)KK1Kb!
+WWAW
+ JJ5Jj
+XX}X
+R|))
+\sg<
+]]i]
+ZX--
+-uyc.
+ZZuZ
+;II9Ir
+[[q[
+t|a'
+2HH=Hz$
+__a_
+@=  
+hgr4
+TTMT
+D/""
+Vn++
+PP]P
+WEE	E
+UUIU
+^J//
+MM)MR
+$@yK
+YYyY
+LL-LZ;
+^^e^
+a/E{B
+B4!!
+QQYQ
+NN%NJQsf
+XQ,,
+VVEV
+Tg**
+*Mmk
+SSQS
+A		$	H
+Pu((
+\\m\
+F&##
+OO!O
+RRUR'
+\C..
+)KK1K
+WWAW
+ JJ5J
+XX}X
+R|))
+]]i]
+ZX--
+ZZuZl
+;II9I
+[[q[4
+2HH=H
+__a_
+@=  
+TTMT
+D/""
+Vn++
+PP]P
+WEE	E
+UUIUy
+^J//
+MM)M
+YYyYT
+LL-L
+^^e^
+B4!!
+QQYQ
+;1=K
+NN%N
+XQ,,
+VVEV
+Tg**
+SSQS
+F	&E
+A		$	
+Pu((
+\\m\
+F&##
+OO!6
+RRU`'
+\C..
+)KK1
+ JJ5
+R|))
+ZX--
+dIrp
+;II9
+2HH=
+__a 
+@=  
+D/""
+H@:]
+Vn++
+PP]E
+WEE	
+^J//
+LL-^
+^^ex
+B4!!
+xC"R
+XQ,,
+VVED
+Tg**
+A		$p
+Pu((
+F&##?
+!OBn
+0oo~
+\C..1Kbz
+ JJO
+R|))(
+qffS
+EGGB
+ZX--
+9Irp
+;IIC
+44=Hzu
+@=  
+D/""
+z@@ 
+Vn++
+jj]P
+PP	E
+??IU
+^J//'
+)MRd
+Ubbw
+%%yY
+99-LZa
+LLe^
+B4!!J
+aCC;
+"mm4
+%NJk
+XQ,,k
+9nn7
+Tg**
+ii$	H-
+hBBZ
+Pu((m\
+<wQ"B?TA
+`++}+
+Huz2u
+,,t,
+'XS'
+<<D<
+""f"
+BW*hW??A?
+AX2sX
+x..r.
+66Z6
+Ipr;p&&j&
+9he9ss
+;;M;
+  ` 
+}^__
+"PZ"
+--w-
+99K9
+(@H(
+!!c!
+.yDD
+a33U3
+##e#
+YJ%%o%
+A55_5
+k?		
+	-HA-
+B$$l$
+88H8
+Kzb)zzz
+::N:
+3xw3==G=
+CR"aR
+K@NN
+j''i'
+@]:z]
+77Y7
+>>B>
+n22V2
+y5tt
+p0cc
+44\4
+r**~*
+((x(
+11S1
+6p~6
+<sJJ
+<`l<
+2)){)
+EF//q/
+00P0
+Huz2uH
+'XS'
+Q"f"
+BW*hWB?A?
+AX2sXA
+Ipr;pI&j&
+9he9
+s;M;
+"PZ"
+(@H(
+aL3U3
+	-HA-	
+$8H8
+Kzb)zKz
+z:N:
+3xw3
+CR"aRC
+@]:z]@
+S>B>
+nO2V2
+6p~6
+<`l<
+EFG/q/
+++}+
+EnuHH
+Huz2
+,,t,
+34]]
+<<D<
+""f"
+/WBB
+BW*h
+??A?
+AX2s
+..r.
+66Z6
+DpII
+Ipr;
+&&j&
+;;M;
+  ` 
+}>__
+"PZ[
+--w-
+99K9
+!!c!
+41\\
+.IDD
+33U3
+##e#
+%%o%
+55_5
+@dMM
+k-		
+	-HA
+$$l$
+88H8
+MzKK
+Kzb)
+::N:
+`;^^
+==G=
+CR"a
+KkNN
+''i'
+@]:z
+77Y7
+>>B>
+22V2
+44\4
+**~*
+Mg/ZZ
+((x(
+11S1
+6p~s
+W9CFF
+[*[[
+)){)
+//q/
+00P0
+++}+
+E2uHH
+,,t,
+<<D<
+""f"
+hWBB
+??A?
+sXAA
+..r.
+66Z6
+;pII
+&&j&
+;;M;
+  ` 
+"Pt[
+--w-
+99K9
+!!c!
+YcWLEE
+^IDD
+33U3
+##e#
+%%o%
+55_5
+A-		
+	-H8
+{3oT
+$$l$
+88H8
+)zKK
+::N:
+==G=
+,aRCC
+V{K@
+''i'
+%z]@@
+@]:V
+77Y7
+>>B>
+22V2
+44\4
+**~*
+((x(
+11S1
+6p<s
+WLCFF
+)){)
+EFGG
+//q/
+00P0
+++}+
+z2uHH
+,,t,
+]4XS'
+<<D<
+""f"
+*hWBB
+??A?
+2sXAA
+..r.
+66Z6
+r;pII
+&&j&
+;;M;
+  ` 
+_>PZ"
+--w-
+99K9
+!!c!
+WLEE
+^IDD
+33U3
+##e#
+%%o%
+55_5
+?HA-		
+$$l$
+88H8
+b)zKK
+::N:
+==G=
+"aRCC
+''i'
+:z]@@
+77Y7
+>>B>
+22V2
+44\4
+**~*
+((x(
+11S1
+LCFF
+)){)
+EFGG
+GFeJ
+//q/
+00P0
+++}+uz2uHH
+,,t,
+]'XS'
+<<D<
+""f"W*hWBB
+??A?
+TX2sXAA
+..r.
+66Z6
+pr;pII
+&&j&:
+9he9
+;;M;
+  ` !
+_"PZ"
+--w-
+99K9(@H(
+!!c!1
+WLEE
+^IDD
+33U3
+##e#
+%%o%A
+55_5
+-HA-		
+$$l$
+88H8
+zb)zKK
+::N:
+3xw3
+==G=%
+R"aRCC
+''i']:z]@@
+77Y7
+>>B> 
+22V2N
+44\4r
+**~*/
+((x(
+11S16p~6
+<`l<
+LCFF
+)){)
+EFGG
+//q/q#
+00P0
+++}Huz2uHH
+'XS'
+<<Dw
+""fBW*hWBB
+??AT
+AX2sXAA
+..rW
+sIpr;pII
+9he9
+"PZ"
+--w`
+(@H(
+!!c\1
+WLEE
+^IDD
+##e|
+55_i
+	-HA-		
+$$l8
+pKzb)zKK
+3xw3
+==GX%
+CR"aRCC
+''i@]:z]@@
+>>BY 
+^OnB
+**~Z/
+6p~6
+<`l<
+LCFF
+)){d
+EFGG
+Huz2uHH
+'XS'
+QQf"
+BW*hWBBA?
+AX2sXAA
+Ipr;pIIj&
+9he9
+ssM;
+"PZ"
+(@H(
+WLEE[
+^IDD
+aLLU3
+	-HA-		
+$$H8
+Kzb)zKK
+zzN:
+;^^|
+3xw3
+CR"aRCC
+kNNT
+@]:z]@@u
+SSB>
+ YY^
+nOOV2
+6p~6
+<`l<
+LCFF
+*[[*
+EFGGq/
+x##e#
+n66Z6
+<`l<{{
+55_5
+..r.
+Kzb)z
+]!WW
+77Y7
+)){)
+"PZ"
+<s]]
+>>B>
+S''i'
+AX2sX
+--w-
+33U3
+Ipr;p
+&&j&
+22V2
+3xw3
+44\4
+Huz2u
+T$zz
+>  ` 
+}^TT
+""f"
+@]:z]
+(@H(
+==G=
+++}+
+00P0
+t??A?
+h//q/
+F.MM
+6p~6
+%%o%
+99K9
+88H8
+BE!!c!
+CR"aR
+9he9
+$$l$
+;;M;
+`<<D<
+_,,t,
+7**~*
+'XS'
+11S1
+N::N:
+	-HA-pp
+BW*hW
+((x(
+nO6Z6
+<`l<
+{5_5
+Kzb)zK
+w7Y7
+"PZ"
+AX2sXA
+Ipr;pI
+&2V2
+3xw3
+Huz2uH
+>_ ` 
+@]:z]@
+(@H(
+6p~6
+r9K9
+x8H8
+CR"aRC
+9he9
+~$l$
+$;M;
+'XS'
+l1S1
+	-HA-	p
+BW*hWB
+##e#
+	nOO
+66Z6
+55_5
+..r.
+mCzKK
+Kzb)!
+77Y7
+D%XX
+)){)
+"PZO
+<4]]
+>>B>
+''i'
+AX2s
+--w-
+33U3
+Ipr;
+&&j&
+22V2
+44\4
+Huz2$
+d>__
+  ` 
+""f"
+@]:z(
+==G=
+++}+
+00P0
+??A?
+//q/
+FdMM
+6p~c
+%%o%
+99K9
+88H8
+!!c!
+CR"a
+9he5
+$$l$
+;;M;
+<<D<
+,,t,
+**~*
+11S1
+::N:
+	-HA
+BW*h
+((x(
+]u1\\
+##e#
+66Z6
+55_5
+..r.
+m)zKK
+Kzb]!
+77Y7
+)){)
+"PPO
+>>B>
+''i'
+%sXAA
+EFGG
+--w-
+33U3
+;pII
+Ipr_
+&&j&
+22V2
+44\4
+2uHH
+HuzT$
+  ` 
+""f"
+z]@@
+@]:H(
+==G=
+++}+
+WLEE
+00P0
+??A?
+//q/
+MdRv
+Yc~6
+%%o%
+99K9
+88H8
+!!c!
+aRCC
+9hy5
+$$l$
+;;M;
+NkJfQ
+<<D<
+,,t,
+^IDD
+**~*
+11S1
+LCFF
+::N:
+oA-		
+.hWBB
+BW*,
+((x(
+##e#
+66Z6
+55_5
+..r.
+b)zKK
+77Y7
+)){)
+>>B>
+''i'
+2sXAA
+EFGG
+--w-
+33U3
+}r;pII
+&&j&
+22V2
+jxw3
+44\4
+z2uHH
+  ` 
+""f"
+Z:z]@@
+@]@H(
+==G=
+++}+
+WLEE
+00P0
+??A?
+//q/
+Yp~6
+%%o%
+99K9
+88H8
+!!c!
+f"aRCC
+$$l$
+;;M;
+<<D<
+,,t,
+^IDD
+**~*
+11S1
+LCFF
+::N:
+HA-		
+*hWBB
+((x(
+##e#
+66Z6
+<`l<
+55_5i
+..r.zb)zKK
+77Y7V{
+)){)"PZ"
+>>B>
+''i'X2sXAA
+EFGG
+--w-y
+33U3
+pr;pII
+&&j&
+22V2J
+3xw3
+44\4uz2uHH
+  ` 
+""f"
+]:z]@@
+@(@H(
+==G=
+++}+
+WLEE
+00P0t+
+??A?
+//q/
+6p~6
+%%o% 
+99K9aZ
+88H8
+!!c!
+R"aRCC
+m9he9
+$$l$
+;;M;=1
+<<D<
+,,t,
+^IDD
+**~*m
+'XS'
+11S1
+LCFF
+::N:
+i-HA-		
+W*hWBB
+((x(1
+<`l<
+..rKzb)zKK
+"PZ"
+''iAX2sXAA
+EFGG
+33Uc
++Ipr;pII
+&&j2
+3xw3
+44\Huz2uHH
+  `h
+""fd
+6@]:z]@@
+(@H(
+++}v
+WLEE
+??AU
+6p~6
+%%oY 
+99KLaZ
+"CR"aRCC
+9he9
+$$l;
+^IDD
+'XS'
+11St
+LCFF
+::Ni
+	-HA-		
+IBW*hWBB
+((x\1
+nOOZ6
+<`l<
+{{_5
+Kzb)zKK
+wwY7
+%XXF
+"PZ"
+4]]0
+AX2sXAA
+EFGG
+Ipr;pIIv
+&&V2
+3xw3
+Huz2uHH
+>__` 
+@]:z]@@
+(@H(
+WLEE
+6p~6
+rrK9
+xxH8
+CR"aRCCT
+9he9
+~~l$
+$$M;
+^IDD
+'XS'
+llS1
+LCFF
+	-HA-		
+BW*hWBB
+=T3*
+A%w"
+ty*x%5
+E575
+y,d$
+CLc6
+Knrb
+!{sk
+lRKs
+e}O`n$
+pVCouIhZaB
+ph^(\
+C(PM
+/xEz]
+5FcNd
+u|al[
+9Y2-
+)<be
+pRt3
+	^(?
++5'!
+v("O'P
+#."h
+:i_3
+mu_Iqw
+'U\V
+9xwFb
+i$>Z
+/a7Z
+Ckyb
+2Q_DT
+Z7cA
+HuIa
+Z2R\
+#F\2
+Q O~.
+]}gS
+0Nvb
+ZaUf
+--n	k	
+jDgFu
+>q";
+-(vy
+	<CSO
+}X{8O
+iCq2
+~5d}
+Wxiw2L
+((kO
+nDl_
+xj$P
+ly|S
+hA,k
+MR[%Q
+<]o[
+2Pn!5
+$z*'
+/W!ar
+c07'h
+B3$x
+<4k_
+5JBt
+s/8Q?
+.j>j
+enmty)3q]8
+&8cMG
+A2]D
+mS}5
+fIzh
+Z0UN
+OUpT
+VOJt
+M)od
+M,T	
+4@[![)Y	
+P=L^uh
+Xf+.'
+d91X
+JywPP
+:xgzbP?
+,C<\
+2wI:l
+U<2&
+X=$a
+ |$|2
+T_"2
+ 9.*
+lqg0
+N31,
+'?A@
+w(.A9,
+:7[gJ
+V=F:
++`St
+Em>!
+Q)?P
+AUk[M.
+"<w3
+$| r
+XO'b[Q
+eP_S
+cso9
+/jvC.E
+:7`b
+~3\<}
+h^5?
+;z09
+h@zFd}n
+$	T9
+nAAN
+*`raDQ
+oR8*
+i3Kz
+l0;vR
+q[\~
+F[nA{
+<vW2
+juZiqw
+(i5J
+8,u$
+IUW$
+8U2B
+MTb+~
+Zoa#
+Mq!i
+.?|s
+n$@Y
+hT[O
+H&g|
+:Fk'<
+JX`b
+lN^Z
+%,0MU\
+4M1.
+e<i]
+I"M=
+6'/-
+RwF0
+a0N&
+p)Im\
+YAW=:
+yY6`
+eCnp
+&Lga
+.\$1
+]U4p
+w1bu
+]EP^Q
+>^?@qg
+2<x{
+9gShd
+WMX%
+K-z^
+Pt4Yw
+	4h8
+`f{ us
+j]2dN
+7x?b
+>p+"D
+	]eY
+#F*C2tC>
+gf:t
+!w\)`
+L9r6
+7-N{
+~B}G%
+L;.C
+T|Vz
+|H	qa
+wj?!
+]X&f
+Q+Ja
+I1JN
+e/d~L
+cZL*>+=G
+[1Ya
+9ZFs
+1`j`
+t5U)-
+fCpy
+%'s\
+ NM*
+JRML}[D
+05.s&
+*IKQ_o
+/39t
+>,yo
+?cN@g;
+*Glv
+o82Er
+okjL
+6JH6
+PtXf
+0 M!
+T?WMv@
+le@0
+gl}<
+r\L:
+nK5=
+5K{l
+L5lH
+Gz>h
+5&rRM
+0+X:
+k<!e
+wZsI
+Kp$1
+Cv<(
+3Ukh.
+xNtUTA3R
+	Krj'_Gu
+[|!q^Y
+P<':
+*n;T?
+pOsb!>
+`(:,3
+p@d+X
+IJ`#
+jFg%
+R@d{
+GJUko/\
+9\B8
+teG9#
+PYO6
+hk[9
+$f{`V
+tA[T
+2;u) 2
+.]yxA3Dg{C
+R3mdv
+sE)F.}
+xHk-l
+:X6]
+%$pY
+RYOJ
+bjzS
+XFz.M
+kt?'
+P~"x
+`15=
+`T<P
+bs~zr]
+X+H'
+[/<B
+*Uy!5mj
+iEa3
+8('R
+B#)S
+PVfN
+%Od	
+]|Tl
+Ox,R
+c&lAC@4
+aq81
+!?-G
++3'm
+>*6z
+5p#4
+XEC 
+{I}Ui
+jpgY
+f9@X
+25Cf
+&wU.
+]+fH`i
+jOwS
+"8 '
+y,[e
+nq2G
+dDtg
+a?$G
+2Dp@N
+#I5_
+!}.r
+I<b/q
+m|jM
+'ij.
++}$HLG
+Dk:>
+r ){9
+!cM?
+9Oo?(x
+uaF=x
+?1HQm
+@:P%
+:W51S
+W>V4\
+<DkE
+>Bvgr
+J*0P%Gw
+\65u8
+A}'&d
+y2qBv
+m|O1c
+Hv?R
+Low	
+X	RG
+=Wp5
+s;m$
+t6Y	
+i,Sy
+	_^P&
+=r.O;
+eJV#(JG
+r;#8
+?\i$
+h3\|
+s{:z
+PO*f
+&u E
+ $I<
+=Xxw$
+5y+pc
+SV]u
+quae]
+:A;fg
+i_F:
+*hND
+j(MgJ
+gp~q
+,':1XSNEt
+{pmfW\AJ#(5>
+FMP[ja|w
+29$/
+=6+ 
+ensxIB_T
+GLQZk`}v
+38%.
+<7*!
+doryHC^U
+-&;0YRODu~ch
+zqlgV]@K")4?
+86$*p~lbHFTZ
+;5')
+KEWYs}oa
+MCQ_u{ig=3!/
+vxjdN@R\
+>0",
+AO]Sywek1?-#	
+ztfhBL^P
+2<. 
+4:(&|r`nDJXV79+%
+GI[U
+49.#her
+\QFK
+kfq|_REH
+7:- m`wzYTCN
+1<+&
+2?(%nctyZW@M
+>3$)boxuV[LAal{vUXOB	
+=0'*
+gj}pS^ID
+;6!,
+85"/di~sP]JG
+$-6?HAZSle~w
+;2) 
+szahW^EL
+dmR[@I>7,%
+MD_Vi`{r
+!(3:
+|ungXQJC4=&/
+GNU\cjqx
++"90
+.'<5BKPYfot}
+18#*
+ypkb]TOFc|w{
+9JLX
+~=d]
+ "$&(*,.02468:<>@BDFHJLNPRTVXZ\^`bdfhjlnprtvxz|~
+;9?=3175+)/-#!'%[Y_]SQWUKIOMCAGE{y
+}sqwukiomcage
+0365<?:9(+.-$'"!`cfelojix{~}twrqPSVU\_ZYHKNMDGBA
+[X]^WTQRC@EFOLIJkhmngdabspuv
+|yz;8=>7412# %&/,)*
+lpHP
+_E`%
+\hQV
+Sb*kA?AT?*
+0Hx(x`(07
+$~Z6ZH6$
+tX4Fr.rh.46Aw-wl-6
+%Ku>
+cw/X
+cB pP0P@0 
+&y_5_L5&
+.eK9K\9.
+2O}+}d+2
+k(lD<DP<(
+r\8Tl$lp$8W_
+Ws!R
+>]c!c|!>
+B|q&W
+:Si'it':'
++"wU3UD3"
+-<Zf"fx"<
+m,bN:NX:,
+!(Ew
+E~Dl
+0/*g
+)5CN
+@T z
+p_i7
+$1J^
+5;6Q
+kgyA
+~	L#'Q&
+k<VL
+XX&~
+0t*Q
+N^ee
+1p.D
+0xGNe
+Mf3L
+2_{6n
+)l\^'-
+<$;nq
+TZFx
+>$rgHba
+Fxy;*W
+0eZ;
+-`rM
+T`00P
+V++}
+L&&jl66Z~??A
+Oh44\Q
+sb11S*
+RF##e
+&N''i
+X,,t4
+v;;M
+R)){
+>^//q
+,@  `
+r99K
+f33U
+x<<D%
+p88H
+uB!!c 
+z==G
+D""fT**~;
+;d22Vt::N
+H$$l
+Cn77Y
+J%%o\..r8
+|>>Bq
+j55_
+P((x
+Z--w
+P`00
+gg}V++
+jL&&Zl66A~??
+\h44
+Sb11?*
+eF##^
+iN''
+tX,,.4
+RRMv;;a
+{R))>
+q^//
+`@  
+Kr99
+MMUf33
+PPDx<<
+Hp88
+cB!!0 
+DD9.
+~~Gz==
+]]+2
+fD""~T**
+Vd22Nt::
+lH$$
+Yn77
+xxoJ%%r\..$8
+tt!>
+ppB|>>
+aa_j55
+UUxP((z
+wZ--
+0P`0
+g+}V+
+&jL&6Zl6?A~?
+4\h4
+1Sb1
+#eF#
+'iN'
+,tX,
+R;Mv;
+){R)
+/q^/
+ `@ 
+9Kr9J
+M3Uf3
+P<Dx<
+8Hp8
+!cB!
+~=Gz=d
+"fD"*~T*
+2Vd2:Nt:
+$lH$\
+7Yn7m
+x%oJ%.r\.
+p>B|>
+a5_j5W
+U(xP(
+-wZ-
+00P`
+++}V
+=&&jL66Zl??A~
+44\h
+11Sb
+##eF
+''iN
+,,tX
+-6nn
+;;Mv
+})){R
+//q^
+  `@
+g99KrJJ
+33Uf
+<<Dx
+!88Hp
+!!cB
+==Gzdd
++2ss
+""fD**~T
+22Vd::Nt
+$$lH\\
+77Ynmm
+%%oJ..r\
+!>KK
+>>B|
+55_jWW
+3"ii
+((xP
+)--wZ
+:,%s: 
+%2x|
+pass1 ...
+died$7 ...
+died80 ...
+hello '%p'
+died2 ...
+died3 ...
+died4 ...
+pass2 ...
+./0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
+died5 ...
+died6 ...
+died7 ...
+'%d %d %d'
+died8killbuf ...
+died10 ...
+died12 ...
+died11 ...
+Client Key
+WaviBanana
+do_skein_hash
+do_jh_hash
+mul128
+algo/cryptonight.c
+likely(SKEIN_SUCCESS == r)
+likely(SUCCESS == r)
+ac <= *product_hi
+do_skein_hash
+do_jh_hash
+mul128
+algo/cryptolight.c
+Attempt to hash quark without init!
+vRQ>
+8STs
+LwH'
+DEBUG (little endian): %s
+Hash:   %sx0
+Target: %sx0
+k3h|
+%Lwz
+ n;^
+Qkkbal
+i]Wb
+9a&g
+MGiI
+wn>Jj
+#.zf
++o*7
+8x|T)#
+g hl
+fP&N
+LrQz
+^f@E
+/ ar
+c|w{
+9JLX
+~=d]
+evo hash order %s (%08x)
+0123456789ABCDEF
+scanhash_kaspa_cpu(): thr_id=%d, jobid=%s, target=0x%0llX, head=%.80s
+---------------found nonce: %llx
+restart----------------
+kw@1f
+_(C<
+!^Hj
+static void singular::Svd<M, N>::doFrancis(singular::Matrix<M, M>&, singular::Svd<M, N>::BidiagonalMatrix&, singular::Matrix<N, N>&, int) [with int M = 64; int N = 64]
+double singular::Svd<M, N>::BidiagonalMatrix::operator()(int, int) const [with int M = 64; int N = 64]
+singular::Reflector<L>::Reflector(const singular::Vector<const double>&) [with int L = 64]
+singular::Vector<T> singular::Vector<T>::slice(size_t) const [with T = const double; size_t = unsigned int]
+./algo/kaspa/matrix-utils/singular/Vector.h
+start >= 0 && start <= this->size()
+algo/kaspa/matrix-utils/singular/Svd.h
+n >= 2
+i >= 0 && i < M
+./algo/kaspa/matrix-utils/singular/Reflector.h
+v.size() > 0 && v.size() <= L
+algoboard_read_temp
+cheak_info
+init_again
+sleep now.....
+7f 55 ff 09 08 01 0b 00 00 00 %02x %02x 8a
+fall %02x
+rise %02x
+/dev/spidev%d.%d
+can't open device '%s'
+can't get spi mode
+can't set bits per word
+can't get bits per word
+can't set max speed hz
+can't get max speed hz
+spi mode: %x
+bits per word: %d
+max speed: %d Hz (%d KHz)
+init first
+leading zero: %08X, act=%d, force=%d
+7f 55 ff 0d 01 %02X
+7f 55 ff 0c
+%s() begin
+read temp %d
+asic tmp=%3.1fC, 
+asic1 volt=%3.2fV, 
+mos tmp=%dC, 
+sensor1 tmp=%dC, 
+sensor2 tmp=%dC, 
+fan1 speed=%drps, 
+fan2 speed=%drps
+%s() end
+read temp 
+7f 55 ff 81 01 00
+over 1000 close algoboard1
+over 1000 close algoboard2
+over 1000 close algoboard3
+FIFO RESET
+Prevent overflow, Jump out
+board0_satus = %d
+board1_satus = %d
+board2_satus = %d
+board3_satus = %d
+hash_board0_err = %d
+hash_board1_err = %d
+hash_board2_err = %d
+hash_board3_err = %d
+write %d bytes to buffer%d
+scanhash_kaspa_fpga(): thr_id=%d, jobid=%s, target=%llX, prefix=%02X%02X head=%.80s
+work->job_id = %s
+jobid_current = %s
+jobid_last = %s
+jobid_current sizeof = %d
+algoboard wake up!!!
+bus error
+need update data----------------
+-------------restart=1
+..........nSec=70..........
+7f 55 ff 80 06 00 00 00 00 00 00 59
+..........nSec=%ld..........
+board1 chip%02d: %02f
+C %01fV %dM  %d/%d  %d  ||  board2 chip%02d: %02f
+C %01fV %dM  %d/%d  %d  ||  board3 chip%02d: %02f
+C %01fV %dM  %d/%d  %d
+........................ vital  date_num=%d  no_55=%d  no_7f=%d  no_check=%d ........................
+........................ vital  bypass_board1=%d  bypass_board2=%d  bypass_board3=%d ........................
+............ vital error_rate[%d] = %02f ............
+7f 55 %02x 08 01 01
+close en board1_time_bypass = %d
+close en board2_time_bypass = %d
+close en board3_time_bypass = %d
+GPIO_DOG2 GPIO11
+board_real_time%d = %f
+board_real_power%d = %f
+............diff_num=%d............
+............diff_num_last=%d............
+............khs1=%d............
+............suc_nonce_num=%d............
+............stas_total_last=%d............
+............time_nonce=%d............
+............diff_num1=%d............
+............diff_num2=%lld............
+............init_powersec=%d............
+............khs2=%d............
+............lbs_miner->rt_pow=%d............
+no 55
+command from channel%d
+bf----
+block=%d, chip=%d, core=%d, nonce=%0llX, dup=%d
+bf[2] chip=%d
+%02X noncecnt: %d, pll : %d
+chip%d temp %02X:tp0:%3.1f | tp1:%3.1f
+over temp close algoboard1 %d
+over temp close algoboard2 %d
+over temp close algoboard3 %d
+...........chip 
+ = %f ............
+temp >=75 set_fan_pwm = %d
+temp >=75 get_fan_ratio = %d
+temp <=65 set_fan_pwm = %d
+temp <=65 get_fan_ratio = %d
+bf[2]=%02x
+bf[3]=%02x
+chip%d voltage V=%f
+close en board1_time_close_en = %d
+close en board2_time_close_en = %d
+close en board3_time_close_en = %d
+model %02X: %s
+unknown command: %02X
+checksum error!
+not 7f
+hh----
+heavy_hash=%d
+hash32=
+--hash32=
+!!!!!!!!!!! right !!!!!!!!!!!!
+commit_stat=%d
+check again %d------
+calcDiff2
+!!!!!!!!!!! right !!!!!!!!!!! again 
+err_diff=%d
+7f 55 ff 8e 01 30
+open dev failed!
+This is not a terminal device
+tcgetattr
+tcsetattr error
+Configure UART done.
+proto_init_cmd
+[%d-%02d-%02d %02d:%02d:%02d] proto_write(): 
+%02X 
+unknown command: %02X  id:%d
+chip%d pll = %d	
+num = %d	
+chip%d vol = %f	
+num1 = %d	
+25 board%d chip_vol = %d
+25 board%d chip_pll = %d
+bypass chip%d! error_bypass=%d
+read pll
+read pll2
+read vol
+vital board%d chip_pll = %d
+vital board%d chip_vol = %d
+vital board%d error_v = %d
+only one voltage over range, not bypass
+first have data
+bypass_num = %d
+have board%d bypass = %d
+first no data
+closer en1
+closer en2
+closer en3
+7f 55 ff 02 01 00
+7f 55 00 02 01 %02X
+7f 55 00 01 01 01
+7F 55 00 01 01 01
+7F 55 00 02 01 01
+7F 55 01 09 09 4D 01 0B 00 00 00 02 00 BF
+7F 55 01 0C 01 1F
+7F 55 00 02 01 02
+7F 55 00 02 01 03
+7F 55 03 09 09 4D 01 0B 00 00 00 02 00 BF
+7F 55 03 0C 01 1F
+7F 55 00 02 01 04
+7F 55 00 02 01 05
+7F 55 05 09 09 4D 01 0B 00 00 00 02 00 BF
+7F 55 05 0C 01 1F
+7F 55 00 02 01 06
+7F 55 00 02 01 07
+7F 55 07 09 09 4D 01 0B 00 00 00 02 00 BF
+7F 55 07 0C 01 1F
+7F 55 00 02 01 08
+7F 55 00 02 01 09
+7F 55 00 02 01 47
+7F 55 47 09 09 4D 01 0B 00 00 00 02 00 BF
+7F 55 47 0C 01 1F
+7F 55 00 02 01 48
+7F 55 00 02 01 49
+7F 55 49 09 09 4D 01 0B 00 00 00 02 00 BF
+7F 55 49 0C 01 1F
+7F 55 00 02 01 4A
+7F 55 00 02 01 4B
+7F 55 4B 09 09 4D 01 0B 00 00 00 02 00 BF
+7F 55 4B 0C 01 1F
+7F 55 00 02 01 4C
+7F 55 00 02 01 4D
+7F 55 4D 09 09 4D 01 0B 00 00 00 02 00 BF
+7F 55 4D 0C 01 1F
+7F 55 00 02 01 4E
+7F 55 00 02 01 4F
+7F 55 00 02 01 8D
+7F 55 8D 09 09 4D 01 0B 00 00 00 02 00 BF
+7F 55 8D 0C 01 1F
+7F 55 00 02 01 8E
+7F 55 00 02 01 8F
+7F 55 8F 09 09 4D 01 0B 00 00 00 02 00 BF
+7F 55 8F 0C 01 1F
+7F 55 00 02 01 90
+7F 55 00 02 01 91
+7F 55 91 09 09 4D 01 0B 00 00 00 02 00 BF
+7F 55 91 0C 01 1F
+7F 55 00 02 01 92
+7F 55 00 02 01 93
+7F 55 93 09 09 4D 01 0B 00 00 00 02 00 BF
+7F 55 93 0C 01 1F
+7F 55 00 02 01 94
+7F 55 00 02 01 95
+7F 55 FF 09 09 4D 01 0B 00 00 00 02 00 BF
+7f 55 FF 0c 39 1b 5a 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 81 2e 88 54 c2 f2 11 5d 52 ad 94 6a 84 ac 78 5a 1b 1e b7 46 4d 88 a4 ba e7 14 89 ae 18 e6 04 5b f5 be 32 11 76 00
+7f 55 FF 0c 39 1b 5a 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 81 2e 88 54 c2 f2 11 5d 52 ad 94 6a 84 ac 78 5a 1b 1e b7 46 4d 88 a4 ba e7 14 89 ae 18 e6 04 5b f5 be 32 11 76 01
+vital open all core
+7f 55 ff 09 08 00 fb 00 00 00 06 40 6d
+7f 55 FF 09 08 40 fb 00 00 00 06 40 6d
+7f 55 FF 09 08 80 fb 00 00 00 06 40 6d
+7f 55 FF 09 08 C0 fb 00 00 00 06 40 6d
+vital 25m to ch0
+7f 55 FF 06 06 ff ff ff ff ff ff 
+vital 25m to ch3
+7f 55 ff 05 03 ce 5c e5
+7f 55 ff 09 08 01 0b 00 00 00 0B 80 8a
+vital pll 1150m bypass
+7f 55 ff 0b 02 00 19
+7f 55 FF 06 06 00 03 00 00 00 00 
+vital 950M 1
+7f 55 FF 06 06 00 0c 00 00 00 00 
+vital 950M 2
+7f 55 FF 06 06 00 30 00 00 00 00 
+vital 950M 3
+7f 55 FF 06 06 00 c0 00 00 00 00 
+vital 950M 4
+7f 55 FF 06 06 03 00 00 00 00 00 
+vital 950M 5
+7f 55 FF 06 06 0c 00 00 00 00 00 
+vital 950M 6
+7f 55 FF 06 06 30 00 00 00 00 00 
+vital 950M 7
+7f 55 FF 06 06 c0 00 00 00 00 00 
+vital 950M 8
+ks3m_1150m_flag = %d
+init cmd
+fan_dete %d %d %d %d
+...............fan speed success, set chip...............
+get_fan_ratio1 = %d
+...............fan speed fail, no set chip, exit!...............
+/sys/class/gpio/export
+/sys/class/gpio/gpio%d/direction
+/sys/class/gpio/gpio%d/value
+/dev/i2c-0
+can't open i2c-0
+dian san yuan 13.5V
+ying kong 14V
+config chip addr
+-------------------------board%d num%d config----------------------------
+get_pow1_buf_12v[8]=%d, get_pow1_buf_12v[9]=%d
+get_pow1_buf_12v=%d
+get_pow1_buf_12v=%.2f
+set 12V success
+set 12V fail
+get_pow1_buf[8]=%d, get_pow1_buf[9]=%d
+get_pow1_buf=%d
+get_pow1_buf=%.2f
+set 13V success
+set 13V fail
+set 14V success
+set 14V fail
+board%d num%d config fail
+board%d num%d config success
+board1  950m set fali!
+board1  950m set success!
+board2  950m set fali!
+board2  950m set success!
+board3  950m set fali!
+board3  950m set success!
+00 ab 00 08 00 04 55 aa 01 b0 bc cd
+00 ab 00 08 00 04 55 aa 03 a0 ae cd
+read global temp
+7f 55 ff 81 01 00 55
+open uart error!
+open uart succ!
+config failed!
+config uart succ!
+uart_read: 
+7f 55 ff 09 01 01 de
+7f 55 ff 09 01 00 dd
+dhcp
+dhcp=%d
+network
+network dns=%s
+echo "nameserver %s" > /var/run/resolv.conf
+/etc/init.d/networking restart
+..........................web.............................
+/var/volatile/tmp/bg
+./linux-arm-default/bin/appweb --config ./appweb.conf
+/home/root
+Overtemperature flashing light
+High temperature when disconnected from the network meets the requirements
+Broken network flashing light
+Self inspection failed
+setv 5V
+setv 475V
+/dev/i2c-1
+can't open i2c-1
+read ioctl error
+Write_IIC_Command error
+temp10=%f
+temp11=%f
+temp12=%f
+temp13=%f
+temp20=%f
+temp21=%f
+temp22=%f
+temp23=%f
+temp30=%f
+temp31=%f
+temp32=%f
+temp33=%f
+get_adc[%d]= %02x
+get_adc= %02x
+f = %f
+/var/order/conf
+cp -r bgserver.conf /var/volatile/tmp/
+rm -r /var/vital
+00:00:00
+/var/order/log/%d-%02d-%02d.log
+bgserver
+[%s] [%d-%02d-%02d %02d:%02d:%02d] %s
+/bin/sh
+%04d-%02d-%02d %02d:%02d:%02d
+serverfunc
+connect from %s:%d
+Client=%d
+low memory
+ConnectInfo=%d
+serverhandle_init
+port
+error create server!
+error create server: %d
+create server success
+ServerHandle=%d
+wait finished: %d!
+/var/order/log/
+%s%s
+file=%s
+{"id":"log", "ret":{"code":%d, "ctime": "%s", "mtime": "%s", "len": %d}}
+ln=%d
+ofs=%d
+true
+false
+..........6666666.........
+js=%s
+hello
+{"id":"%s","ret":{"code":%d,"msg":"%s"}}
+world
+login
+admin
+user not exist
+password
+{"id":"%s","ret":{"code":%d}}
+password error
+setlocate
+getlocate
+{"id":"%s","ret":{"code":%d,"on":%s}}
+changepass
+invalid newpass
+sync
+resetfactory
+restart
+getnet
+{"id":"%s","ret":{"code":%d,"nic": "%s", "mac":"%s", "ip": "%s","netmask":"%s", "host": "%s", "dhcp": %s, "gateway": "%s", "dns": "%s"}}
+setnet
+netmask
+host
+gateway
+recovery network setup success!
+recovery network setup failed!
+history
+log i=%d
+firmupdate
+keepconfig
+filelen
+filemd5
+filelen=%d
+filemd5=%s
+/var/volatile/
+%supdate.bgz
+{"id":"firmupdate", "ret":{"code":0}}
+send: %s
+errno=%d
+mn=%d
+remove
+{"id":"firmupdate", "ret":{"code":1011, "msg":"data lost"}}
+{"id":"firmupdate", "ret":{"code":1012, "msg":"write file failed"}}
+sysop
+md5sum %s
+md5_buf = %s
+md5_cmp = %s
+{"id":"firmupdate", "ret":{"code":1013, "msg":"file not exist"}}
+{"id":"firmupdate", "ret":{"code":1010, "msg":"file invalid"}}
+{"id":"firmupdate", "ret":{"code":1005, "msg":"failed"}}
+{"id":"firmupdate", "ret":{"code":1006, "msg":"md5 err"}}
+ff = %s
+sethw
+ratio
+control
+sleep/normal
+mode
+lbs_miner sleep=%d
+sleep
+.......... sleep close ..........
+{"id":"sethw", "ret":{"code":0}}
+gethw
+{"id": "gethw", "ret": {"code": 0, "getratio": %d, "getmode":%d}}
+{"id": "fan", "ret": {"code": 0, "fans": [%d,%d,%d,%d]}}
+info
+{"id": "info", "ret":{"code": 0, "model": "%s", "algo": "%s", "online": %s, "firmver1": "%s", "firmver2": "%s", "softver1": "%s", "softver2": "%s", "firmtype": "%s"}}
+state
+Fan abnormal
+Fan normal
+{"id": "state", "ret": {"code": 0, "pow": %s, "net": %s, "fan": %s, "temp": %s}}
+boardpow
+{"id": "boardpow", "ret": {"code":0, "rtpow": "%dG", "avgpow": "%dG", "reject": %f, "runtime": "%s", "unit": "%s", "pows": [%s]}}
+board
+ks_vson_conf = %s
+{"no": %d, "chipnum": %d, "chipsuc": %d,"error": %d, "freq": %d, "rtpow": "%.2fG", "avgpow": "%.2fG", "idealpow":"%.2fG", "tempnum":%d, "pcbtemp":"%s", "intmp": %d, "outtmp": %d, "state": %s, "false":[%s]}
+{"id":"board", "ret":{"code": 0, "chainnum": %d, "boards": [%s]}}
+setpool
+pools
+getpool
+{"no": %d, "addr": "%s", "user": "%s","pass":"%s", "connect": %s, "diff": "%0.2lf G", "priority": %d, "accepted": %d, "rejected": %d, "diffa": %d,"diffr": %d, "state": %d, "lsdiff": %d, "lstime": "%s"}
+{"id":"getpool","ret":{"code":0,"pools":[%s]}}
+getchipinfo
+{"no": %d, "temp": %d, "voltage": %.2f, "pll": %d }
+{"id":"getchipinfo","ret":{"code":0,"chips":[%s]}}
+setchip
+set pll=%d
+set v=%d
+{"id":"setchip","ret":{"code":0}}
+{"id":"version","ret":{"code":0,"bgminer":[%s],"boot":[%s],"uimage":[%s],"appweb":[%s]}}
+{"id":"setpool","ret":{"code":0}}
+lbs_miner addrupdata=%d
+{"id":"setpool","ret":{"code":1005,"msg":"failed"}}
+confunc
+confunc tid=%s, sck=%d
+flag_cp1 = %d
+data: 
+buf=%s
+n=%d
+buff overflow
+end_pos=%d
+{"ret":{"code":1007,"msg":"invalid"}
+reboot
+reboot fail!
+close %d
+parse_file
+load_ini_file
+cfgfile.c
+section != NULL && strlen(section)
+key != NULL && strlen(key)
+i < MAX_FILE_SIZE
+[%s]
+%s=%s
+[%s]
+%s=%s
+%s=%s
+..........cp..........
+/var/volatile/tmp
+cp -r bgserver.conf /var/order/conf/bgserverbak.conf
+..........sync..........
+mv bgserverbak.conf bgserver.conf
+..........mv..........
+rm -r /var/volatile/tmp/bgserver.conf
+cp -r /var/order/reset/conf/bgserver.conf /run
+move conf success
+cp -r /run/bgserver.conf /var/volatile/tmp/
+rm -r /var/order/conf/*
+cp -r /var/order/reset/conf /run
+cp -r /run/conf/* /var/order/conf/
+rm -r /var/update/*miner.bgz
+delete miner.bgz
+rm -r /var/update/*bg.bgz
+delete bg.bgz
+/var/order/reset/
+cp -r /var/order/reset/formal/*miner.bgz /run
+cp -r /run/*miner.bgz /var/update/
+move miner success
+cp -r /var/order/reset/*bg.bgz /run
+cp -r /run/*bg.bgz /var/update/
+move bg success
+cp -r /var/order/reset/interfaces /run
+cp -r /run/interfaces /etc/network
+move interfaces success
+hostname: 
+ifconfig | grep inet | sed -n '1p' | awk '{printf $2}'
+ip: 
+cat /sys/class/net/eth0/address
+mac: 
+routel | grep default | awk '{printf $2}'
+gw: 
+ifconfig | grep ask | sed -n '1p' | awk '{printf $4}'
+netmask: 
+cat /etc/resolv.conf | grep nameserver | sed -n '1p' | awk '{printf $2}'
+dns: 
+eth0
+nic: 
+getnet success!
+cat /etc/network/interfaces | grep address | awk '{printf $2}'
+get_ip = %s
+cat /etc/network/interfaces | grep gateway | awk '{printf $2}'
+get_gateway = %s
+cat /etc/network/interfaces | grep netmask | awk '{printf $2}'
+get_netmask = %s
+infoo address %s
+infoo dns %s
+infoo gateway %s
+infoo netmask %s
+infoo->dhcp %s
+info address %s
+info dns %s
+info gateway %s
+info netmask %s
+sed -i 's/address %s/address %s/g' /etc/network/interfaces
+sed -i 's/gateway %s/gateway %s/g' /etc/network/interfaces
+sed -i 's/netmask %s/netmask %s/g' /etc/network/interfaces
+sed -i 's/%s/%s/g' /etc/hostname
+static
+sed -i 's/iface eth0 inet %s/iface eth0 inet %s/g' /etc/network/interfaces
+open dir failed!
+cp -r %s /var/volatile/update.bgz
+tar_buf = %s
+/var/volatile
+./jm update.bgz update.tar
+tar -xvf /var/volatile/update.tar -C /var/volatile/
+ls | grep reset
+rm -r reset
+rm -r /var/update/reset
+%s reset
+cp -r /var/volatile/reset /var/update/
+cp reset success
+cp reset error
+NOT reset file
+ls | grep -o '^[^.]*' | grep miner
+miner_buf = %s
+rm all miner success
+rm all miner error
+%s miner
+cp -r /var/volatile/*miner.bgz /var/update/miner.bgz
+cp all miner success
+cp all miner error
+conf_miner = %s
+NOT miner file
+ls | grep -o '^[^.]*' | grep bg
+bg_buf = %s
+rm all bg success
+rm all bg error
+%s bg
+cp -r /var/volatile/*bg.bgz /var/update/
+cp all bg success
+cp all bg error
+NOT bg file
+ls | grep admin
+rm -r /var/www/html/admin/*
+rm all .sh success
+rm all .sh error
+%s admin
+cp -r /var/volatile/admin/* /var/www/html/admin/
+cp all .sh success
+cp all .sh error
+NOT admin file
+ls | grep conf
+%s conf
+cp /var/volatile/%s/* /var/order/conf/
+cp /conf/* success
+cp /conf/* error retry......
+cp /conf/* error
+NOT conf file
+ls | grep bgserver.sh
+bgserver.sh
+cp /var/volatile/%s /etc/init.d/
+cp /etc/init.d/bgserver.sh success
+cp /etc/init.d/bgserver.sh error retry......
+cp /etc/init.d/bgserver.sh error
+NOT bgserver.sh file
+ls | grep image*
+image.bin
+flash_erase /dev/mtd2 0 88
+erase mtd2 success
+erase mtd2 error retry......
+erase mtd2 error
+cp /var/volatile/%s /var/update/
+cp /var/volatile/cpuminer success
+cp /var/volatile/cpuminer error
+uimage
+NOT image.bin file
+ls | grep BOOT*
+BOOT.BIN
+flash_erase /dev/mtd0 0 32
+erase mtd0 success
+erase mtd0 error retry......
+erase mtd0 error
+nandwrite -p /dev/mtd0 /var/volatile/%s
+nandwrite BOOT.BIN success
+nandwrite BOOT.BIN error retry......
+nandwrite BOOT.BIN error
+boot
+NOT BOOT.BIN file
+ls | grep rootfs.tar.gz
+rootfs.tar.gz
+tar -zxvf /var/volatile/rootfs.tar.gz -C /
+rootfs success
+rootfs error retry......
+rootfs error
+NOT rootfs.tar
+Factory
+www.baidu.com
+ping %s -c1 | grep 64 | awk '{printf $1}'
+%02d:%02d:%02d:%02d
+board[0] = %s
+board[1] = %s
+board[2] = %s
+board[3] = %s
+chip_num0 = %d
+chip_num1 = %d
+chip_num2 = %d
+chip_num3 = %d
+%0.2f-%0.2f-%0.2f-%0.2f
+vital 1 flag_dwled = %d
+vital 1 zijian_success_flag_tmp = %d
+locate success
+accepted_num = %d
+reject_nums  = %d
+lbs_miner->pool_state = %d
+lbs_miner pool_state:%d	 diff %ldG 	 accepted:%d 	 reject :%d
+temp0=%f
+temp1=%f
+temp2=%f
+temp3=%f
+............ 
+ ............
+lbs_miner hw_flag=%d
+lsb_miner rtpow=%d
+pows[%d]=%d
+avgpow=%d
+avg_pow=%d
+board0_avg%d = %f
+board1_avg%d = %f
+board2_avg%d = %f
+board3_avg%d = %f
+b0_avg = %f
+b1_avg = %f
+b2_avg = %f
+b3_avg = %f
+b0_avg[0] = %f
+b1_avg[1] = %f
+b2_avg[2] = %f
+b3_avg[3] = %f
+/sys/class/gpio/gpio%d/edge
+falling
+/dev/spidev1.0
+can't open device
+set fan %02x
+pwm=%d
+%02x  
+fan=%d	
+none
+lbs_miner algo=%s
+00:00:00:00
+00-00-00-00
+3000-12-31.log
+find ./log -type f | wc -l
+log=%d
+logmin=%s
+rm ./log/%s
+cp /var/log/messages ./log/%d-%02d-%02d.log
+no read ack3
+no write ack1
+no write ack2
+buff[%d]= %02x 
+demo_i2c_recv_ack   %d 
+no write ack3
+tmp1=%d
+tmp2=%d
+tmp3=%d
+tmp4=%d
+tmp5=%d
+tmp6=%d
+tmp7=%d
+tmp8=%d
+tmp11=%d
+tmp22=%d
+tmp33=%d
+tmp44=%d
+tmp55=%d
+tmp66=%d
+tmp77=%d
+tmp88=%d
+                                
+do_dump
+\u%04x
+\u%04x\u%04x
+null
+%lld
+dump.c
+i == size
+`stream_unget
+stream_get
+lex_unget_unsave
+decode_unicode_escape
+lex_scan_string
+lex_scan_number
+%s near '%s'
+%s near end of file
+load.c
+stream->buffer[stream->buffer_pos] == c
+count >= 2
+unable to decode byte 0x%x
+stream->buffer_pos > 0
+c == d
+premature end of input
+unexpected newline
+control character 0x%x
+invalid escape
+invalid Unicode '\u%04X\u%04X'
+invalid Unicode '\u%04X'
+\u0000 is not allowed
+too big negative integer
+too big integer
+end == saved_text + lex->saved_text.length
+real number overflow
+string or '}' expected
+duplicate object key
+':' expected
+'}' expected
+invalid token
+unexpected token
+']' expected
+<string>
+wrong arguments
+'[' or '{' expected
+end of file expected
+<buffer>
+<stdin>
+<stream>
+unable to open %s: %s
+<callback>
+jsonp_strtod
+strconv.c
+end == strbuffer->value + strbuffer->length
+%.17g
+OAES
+boot1.0
+bgminer1.0
+appweb1.0
+uimage1.0
+GCC: (Linaro GCC 7.4-2019.02) 7.4.1 20181213 [linaro-7.4-2019.02 revision 56ec6f6b99cc167ff0c2f8e1a2eed33b1edc85d4]
+aeabi
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rel.dyn
+.rel.plt
+.init
+.text
+.fini
+.rodata
+.ARM.extab
+.ARM.exidx
+.eh_frame
+.tdata
+.tbss
+.init_array
+.fini_array
+.dynamic
+.got
+.data
+.bss
+.comment
+.ARM.attributes

@@ -1,0 +1,201 @@
+Booting Linux on physical CPU 0x0
+Linux version 4.19.0-xilinx-v2019.2 (oe-user@oe-host) (gcc version 8.2.0 (GCC)) #1 SMP PREEMPT Wed Feb 1 06:19:59 UTC 2023
+CPU: ARMv7 Processor [413fc090] revision 0 (ARMv7), cr=18c5387d
+CPU: PIPT / VIPT nonaliasing data cache, VIPT aliasing instruction cache
+OF: fdt: Machine model: xlnx,zynq-7000
+earlycon: cdns0 at MMIO 0xe0001000 (options '115200n8')
+bootconsole [cdns0] enabled
+Memory policy: Data cache writealloc
+cma: Reserved 16 MiB at 0x0f000000
+On node 0 totalpages: 65536
+  Normal zone: 512 pages used for memmap
+  Normal zone: 0 pages reserved
+  Normal zone: 65536 pages, LIFO batch:15
+random: get_random_bytes called from start_kernel+0x80/0x3c4 with crng_init=0
+percpu: Embedded 16 pages/cpu @(ptrval) s35916 r8192 d21428 u65536
+pcpu-alloc: s35916 r8192 d21428 u65536 alloc=16*4096
+pcpu-alloc: [0] 0 [0] 1 
+Built 1 zonelists, mobility grouping on.  Total pages: 65024
+Kernel command line: console=ttyPS0,115200 earlycon root=mtd:jffs2 rw rootfstype=jffs2
+Dentry cache hash table entries: 32768 (order: 5, 131072 bytes)
+Inode-cache hash table entries: 16384 (order: 4, 65536 bytes)
+Memory: 233216K/262144K available (6144K kernel code, 205K rwdata, 1604K rodata, 1024K init, 132K bss, 12544K reserved, 16384K cma-reserved, 0K highmem)
+Virtual kernel memory layout:
+    vector  : 0xffff0000 - 0xffff1000   (   4 kB)
+    fixmap  : 0xffc00000 - 0xfff00000   (3072 kB)
+    vmalloc : 0xd0800000 - 0xff800000   ( 752 MB)
+    lowmem  : 0xc0000000 - 0xd0000000   ( 256 MB)
+    pkmap   : 0xbfe00000 - 0xc0000000   (   2 MB)
+    modules : 0xbf000000 - 0xbfe00000   (  14 MB)
+      .text : 0x(ptrval) - 0x(ptrval)   (7136 kB)
+      .init : 0x(ptrval) - 0x(ptrval)   (1024 kB)
+      .data : 0x(ptrval) - 0x(ptrval)   ( 205 kB)
+       .bss : 0x(ptrval) - 0x(ptrval)   ( 133 kB)
+rcu: Preemptible hierarchical RCU implementation.
+rcu: 	RCU restricting CPUs from NR_CPUS=4 to nr_cpu_ids=2.
+	Tasks RCU enabled.
+rcu: Adjusting geometry for rcu_fanout_leaf=16, nr_cpu_ids=2
+NR_IRQS: 16, nr_irqs: 16, preallocated irqs: 16
+efuse mapped to (ptrval)
+slcr mapped to (ptrval)
+L2C: platform modifies aux control register: 0x72360000 -> 0x72760000
+L2C: DT/platform modifies aux control register: 0x72360000 -> 0x72760000
+L2C-310 erratum 769419 enabled
+L2C-310 enabling early BRESP for Cortex-A9
+L2C-310 full line of zeros enabled for Cortex-A9
+L2C-310 ID prefetch enabled, offset 1 lines
+L2C-310 dynamic clock gating enabled, standby mode enabled
+L2C-310 cache controller enabled, 8 ways, 512 kB
+L2C-310: CACHE_ID 0x410000c8, AUX_CTRL 0x76760001
+zynq_clock_init: clkc starts at (ptrval)
+Zynq clock init
+sched_clock: 64 bits at 333MHz, resolution 3ns, wraps every 4398046511103ns
+clocksource: arm_global_timer: mask: 0xffffffffffffffff max_cycles: 0x4ce07af025, max_idle_ns: 440795209040 ns
+Switching to timer-based delay loop, resolution 3ns
+clocksource: ttc_clocksource: mask: 0xffff max_cycles: 0xffff, max_idle_ns: 537538477 ns
+timer #0 at (ptrval), irq=17
+Console: colour dummy device 80x30
+Calibrating delay loop (skipped), value calculated using timer frequency.. 666.66 BogoMIPS (lpj=3333333)
+pid_max: default: 32768 minimum: 301
+Mount-cache hash table entries: 1024 (order: 0, 4096 bytes)
+Mountpoint-cache hash table entries: 1024 (order: 0, 4096 bytes)
+CPU: Testing write buffer coherency: ok
+CPU0: Spectre v2: using BPIALL workaround
+CPU0: thread -1, cpu 0, socket 0, mpidr 80000000
+Setting up static identity map for 0x100000 - 0x100060
+rcu: Hierarchical SRCU implementation.
+smp: Bringing up secondary CPUs ...
+CPU1: thread -1, cpu 1, socket 0, mpidr 80000001
+CPU1: Spectre v2: using BPIALL workaround
+smp: Brought up 1 node, 2 CPUs
+SMP: Total of 2 processors activated (1333.33 BogoMIPS).
+CPU: All CPU(s) started in SVC mode.
+devtmpfs: initialized
+VFP support v0.3: implementor 41 architecture 3 part 30 variant 9 rev 4
+clocksource: jiffies: mask: 0xffffffff max_cycles: 0xffffffff, max_idle_ns: 19112604462750000 ns
+futex hash table entries: 512 (order: 3, 32768 bytes)
+pinctrl core: initialized pinctrl subsystem
+NET: Registered protocol family 16
+DMA: preallocated 256 KiB pool for atomic coherent allocations
+cpuidle: using governor menu
+hw-breakpoint: found 5 (+1 reserved) breakpoint and 1 watchpoint registers.
+hw-breakpoint: maximum watchpoint size is 4 bytes.
+zynq-ocm f800c000.ocmc: ZYNQ OCM pool: 256 KiB @ 0x(ptrval)
+zynq-pinctrl 700.pinctrl: zynq pinctrl initialized
+e0000000.serial: ttyPS1 at MMIO 0xe0000000 (irq = 27, base_baud = 6249999) is a xuartps
+e0001000.serial: ttyPS0 at MMIO 0xe0001000 (irq = 28, base_baud = 6249999) is a xuartps
+console [ttyPS0] enabled
+bootconsole [cdns0] disabled
+vgaarb: loaded
+SCSI subsystem initialized
+usbcore: registered new interface driver usbfs
+usbcore: registered new interface driver hub
+usbcore: registered new device driver usb
+media: Linux media interface: v0.10
+videodev: Linux video capture interface: v2.00
+pps_core: LinuxPPS API ver. 1 registered
+pps_core: Software ver. 5.3.6 - Copyright 2005-2007 Rodolfo Giometti <giometti@linux.it>
+PTP clock support registered
+EDAC MC: Ver: 3.0.0
+FPGA manager framework
+Advanced Linux Sound Architecture Driver Initialized.
+clocksource: Switched to clocksource arm_global_timer
+NET: Registered protocol family 2
+tcp_listen_portaddr_hash hash table entries: 512 (order: 0, 6144 bytes)
+TCP established hash table entries: 2048 (order: 1, 8192 bytes)
+TCP bind hash table entries: 2048 (order: 2, 16384 bytes)
+TCP: Hash tables configured (established 2048 bind 2048)
+UDP hash table entries: 256 (order: 1, 8192 bytes)
+UDP-Lite hash table entries: 256 (order: 1, 8192 bytes)
+NET: Registered protocol family 1
+RPC: Registered named UNIX socket transport module.
+RPC: Registered udp transport module.
+RPC: Registered tcp transport module.
+RPC: Registered tcp NFSv4.1 backchannel transport module.
+PCI: CLS 0 bytes, default 64
+hw perfevents: no interrupt-affinity property for /pmu@f8891000, guessing.
+hw perfevents: enabled with armv7_cortex_a9 PMU driver, 7 counters available
+workingset: timestamp_bits=30 max_order=16 bucket_order=0
+jffs2: version 2.2. (NAND) (SUMMARY)  © 2001-2006 Red Hat, Inc.
+io scheduler noop registered
+io scheduler deadline registered
+io scheduler cfq registered (default)
+io scheduler mq-deadline registered
+io scheduler kyber registered
+dma-pl330 f8003000.dmac: Loaded driver for PL330 DMAC-241330
+dma-pl330 f8003000.dmac: 	DBUFF-128x8bytes Num_Chans-8 Num_Peri-4 Num_Events-16
+brd: module loaded
+loop: module loaded
+cdns-spi e0006000.spi: registered master spi0
+spi spi0.0: setup mode 0, 8 bits/w, 50000000 Hz max --> 0
+spidev spi0.0: buggy DT: spidev listed directly in DT
+cdns-spi e0006000.spi: registered child spi0.0
+cdns-spi e0007000.spi: registered master spi1
+spi spi1.0: setup mode 0, 8 bits/w, 50000000 Hz max --> 0
+spidev spi1.0: buggy DT: spidev listed directly in DT
+cdns-spi e0007000.spi: registered child spi1.0
+libphy: Fixed MDIO Bus: probed
+CAN device driver interface
+libphy: MACB_mii_bus: probed
+Generic PHY e000b000.ethernet-ffffffff:00: attached PHY driver [Generic PHY] (mii_bus:phy_addr=e000b000.ethernet-ffffffff:00, irq=POLL)
+macb e000b000.ethernet eth0: Cadence GEM rev 0x00020118 at 0xe000b000 irq 32 (00:0a:39:00:02:f0)
+e1000e: Intel(R) PRO/1000 Network Driver - 3.2.6-k
+e1000e: Copyright(c) 1999 - 2015 Intel Corporation.
+ehci_hcd: USB 2.0 'Enhanced' Host Controller (EHCI) Driver
+ehci-pci: EHCI PCI platform driver
+usbcore: registered new interface driver usb-storage
+i2c /dev entries driver
+cdns-i2c e0004000.i2c: 400 kHz mmio e0004000 irq 23
+cdns-i2c e0005000.i2c: 400 kHz mmio e0005000 irq 24
+cdns-wdt f8005000.watchdog: Xilinx Watchdog Timer with timeout 10s
+EDAC MC: ECC not enabled
+Xilinx Zynq CpuIdle Driver started
+sdhci: Secure Digital Host Controller Interface driver
+sdhci: Copyright(c) Pierre Ossman
+sdhci-pltfm: SDHCI platform and OF driver helper
+mmc0: SDHCI controller on e0100000.mmc [e0100000.mmc] using ADMA
+ledtrig-cpu: registered to indicate activity on CPUs
+usbcore: registered new interface driver usbhid
+usbhid: USB HID core driver
+nand: device found, Manufacturer ID: 0xef, Chip ID: 0xf1
+nand: Winbond W29N01HV
+nand: 128 MiB, SLC, erase size: 128 KiB, page size: 2048, OOB size: 64
+Bad block table found at page 65472, version 0x01
+Bad block table found at page 65408, version 0x01
+nand_read_bbt: bad block at 0x000007f60000
+nand_read_bbt: bad block at 0x000007f80000
+nand_read_bbt: bad block at 0x000007fa0000
+nand_read_bbt: bad block at 0x000007fc0000
+4 fixed-partitions partitions found on MTD device W29N01HV
+Creating 4 MTD partitions on "W29N01HV":
+0x000000000000-0x000000400000 : "boot"
+0x000000400000-0x000000420000 : "bootenv"
+0x000000420000-0x000000f20000 : "kernel"
+0x000000f20000-0x000007320000 : "jffs2"
+fpga_manager fpga0: Xilinx Zynq FPGA Manager registered
+NET: Registered protocol family 10
+Segment Routing with IPv6
+sit: IPv6, IPv4 and MPLS over IPv4 tunneling driver
+NET: Registered protocol family 17
+can: controller area network core (rev 20170425 abi 9)
+NET: Registered protocol family 29
+can: raw protocol (rev 20170425)
+can: broadcast manager protocol (rev 20170425 t)
+can: netlink gateway (rev 20170425) max_hops=1
+Registering SWP/SWPB emulation handler
+of-fpga-region fpga-full: FPGA Region probed
+hctosys: unable to open rtc device (rtc0)
+of_cfs_init
+of_cfs_init: OK
+ALSA device list:
+  No soundcards found.
+jffs2: Empty flash at 0x051dcdc8 ends at 0x051dd000
+VFS: Mounted root (jffs2 filesystem) on device 31:3.
+devtmpfs: mounted
+Freeing unused kernel memory: 1024K
+Run /sbin/init as init process
+udevd[742]: starting version 3.2.5
+random: udevd: uninitialized urandom read (16 bytes read)
+random: udevd: uninitialized urandom read (16 bytes read)
+random: udevd: uninitialized urandom read (16 bytes read)
+udevd[743]: starting eudev-3.2.5

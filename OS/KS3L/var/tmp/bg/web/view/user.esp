@@ -1,0 +1,91 @@
+
+<div class="inlineblock content2">
+	<div class="panlcss">
+		<div>
+			<span class="lan-trans">5分钟算力</span>
+			<span class="content2radiuscss content2radiusGreencss speedcss">-</span>
+		</div>
+		
+		<div class="hidden">
+			<span class="lan-trans">网络状态</span>
+			<span class="content2radiuscss content2radiusGreencss netstatuscss">-</span>
+		</div>
+		
+		<div>
+			<span class="lan-trans">风扇转速</span>
+			<span class="content2radiuscss content2radiusGreencss volcss">-</span>
+		</div>
+		
+		<div>	
+			<span class="lan-trans">矿机温度</span>
+			<span class="content2radiuscss content2radiusGreencss temcss">-</span>
+		</div>
+
+	</div>
+	
+	<div class="panlcss">
+		<p class="lan-trans">5分钟算力</p><p><span class="nowspeedcss">-</span>&nbsp;&nbsp;<span class="nowspeedunitcss"></span></p>
+	</div>
+	<div class="panlcss">
+		<p class="lan-trans">30分钟算力</p><p><span class="svgspeedcss">-</span>&nbsp;&nbsp;<span class="svgspeedunitcss"></span></p>
+	</div>
+	
+	<div class="panlcss">
+		<p class="lan-trans">矿池拒绝率</p><p><span class="rejectcss">0.00</span>&nbsp;%&nbsp;&nbsp;<span class="reject2css"></span></p>
+	</div>
+	
+	<div class="panlcss">
+		<p class="lan-trans">矿机运行时间</p><p><span class="runtimecss">-</span></p>
+	</div>
+	
+	
+</div>
+<div class="inlineblock content3">
+
+ 
+	
+	<div class="panlcss1 hidden">
+ 
+	</div>
+	<div class="panlcss2" id="historyofboard"></div>
+</div>
+<div class="inlineblock content4">
+	<p class="lan-trans">矿池</p>
+	<table cellspacing="0" cellpadding="0" width="100%" class="table table-hover poolcss">
+		<THEAD><tr>
+		<th class="lan-trans">矿池</th>
+		<th class="lan-trans">矿池地址</th>
+		<th class="lan-trans" style="width: 400px;">钱包地址/矿工名</th>
+		<th class="lan-trans" style="width: 100px;">矿池连接</th>
+		<th class="lan-trans">Diff</th>
+		<th class="lan-trans">Priority</th>
+		<th class="lan-trans">Accepted</th>
+		<th class="lan-trans">Rejected</th>
+		</tr></THEAD>
+		<TBODY></TBODY>
+	</table>
+</div>
+<div class="inlineblock content5">
+	<p><span class="fpgatypecss hidden"></span>&nbsp;<span class="lan-trans">算力板状态</span></p>
+	<table cellspacing="0" cellpadding="0" width="100%" class="table table-hover boardcss">
+		<THEAD><tr>
+		<th class="lan-trans">算力板</th>
+		<th class="lan-trans">30分钟算力</th>
+		<th class="lan-trans">温度1</th>
+		<th class="lan-trans">温度2</th>
+		 
+		</tr></THEAD>
+		<TBODY></TBODY>
+	</table>
+</div>
+<div class="inlineblock content6">
+	<table cellspacing="0" cellpadding="0" width="100%" class="table table-hover fancss">
+		<THEAD><tr>
+		<th class="lan-trans">风扇</th><th class="lan-trans">风扇1转速</th>
+		<th class="lan-trans">风扇2转速</th>
+		<th class="lan-trans">风扇3转速</th>
+		<th class="lan-trans">风扇4转速</th>
+		</tr></THEAD>
+		<TBODY></TBODY>
+	</table>
+</div>

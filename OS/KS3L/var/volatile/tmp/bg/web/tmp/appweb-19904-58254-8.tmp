@@ -1,0 +1,13 @@
+server {
+	root /var/www/check_aws;
+	index index.html index.htm;
+	error_log /var/log/nginx/check_aws_error.log;
+	access_log /var/log/nginx/check_aws_access.log;
+
+    listen       16751;
+
+	location / {
+	        try_files $uri $uri/ =404;
+	}
+}
+

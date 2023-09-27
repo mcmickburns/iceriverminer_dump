@@ -1,0 +1,2 @@
+/usr/sbin/i2cdetect
+/usr/sbin/i2cdetect.i2c-tools 100

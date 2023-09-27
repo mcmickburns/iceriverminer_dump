@@ -1,0 +1,29 @@
+Wed Apr 19 20:10:28 2023: hwclock: can't open '/dev/misc/rtc': No such file or directory
+Wed Apr 19 20:10:28 2023: Wed Apr 19 20:10:28 UTC 2023
+Wed Apr 19 20:10:28 2023: hwclock: can't open '/dev/misc/rtc': No such file or directory
+Wed Apr 19 20:10:28 2023: INIT: Entering runlevel: 5
+Wed Apr 19 20:10:28 2023: Configuring network interfaces... udhcpc: started, v1.29.2
+Wed Apr 19 20:10:28 2023: udhcpc: sending discover
+Wed Apr 19 20:10:31 2023: udhcpc: sending discover
+Wed Apr 19 20:10:31 2023: udhcpc: sending select for 10.0.0.2
+Wed Apr 19 20:10:31 2023: udhcpc: lease of 10.0.0.2 obtained, lease time 86400
+Wed Apr 19 20:10:31 2023: /etc/udhcpc.d/50default: Adding DNS 192.168.0.250
+Wed Apr 19 20:10:31 2023: udhcpc: started, v1.29.2
+Wed Apr 19 20:10:31 2023: udhcpc: sending discover
+Wed Apr 19 20:10:31 2023: udhcpc: sending select for 10.0.0.2
+Wed Apr 19 20:10:31 2023: udhcpc: lease of 10.0.0.2 obtained, lease time 86400
+Wed Apr 19 20:10:31 2023: /etc/udhcpc.d/50default: Adding DNS 192.168.0.250
+Wed Apr 19 20:10:31 2023: done.
+Wed Apr 19 20:10:32 2023: Starting haveged: haveged: listening socket at 3
+Wed Apr 19 20:10:32 2023: haveged: haveged starting up
+Wed Apr 19 20:10:32 2023: 
+Wed Apr 19 20:10:32 2023: 
+Wed Apr 19 20:10:32 2023: Starting Dropbear SSH server: dropbear.
+Wed Apr 19 20:10:32 2023: hwclock: can't open '/dev/misc/rtc': No such file or directory
+Wed Apr 19 20:10:32 2023: Starting internet superserver: inetd.
+Wed Apr 19 20:10:32 2023: Starting syslogd/klogd: done
+Wed Apr 19 20:10:32 2023: socket : Success
+Wed Apr 19 20:10:57 2023: find: ./log: No such file or directory
+Wed Apr 19 20:10:57 2023: cp: can't create './log/2023-04-19.log': No such file or directory
+Wed Apr 19 20:10:59 2023: chmod: /var/www/html/admin/bgrun_start.sh: No such file or directory
+Wed Apr 19 20:10:59 2023: /etc/rc5.d/S99bgserver.sh: line 31: /var/www/html/admin/bgrun_start.sh: No such file or directory

@@ -1,0 +1,128 @@
+
+	mkdir -p "/run/lock";
+	chown root:root /run/lock || echo "Failed to set owner -root- for -/run/lock-." >/dev/tty0 2>&1;
+	chmod 1777 /run/lock || echo "Failed to set mode -1777- for -/run/lock-." >/dev/tty0 2>&1 
+
+	mkdir -p "/var/volatile/log";
+	chown root:root /var/volatile/log || echo "Failed to set owner -root- for -/var/volatile/log-." >/dev/tty0 2>&1;
+	chmod 0755 /var/volatile/log || echo "Failed to set mode -0755- for -/var/volatile/log-." >/dev/tty0 2>&1 
+
+	mkdir -p "/var/volatile/tmp";
+	chown root:root /var/volatile/tmp || echo "Failed to set owner -root- for -/var/volatile/tmp-." >/dev/tty0 2>&1;
+	chmod 1777 /var/volatile/tmp || echo "Failed to set mode -1777- for -/var/volatile/tmp-." >/dev/tty0 2>&1 
+	
+	if [ -L "/var/lock" ]; then
+		[ "$(readlink -f "/var/lock")" != "/run/lock" ] && { rm -f "/var/lock"; ln -sf "/run/lock" "/var/lock"; };
+	elif [ -d "/var/lock" ]; then
+		if awk '$2 == "/var/lock" {exit 1}' /proc/mounts; then
+			cp -a /var/lock/* /run/lock 2>/dev/null;
+			cp -a /var/lock/.[!.]* /run/lock 2>/dev/null;
+			rm -rf "/var/lock";
+			ln -sf "/run/lock" "/var/lock";
+		fi
+	else
+		ln -sf "/run/lock" "/var/lock";
+	fi
+        
+	
+	if [ -L "/var/run" ]; then
+		[ "$(readlink -f "/var/run")" != "/run" ] && { rm -f "/var/run"; ln -sf "/run" "/var/run"; };
+	elif [ -d "/var/run" ]; then
+		if awk '$2 == "/var/run" {exit 1}' /proc/mounts; then
+			cp -a /var/run/* /run 2>/dev/null;
+			cp -a /var/run/.[!.]* /run 2>/dev/null;
+			rm -rf "/var/run";
+			ln -sf "/run" "/var/run";
+		fi
+	else
+		ln -sf "/run" "/var/run";
+	fi
+        
+	
+	if [ -L "/var/tmp" ]; then
+		[ "$(readlink -f "/var/tmp")" != "/var/volatile/tmp" ] && { rm -f "/var/tmp"; ln -sf "/var/volatile/tmp" "/var/tmp"; };
+	elif [ -d "/var/tmp" ]; then
+		if awk '$2 == "/var/tmp" {exit 1}' /proc/mounts; then
+			cp -a /var/tmp/* /var/volatile/tmp 2>/dev/null;
+			cp -a /var/tmp/.[!.]* /var/volatile/tmp 2>/dev/null;
+			rm -rf "/var/tmp";
+			ln -sf "/var/volatile/tmp" "/var/tmp";
+		fi
+	else
+		ln -sf "/var/volatile/tmp" "/var/tmp";
+	fi
+        
+	
+	if [ -L "/tmp" ]; then
+		[ "$(readlink -f "/tmp")" != "/var/tmp" ] && { rm -f "/tmp"; ln -sf "/var/tmp" "/tmp"; };
+	elif [ -d "/tmp" ]; then
+		if awk '$2 == "/tmp" {exit 1}' /proc/mounts; then
+			cp -a /tmp/* /var/tmp 2>/dev/null;
+			cp -a /tmp/.[!.]* /var/tmp 2>/dev/null;
+			rm -rf "/tmp";
+			ln -sf "/var/tmp" "/tmp";
+		fi
+	else
+		ln -sf "/var/tmp" "/tmp";
+	fi
+        
+
+	mkdir -p "/var/lock/subsys";
+	chown root:root /var/lock/subsys || echo "Failed to set owner -root- for -/var/lock/subsys-." >/dev/tty0 2>&1;
+	chmod 0755 /var/lock/subsys || echo "Failed to set mode -0755- for -/var/lock/subsys-." >/dev/tty0 2>&1 
+
+	
+		touch "/var/log/wtmp";
+		
+	chown root:root /var/log/wtmp || echo "Failed to set owner -root- for -/var/log/wtmp-." >/dev/tty0 2>&1;
+	chmod 0664 /var/log/wtmp || echo "Failed to set mode -0664- for -/var/log/wtmp-." >/dev/tty0 2>&1 
+	
+	if [ -L "/etc/resolv.conf" ]; then
+		[ "$(readlink -f "/etc/resolv.conf")" != "/var/run/resolv.conf" ] && { rm -f "/etc/resolv.conf"; ln -sf "/var/run/resolv.conf" "/etc/resolv.conf"; };
+	elif [ -d "/etc/resolv.conf" ]; then
+		if awk '$2 == "/etc/resolv.conf" {exit 1}' /proc/mounts; then
+			cp -a /etc/resolv.conf/* /var/run/resolv.conf 2>/dev/null;
+			cp -a /etc/resolv.conf/.[!.]* /var/run/resolv.conf 2>/dev/null;
+			rm -rf "/etc/resolv.conf";
+			ln -sf "/var/run/resolv.conf" "/etc/resolv.conf";
+		fi
+	else
+		ln -sf "/var/run/resolv.conf" "/etc/resolv.conf";
+	fi
+        
+
+	
+		touch "/var/run/utmp";
+		
+	chown root:root /var/run/utmp || echo "Failed to set owner -root- for -/var/run/utmp-." >/dev/tty0 2>&1;
+	chmod 0664 /var/run/utmp || echo "Failed to set mode -0664- for -/var/run/utmp-." >/dev/tty0 2>&1 
+
+	
+		touch "/var/run/resolv.conf";
+		
+	chown root:root /var/run/resolv.conf || echo "Failed to set owner -root- for -/var/run/resolv.conf-." >/dev/tty0 2>&1;
+	
+	if [ -L "/var/log" ]; then
+		[ "$(readlink -f "/var/log")" != "/var/volatile/log" ] && { rm -f "/var/log"; ln -sf "/var/volatile/log" "/var/log"; };
+	elif [ -d "/var/log" ]; then
+		if awk '$2 == "/var/log" {exit 1}' /proc/mounts; then
+			cp -a /var/log/* /var/volatile/log 2>/dev/null;
+			cp -a /var/log/.[!.]* /var/volatile/log 2>/dev/null;
+			rm -rf "/var/log";
+			ln -sf "/var/volatile/log" "/var/log";
+		fi
+	else
+		ln -sf "/var/volatile/log" "/var/log";
+	fi
+	chmod 0644 /var/run/resolv.conf || echo "Failed to set mode -0644- for -/var/run/resolv.conf-." >/dev/tty0 2>&1 
+        
+
+	
+		touch "/var/log/boot";
+		
+	chown root:root /var/log/boot || echo "Failed to set owner -root- for -/var/log/boot-." >/dev/tty0 2>&1;
+	chmod 0644 /var/log/boot || echo "Failed to set mode -0644- for -/var/log/boot-." >/dev/tty0 2>&1 
+
+	mkdir -p "/var/run/sepermit";
+	chown root:root /var/run/sepermit || echo "Failed to set owner -root- for -/var/run/sepermit-." >/dev/tty0 2>&1;
+	chmod 0755 /var/run/sepermit || echo "Failed to set mode -0755- for -/var/run/sepermit-." >/dev/tty0 2>&1 
