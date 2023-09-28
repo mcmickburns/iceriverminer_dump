@@ -1,7 +1,12 @@
 # iceriverminer_dump
+
 Dump of iceriver firmware files and filesystem 
 <br>
 Join the kaspa discord: https://discord.gg/kS3SK5F36R
+
+If you found this helpful donate to:
+`kaspa:qqzj7elguaa6d4p59ww9sh90za20y9qvh4wvllcnz2mspw04qrspz9jljsued`
+
 
 # Gernal info
 The startup service for the miner is found at: 
@@ -51,6 +56,50 @@ KS3M bg.bgz https://github.com/mcmickburns/iceriverminer_dump/blob/main/firmware
 <br>
 KS3M miner.bgz https://github.com/mcmickburns/iceriverminer_dump/blob/main/firmware/KS3M/PRE-MODELLOCK-2023-09-16/Recovery/order/reset/formal/0823_ks3mminer.bgz
 <br>
+## Converting KS3L to KS3M 
+ <b>WARNING ONLY USE IF YOU HAVE A 2 FAN PSU. </b>
+ <b>REPORTS ARE 3 FAN PSU's CAN'T HANDLE THE OC </b>
+The conversion is done by swapping the miner/bgserver/reset.conf that are used when the miner starts. 
+<br>
+The KS3M miner does a quick check to see what model the machine is set to. 
+<br>
+By default miner defaults to a KS3L. 
+<br>
+The reset.conf has a extra parameter:
+```
+[model]
+model=ks3m
+```
+Once it finds the model has been set to KS3M it then applies the overclocks. 
+
+
+Files to backup: 
+<br>
+reset.conf `/var/order/conf/reset.conf`
+<br>
+*bg.bgz `/var/update/*bg.bgz`
+<br>
+*miner.bgz `/var/update/*miner.bgz`
+
+The best method is to make a sub folder in in `/var/order/conf` and `/var/update` called orig.
+<br>
+Then move the original files on the miner into the orig folder. 
+
+Once done you can download and replace the miner/bg/reset.conf with the ones listed below: 
+<br>
+reset.conf: https://github.com/mcmickburns/iceriverminer_dump/blob/main/firmware/KS3M/PRE-MODELLOCK-2023-09-16/Recovery/order/conf/reset.conf
+<br>
+*bg.bgz: https://github.com/mcmickburns/iceriverminer_dump/blob/main/firmware/KS3M/PRE-MODELLOCK-2023-09-16/Recovery/order/reset/0808_ks3mbg.bgz
+<br>
+*miner.bgz: https://github.com/mcmickburns/iceriverminer_dump/blob/main/firmware/KS3M/PRE-MODELLOCK-2023-09-16/Recovery/order/reset/formal/0823_ks3mminer.bgz
+
+The .bgz files belong in `/var/update/` 
+Reset.conf belongs in `/var/order/conf/`
+
+Once the files have been replaced restart the miner.
+<br>
+You should see increased hashrate. 
+<br>Note there is also increased power draw to 14a/3400W. 
 
 
 # Access a iceriver asic yourself 
