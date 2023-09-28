@@ -25,6 +25,34 @@ https://github.com/mcmickburns/iceriverminer_dump/blob/main/OS/KS3L/var/volatile
 In the firmware folder is each version of the iceriver firmware for each model.
 There is a original verison plus the decrypted and extracted versions. 
 
+A version of the KS3M miner has been placed added too:
+<br>
+https://github.com/mcmickburns/iceriverminer_dump/tree/main/firmware/KS3M/PRE-MODELLOCK-2023-09-16
+
+# Changing miner versions 
+### DAMAGE TO HARDWARE WARNING. 
+To change the version of the miner you can change out the bgz files used in `/var/update`
+<br>
+You'll want to keep the original version around incase you want to switch back. 
+<br>
+Creating a sub folder in `/var/update` is recommended `bak` for example 
+<br>
+Then place the oringal .bgz files in the bak folder 
+<br>
+Next upload the version of the bg.bgz and miner.bgz you'd like to use. 
+The names don't matter as long as they end in bg.bgz and miner.bgz so the scripts pick them up. 
+Once uploaded restart the asic and the new miners will be used. 
+
+If you want to switch back you can replace the uploaded .bgz with the originals and reboot. 
+
+
+Example: 
+KS3M bg.bgz https://github.com/mcmickburns/iceriverminer_dump/blob/main/firmware/KS3M/PRE-MODELLOCK-2023-09-16/Recovery/order/reset/0808_ks3mbg.bgz
+<br>
+KS3M miner.bgz https://github.com/mcmickburns/iceriverminer_dump/blob/main/firmware/KS3M/PRE-MODELLOCK-2023-09-16/Recovery/order/reset/formal/0823_ks3mminer.bgz
+<br>
+
+
 # Access a iceriver asic yourself 
 ```
 Users on system bgchris168
