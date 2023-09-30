@@ -101,6 +101,9 @@ Once the files have been replaced restart the miner.
 You should see increased hashrate. 
 <br>Note there is also increased power draw to 14a/3400W. 
 
+# KS0 OC 
+see the KS0 OC [README.md](./firmware/KS0/OC/README.md)
+
 
 # Access a iceriver asic yourself 
 ```
