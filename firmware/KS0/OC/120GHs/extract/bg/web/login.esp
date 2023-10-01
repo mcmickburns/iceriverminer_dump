@@ -1,0 +1,54 @@
+<%
+
+long long tmp;
+struct timeval tv;
+
+gettimeofday(&tv, NULL);
+tmp = tv.tv_sec;
+
+char* timestampStr = (char*)malloc(sizeof(char) * 20) ;
+sprintf(timestampStr, "%lld" , tmp);
+ 
+%>
+
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<TITLE>登录界面</TITLE>
+		<script src="/js/jquery.min.js?v=<%= timestampStr %>"></script>
+		<script src="/js/bootstrap.min.js?v=<%= timestampStr %>"></script>
+		<script src="/js/bootbox.min.js?v=<%= timestampStr %>"></script>
+		<script src="/js/lan.js?v=<%= timestampStr; %>"></script>
+		<script src="/js/login.js?v=<%= timestampStr %>"></script>
+	
+     	<link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css?v=<%= timestampStr %>">
+		<link rel="stylesheet" type="text/css" href="/css/login.css?v=<%= timestampStr %>">
+		<link rel="shortcut icon" href="/favicon.ico" />
+	</head>
+
+<body>
+	<div class="bardiv hidden">
+		<div class="bar"><div class="bg"></div></div>
+	</div>
+	<div class="login_main">
+	
+		<div class="login_div">
+			<div class="top lan-trans">登录</div>
+			<div class="bottom">
+				<div>
+					<table>
+						<tr><td><span class="lan-trans">登录名</span></td><td><input name="user" type="text" value=""></td></tr>
+						<tr><td><span class="lan-trans">密码</span></td><td><input name="pwd" type="password" value=""></td></tr>
+					</table><br/>
+					<button class="loginBtn lan-trans" type="button" >登录</button>
+				</div>
+			</div>
+		</div>
+	
+	</div>
+</body>
+<script>
+
+</script>
+</html>
+

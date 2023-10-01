@@ -1,0 +1,65 @@
+@CHARSET "UTF-8";
+.machine_main{
+	width: 97.6%;
+    background-color: white;
+    margin:30px 20px 30px 20px;
+	padding: 20px;
+}
+.machine_main .machine_top,
+.machine_main .machine_bottom{
+	width: 100%;
+	border: 1px solid #e2e2e7;
+	font-size: 16px;
+	margin-bottom: 50px;
+}
+.machine_main .machine_top .top,
+.machine_main .machine_bottom .top{
+	background-color: #e2e2e7;
+	padding: 10px;
+}
+.machine_main .machine_top .bottom,
+.machine_main .machine_bottom .bottom{
+	padding: 10px;
+}
+.machine_main .machine_top .bottom table{
+	width: 100%;
+}
+.machine_main .machine_top .bottom table input{
+	width: 300px;
+	height: 30px;
+}
+.machine_main .machine_top .bottom table td{
+	padding:5px;
+}
+.machine_main .machine_top .bottom table .textright{
+	text-align: right;
+}
+.machine_main .machine_bottom .bottom .workmodecss{
+	width: 80px;
+    height: 30px;
+}
+.machine_main .machine_foot{
+	width: 100%;
+	font-size: 16px;
+	margin-bottom: 50px;
+	text-align: right;
+}
+.machine_main .machine_foot .machine_save{
+	background-color: #337ab7;
+    color: white;
+    border-color: #337ab7;
+    border-radius: 5px 5px 5px 5px;
+    height: 40px;
+    font-size: 16px;
+    /* width: 500px; */
+}
+
+
+
+
+
+
+
+
+
+
