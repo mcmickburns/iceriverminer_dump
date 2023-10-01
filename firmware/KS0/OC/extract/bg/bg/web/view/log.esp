@@ -1,0 +1,20 @@
+<?php include '../../fpga/en.php';  ?>
+
+<div class="log_main">
+	<div id="tab">  
+        <div id="tab-header">  
+            <ul>  
+				<li class="selected lan-trans" data-dom="0">当前日志</li>
+				<li class="lan-trans" data-dom="1">历史日志</li>
+            </ul>  
+        </div>  
+        <div id="tab-content">  
+        	<div class="dom" style="display: block;">
+				<label class="nowlog"></label>
+        	</div>
+        	<div class="dom" style="display: none;">
+        		<label class="historylog"></label>
+        	</div>
+        </div> 
+    </div>
+</div>

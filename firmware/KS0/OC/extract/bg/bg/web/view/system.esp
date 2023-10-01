@@ -1,0 +1,25 @@
+ 
+<div class="system_main">
+<h3 class="title lan-trans">修改密码</h3>
+<div class="content">
+	<form id="form1">
+	<table>
+		<tr>
+			<td class="textright lan-trans">当前密码</td>
+			<td><input name="nowpwd" type="password" value=""></td>
+		</tr>
+		<tr>
+			<td class="textright lan-trans">新密码</td>
+			<td><input name="newpwd" type="password" value=""></td>
+		</tr>
+		<tr>
+			<td class="textright lan-trans">确认密码</td>
+			<td><input name="compwd" type="password" value=""></td>
+		</tr>
+	</table>
+	</form>
+</div>
+<div class="foot">
+	<button class="system_save lan-trans" type="button" >保存</button>
+</div>
+</div>
