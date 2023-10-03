@@ -1,0 +1,83 @@
+@CHARSET "UTF-8";
+.fir_main{
+	width: 97.6%;
+    background-color: white;
+    margin:30px 20px 30px 20px;
+	padding: 20px;
+}
+.fir_main .title{
+	text-align: center;
+	margin-bottom:30px;
+}
+.fir_main .content{
+	border: 1px solid #e2e2e7;
+	margin-bottom:30px;
+	text-align: center;
+}
+.fir_main .content table{
+	width: 100%;
+	color: #a0a0a0;
+}
+.fir_main .content table td{
+	padding:10px;
+}
+.fir_main .content table .textright{
+	text-align: right;
+	width: 30%;
+}
+.fir_main .content table td .keepconfig{
+	width: 15px;
+    height: 15px;
+	position: relative;
+    top: 2px;
+}
+
+.fir_main .content .filecss{
+    position: relative;
+	cursor: pointer;
+	margin-bottom: 0px;
+	color:black;
+	font-size: 14px;
+    font-weight: unset;
+	cursor: pointer;
+	width: 90px;
+    height: 29px;
+}
+.fir_main .content #fileinp{
+    position: absolute;
+    left: 0;
+    top: 0;
+    opacity: 0;
+	width: 90px;
+    height: 29px;
+}
+.fir_main .content #filebtn{
+    margin-right: 5px;
+	padding: 5px 10px;
+    background: #00b0f0;
+    color: #FFF;
+    border: none;
+    border-radius: 5px;
+	width: 100%;
+}
+.fir_main .content #filetext{
+    color: black;
+	width: 550px;
+    height: 30px;
+}
+
+.fir_main .foot{
+	width: 100%;
+	font-size: 16px;
+	margin-bottom: 50px;
+	text-align: right;
+}
+.fir_main .foot .fir_save{
+	background-color: #337ab7;
+    color: white;
+    border-color: #337ab7;
+    border-radius: 5px 5px 5px 5px;
+    height: 40px;
+    font-size: 16px;
+    /* width: 500px; */
+}
